@@ -1,0 +1,2411 @@
+beer_id,name,style,abv,brewery_id
+0,Pub Beer,American Pale Lager,0.05,408
+1,Devil's Cup,American Pale Ale (APA),0.066,177
+2,Rise of the Phoenix,American IPA,0.071,177
+3,Sinister,American Double / Imperial IPA,0.09,177
+4,Sex and Candy,American IPA,0.075,177
+5,Black Exodus,Oatmeal Stout,0.077,177
+6,Lake Street Express,American Pale Ale (APA),0.045,177
+7,Foreman,American Porter,0.065,177
+8,Jade,American Pale Ale (APA),0.055,177
+9,Cone Crusher,American Double / Imperial IPA,0.086,177
+10,Sophomoric Saison,Saison / Farmhouse Ale,0.07200000000000001,177
+11,Regional Ring Of Fire,Saison / Farmhouse Ale,0.073,177
+12,Garce Selé,Saison / Farmhouse Ale,0.069,177
+13,Troll Destroyer,Belgian IPA,0.085,177
+14,Bitter Bitch,American Pale Ale (APA),0.061,177
+15,Ginja Ninja,Cider,0.06,154
+16,Cherried Away,Cider,0.06,154
+17,Rhubarbarian,Cider,0.06,154
+18,BrightCider,Cider,0.06,154
+19,He Said Baltic-Style Porter,Baltic Porter,0.08199999999999999,368
+20,He Said Belgian-Style Tripel,Tripel,0.08199999999999999,368
+21,Lower De Boom,American Barleywine,0.099,368
+22,Fireside Chat,Winter Warmer,0.079,368
+23,Marooned On Hog Island,American Stout,0.079,368
+24,Bitter American,American Pale Ale (APA),0.044,368
+25,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,0.049,368
+26,Hell or High Watermelon Wheat (2009),Fruit / Vegetable Beer,0.049,368
+27,21st Amendment Watermelon Wheat Beer (2006),Fruit / Vegetable Beer,0.049,368
+28,21st Amendment IPA (2006),American IPA,0.07,368
+29,Brew Free! or Die IPA (2008),American IPA,0.07,368
+30,Brew Free! or Die IPA (2009),American IPA,0.07,368
+31,Special Edition: Allies Win The War!,English Strong Ale,0.085,368
+32,Hop Crisis,American Double / Imperial IPA,0.097,368
+33,Bitter American (2011),American Pale Ale (APA),0.044,368
+34,Fireside Chat (2010),Winter Warmer,0.079,368
+35,Back in Black,American Black Ale,0.068,368
+36,Monk's Blood,Belgian Dark Ale,0.083,368
+37,Brew Free! or Die IPA,American IPA,0.07,368
+38,Hell or High Watermelon Wheat,Fruit / Vegetable Beer,0.049,368
+39,Bimini Twist,American IPA,0.07,67
+40,Beach Blonde,American Blonde Ale,0.05,67
+41,Rod Bender Red,American Amber / Red Ale,0.059,67
+42,Passion Fruit Prussia,Berliner Weissbier,0.035,60
+43,Send Help,American Blonde Ale,0.045,60
+44,Cast Iron Oatmeal Brown,American Brown Ale,0.055,60
+45,Reprise Centennial Red,American Amber / Red Ale,0.06,60
+46,Alter Ego,American Black Ale,0.055,60
+47,Divided Sky,American IPA,0.065,60
+48,Resurrected,American IPA,0.065,60
+49,Contact High,American Pale Wheat Ale,0.05,60
+50,Galaxyfest,American IPA,0.065,27
+51,Citrafest,American IPA,0.05,27
+52,Barn Yeti,Belgian Strong Dark Ale,0.09,27
+53,Scarecrow,American IPA,0.069,27
+54,Ironman,English Strong Ale,0.09,27
+55,Honey Kolsch,Kölsch,0.046,27
+56,Copperhead Amber,Belgian Dark Ale,0.052000000000000005,27
+57,Rude Parrot IPA,American IPA,0.059,481
+58,British Pale Ale (2010),English Pale Ale,0.054000000000000006,481
+59,British Pale Ale,English Pale Ale,0.054000000000000006,481
+60,Ballz Deep Double IPA,American Double / Imperial IPA,0.084,481
+61,Wolfman's Berliner,Berliner Weissbier,0.038,373
+62,Colorado Native,American Amber / Red Lager,0.055,462
+63,Colorado Native (2011),American Amber / Red Lager,0.055,462
+64,Jockamo IPA,American IPA,0.065,533
+65,Purple Haze,Fruit / Vegetable Beer,0.042,533
+66,Abita Amber,American Amber / Red Lager,0.045,533
+67,Citra Ass Down,American IPA,0.08199999999999999,62
+68,The Brown Note,American Brown Ale,0.05,62
+69,Citra Ass Down,American Double / Imperial IPA,0.08,1
+70,London Balling,English Barleywine,0.125,1
+71,35 K,Milk / Sweet Stout,0.077,1
+72,A Beer,American Pale Ale (APA),0.042,1
+73,Rules are Rules,German Pilsener,0.05,1
+74,Flesh Gourd'n,Pumpkin Ale,0.066,1
+75,Sho'nuff,Belgian Pale Ale,0.04,1
+76,Bloody Show,American Pilsner,0.055,1
+77,Rico Sauvin,American Double / Imperial IPA,0.076,1
+78,Coq de la Marche,Saison / Farmhouse Ale,0.051,1
+79,Kamen Knuddeln,American Wild Ale,0.065,1
+80,Pile of Face,American IPA,0.06,1
+81,The Brown Note,English Brown Ale,0.05,1
+82,Maylani's Coconut Stout,American Stout,0.053,367
+83,Oatmeal PSA,American Pale Ale (APA),0.05,367
+84,Pre Flight Pilsner,American Pilsner,0.052000000000000005,367
+85,P-Town Pilsner,American Pilsner,0.04,117
+86,Klickitat Pale Ale,American Pale Ale (APA),0.053,117
+87,Yellow Wolf Imperial IPA,American Double / Imperial IPA,0.08199999999999999,117
+88,Freeride APA,American Pale Ale (APA),0.053,270
+89,Alaskan Amber,Altbier,0.053,270
+90,Hopalicious,American Pale Ale (APA),0.057,73
+91,Kentucky Kölsch,Kölsch,0.043,388
+92,Kentucky IPA,American IPA,0.065,388
+93,Dusty Trail Pale Ale,American Pale Ale (APA),0.054000000000000006,401
+94,Damnesia,American IPA,0.062,401
+95,Desolation IPA,American IPA,0.062,401
+96,Liberty Ale,American IPA,0.059,35
+97,IPA,American IPA,0.065,35
+98,Summer Wheat,American Pale Wheat Ale,0.045,35
+99,California Lager,American Amber / Red Lager,0.049,35
+100,Brotherhood Steam,California Common / Steam Beer,0.056,35
+101,Blood Orange Gose,Gose,0.042,171
+102,Keebarlin' Pale Ale,American Pale Ale (APA),0.042,171
+103,"the Kimmie, the Yink and the Holy Gose",Gose,0.048,171
+104,Fall Hornin',Pumpkin Ale,0.06,171
+105,Barney Flats Oatmeal Stout,Oatmeal Stout,0.057,171
+106,Summer Solstice,Cream Ale,0.056,171
+107,Hop Ottin' IPA,American IPA,0.07,171
+108,Boont Amber Ale,American Amber / Red Ale,0.058,171
+109,Barney Flats Oatmeal Stout,Oatmeal Stout,0.057,171
+110,El Steinber Dark Lager,Vienna Lager,0.055,171
+111,Boont Amber Ale (2010),American Amber / Red Ale,0.058,171
+112,Summer Solstice Cerveza Crema (2009),Cream Ale,0.056,171
+113,Barney Flats Oatmeal Stout (2012),Oatmeal Stout,0.057,171
+114,Winter Solstice,Winter Warmer,0.069,171
+115,Hop Ottin' IPA (2011),American IPA,0.07,171
+116,Boont Amber Ale (2011),American Amber / Red Ale,0.058,171
+117,Summer Solstice (2011),Cream Ale,0.056,171
+118,Poleeko Gold Pale Ale (2009),American Pale Ale (APA),0.055,171
+119,Charlie's Rye IPA,American IPA,0.06,146
+120,River Pig Pale Ale,American Pale Ale (APA),0.054000000000000006,542
+121,Oaky's Oatmeal Stout,Oatmeal Stout,0.047,542
+122,Angry Orchard Apple Ginger,Cider,0.05,434
+123,Angry Orchard Crisp Apple,Cider,0.05,434
+124,Angry Orchard Crisp Apple,Cider,0.05,434
+125,Golden One,Belgian Pale Ale,0.068,193
+126,Arjuna,Witbier,0.06,193
+127,Uroboros,American Stout,0.085,193
+128,Long Leaf,American IPA,0.071,69
+129,Honey Badger Blonde,American Blonde Ale,0.047,69
+130,Porter (a/k/a Black Gold Porter),American Porter,0.06,69
+131,Sky High Rye,American Pale Ale (APA),0.06,541
+132,Whitsun,American Pale Wheat Ale,0.062,541
+133,On-On Ale (2008),American Pale Ale (APA),0.052000000000000005,513
+134,Quakertown Stout,American Double / Imperial Stout,0.092,426
+135,Greenbelt Farmhouse Ale,Saison / Farmhouse Ale,0.051,426
+136,Mo's Gose,Gose,0.052000000000000005,461
+137,Green Bullet Organic India Pale Ale,American IPA,0.07,429
+138,Rocket Girl,Kölsch,0.032,528
+139,Ninja Porter,American Porter,0.053,528
+140,Shiva IPA,American IPA,0.06,528
+141,Aslan Kölsch,Kölsch,0.048,353
+142,Aslan IPA,American IPA,0.077,353
+143,Aslan Amber,American Amber / Red Ale,0.077,353
+144,This Season's Blonde,American Blonde Ale,0.056,523
+145,Independence Pass Ale,American IPA,0.07,523
+146,Trolley Stop Stout,American Stout,0.057,374
+147,Bitter Bitch Imperial IPA,American Double / Imperial IPA,0.08199999999999999,374
+148,Poop Deck Porter,American Porter,0.062,374
+149,Old Red Beard Amber Ale,American Amber / Red Ale,0.06,374
+150,Hop A-Peel,American Double / Imperial IPA,0.075,72
+151,Vanilla Java Porter,American Porter,0.055,72
+152,Michelada,Fruit / Vegetable Beer,0.052000000000000005,72
+153,Dirty Blonde Ale,American Blonde Ale,0.045,72
+154,Grand Circus IPA,American IPA,0.05,72
+155,Atwater's Lager,Munich Helles Lager,0.05,72
+156,Heavy Machinery IPA Series #1: Heavy Fist,American Black Ale,0.07,413
+157,Fire Eagle IPA,American IPA,0.062,413
+158,Peacemaker,American Pale Ale (APA),0.051,413
+159,Pearl-Snap,German Pilsener,0.053,413
+160,Black Thunder,Schwarzbier,0.052000000000000005,413
+161,Raja,American Double / Imperial IPA,0.08,37
+162,Perzik Saison,Saison / Farmhouse Ale,0.064,37
+163,Avery Joe’s Premium American Pilsner,German Pilsener,0.047,37
+164,White Rascal,Witbier,0.056,37
+165,Avery India Pale Ale,American IPA,0.063,37
+166,Ellie’s Brown Ale,American Brown Ale,0.055,37
+167,Pumpkin Beast,Pumpkin Ale,0.062,360
+168,OktoberBeast,Märzen / Oktoberfest,0.07200000000000001,360
+169,Mad Beach,American Pale Wheat Ale,0.048,360
+170,Hog Wild India Pale Ale,American IPA,0.067,360
+171,Devils Tramping Ground Tripel,Tripel,0.092,360
+172,Hot Rod Red,American Amber / Red Ale,0.061,360
+173,Palate Mallet,American Double / Imperial IPA,0.086,235
+174,Back East Porter,American Porter,0.06,235
+175,Back East Golden Ale,American Blonde Ale,0.049,235
+176,Misty Mountain IPA,American IPA,0.07,235
+177,Back East Ale,American Amber / Red Ale,0.05,235
+178,Truck Stop Honey Brown Ale,English Brown Ale,0.06,286
+179,Naked Pig Pale Ale,American Pale Ale (APA),0.06,286
+180,Topcutter India Pale Ale,American IPA,0.068,483
+181,Field 41 Pale Ale,American Pale Ale (APA),0.044,483
+182,Grapefruit Sculpin,American IPA,0.07,34
+183,Even Keel,American IPA,0.038,34
+184,Ballast Point Pale Ale,Kölsch,0.052000000000000005,34
+185,Big Eye India Pale Ale,American IPA,0.07,34
+186,Longfin Lager,Munich Helles Lager,0.046,34
+187,Sculpin IPA,American IPA,0.07,34
+188,All Nighter Ale,Extra Special / Strong Bitter (ESB),0.045,318
+189,Banner American Rye,Rye Beer,0.045,318
+190,Banner American Ale,American Amber / Red Ale,0.035,318
+191,Thai.p.a,American IPA,0.07,20
+192,Barrio Blanco,American IPA,0.06,251
+193,Barrio Tucson Blonde,American Blonde Ale,0.045,251
+194,Hop in the ‘Pool Helles,American Pilsner,0.049,116
+195,Ultra Gnar Gnar IPA,American IPA,0.067,116
+196,In-Tents India Pale Lager,American Pale Lager,0.068,116
+197,Lost Meridian Wit,Witbier,0.05,116
+198,Celestial Meridian Cascadian Dark Lager,Euro Dark Lager,0.051,116
+199,Wagon Party,California Common / Steam Beer,0.054000000000000006,258
+200,Sky-Five,American IPA,0.067,258
+201,Stargrazer,Schwarzbier,0.05,258
+202,Wonderstuff,German Pilsener,0.054000000000000006,258
+203,Tarnation California-Style Lager,California Common / Steam Beer,0.053,292
+204,On the Count of 3 (2015),Hefeweizen,0.07,292
+205,Summer Swelter,American Pale Wheat Ale,0.047,292
+206,Phantom Punch Winter Stout,Foreign / Export Stout,0.068,292
+207,Hayride Autumn Ale,Rye Beer,0.066,292
+208,Celsius Summer Ale (2012),American Pale Wheat Ale,0.047,292
+209,Amber Road,American Amber / Red Ale,0.055,292
+210,Pamola Xtra Pale Ale,American Pale Ale (APA),0.049,292
+211,Stowaway IPA,American IPA,0.069,292
+212,Hoptopus Double IPA,American Double / Imperial IPA,0.08800000000000001,306
+213,Watermelon Ale,Fruit / Vegetable Beer,0.05,103
+214,Fenway American Pale Ale,American Pale Ale (APA),0.058,103
+215,Back Bay IPA,American IPA,0.068,103
+216,Bunker Hill Blueberry Ale ,Other,0.048,103
+217,Oberon,American Pale Wheat Ale,0.058,76
+218,Smitten,Rye Beer,0.06,76
+219,Winter White,Witbier,0.05,76
+220,Oberon,American Pale Wheat Ale,0.058,76
+221,Two Hearted,American IPA,0.07,76
+222,Best Brown,American Brown Ale,0.058,76
+223,Moar,English India Pale Ale (IPA),0.044,53
+224,Uber Lupin Schwarz IPA,American Double / Imperial IPA,0.083,53
+225,Nordic Blonde,American Blonde Ale,0.057,53
+226,Cold Press,American Black Ale,0.06,75
+227,Harness the Winter,American IPA,0.07200000000000001,75
+228,14° ESB ,Extra Special / Strong Bitter (ESB),0.056,75
+229,Bent Hop Golden IPA,American IPA,0.062,75
+230,Bent Paddle Black Ale,American Black Ale,0.06,75
+231,Venture Pils,German Pilsener,0.05,75
+232,Lost Sailor IPA,English India Pale Ale (IPA),0.055,278
+233,Steel Rail Extra Pale Ale,American Pale Ale (APA),0.053,278
+234,La Frontera Premium IPA,American IPA,0.078,463
+235,Tejas Lager,Czech Pilsener,0.047,463
+236,Number 22 Porter,American Porter,0.064,463
+237,Big Bend Hefeweizen,Hefeweizen,0.056,463
+238,Terlingua Gold,American Blonde Ale,0.06,463
+239,Aprè Shred,American Strong Ale,0.081,220
+240,Hemlock Double IPA,American Double / Imperial IPA,0.095,220
+241,West Portal Colorado Common Summer Ale,California Common / Steam Beer,0.041,220
+242,Disconnected Red,American Amber / Red Ale,0.067,220
+243,Big Elm IPA,American IPA,0.07,477
+244,Gerry Dog Stout,American Stout,0.065,477
+245,413 Farmhouse Ale,Saison / Farmhouse Ale,0.06,477
+246,Dark Star,American Stout,0.08,8
+247,Ryecoe,American IPA,0.062,8
+248,Blueberry Blonde,Fruit / Vegetable Beer,0.06,40
+249,Galaxy IPA,American IPA,0.075,40
+250,Big River Pilsner,Czech Pilsener,0.05,519
+251,House Brand IPA,American IPA,0.06,519
+252,Big Sky IPA,American IPA,0.062,336
+253,Scape Goat Pale Ale,English Pale Ale,0.05,336
+254,Montana Trout Slayer Ale,American Pale Wheat Ale,0.05,336
+255,Moose Drool Brown Ale,American Brown Ale,0.051,336
+256,Powder Hound Winter Ale,English Strong Ale,0.07200000000000001,336
+257,Moose Drool Brown Ale (2011),American Brown Ale,0.051,336
+258,Montana Trout Slayer Ale (2012),American Pale Wheat Ale,0.05,336
+259,Big Sky IPA (2012),American IPA,0.062,336
+260,Summer Honey,American Blonde Ale,0.047,336
+261,Scape Goat Pale Ale (2010),English Pale Ale,0.05,336
+262,Montana Trout Slayer Ale (2009),American Pale Wheat Ale,0.05,336
+263,Moose Drool Brown Ale (2009),American Brown Ale,0.051,336
+264,Arcus IPA,American IPA,0.069,221
+265,Wavemaker,American Amber / Red Ale,0.058,221
+266,Jack Pine Savage,American Pale Ale (APA),0.053,444
+267,Forest Fire Imperial Smoked Rye,Rye Beer,0.099,444
+268,Bad Axe Imperial IPA,American Double / Imperial IPA,0.098,444
+269,Morning Wood,Oatmeal Stout,0.055,444
+270,Bark Bite IPA,American IPA,0.066,444
+271,Jalapeno Pale Ale,American Pale Ale (APA),0.055,70
+272,Blown Out Brown,American Brown Ale,0.052000000000000005,407
+273,Single Hop Ale,American Pale Ale (APA),0.063,407
+274,Sawtooth Ale,American Blonde Ale,0.054000000000000006,407
+275,Saucy Intruder,Rye Beer,0.07200000000000001,18
+276,Deception,American Blonde Ale,0.045,112
+277,Blackmarket Rye IPA,American IPA,0.075,112
+278,Black Market Hefeweizen,Hefeweizen,0.05,112
+279,Aftermath Pale Ale,American Pale Ale (APA),0.058,112
+280,American India Red Ale,American Strong Ale,0.071,294
+281,American Red Porter,American Porter,0.071,294
+282,American Red Saison,Saison / Farmhouse Ale,0.078,294
+283,Colorado Red Ale,American Amber / Red Ale,0.066,294
+284,Saddle Bronc Brown Ale,American Brown Ale,0.048,79
+285,Bomber Mountain Amber Ale,American Amber / Red Ale,0.046,79
+286,Flying Sailor,Rye Beer,0.073,95
+287,Nordskye ,American IPA,0.048,12
+288,North Third Stout,Foreign / Export Stout,0.06,12
+289,Honey Lav,American Pale Wheat Ale,0.052000000000000005,12
+290,Coconut Brown Ale,American Brown Ale,0.068,12
+291,51K IPA,American IPA,0.07,12
+292,Grand Rabbits,Cream Ale,0.055,12
+293,1800 Big Log Wheat (2012),American Pale Wheat Ale,0.05,380
+294,Double Play Pilsner,American Pilsner,,380
+295,Brewerhood Brown Ale,American Brown Ale,0.055,380
+296,Last Call Imperial Amber Ale,American Amber / Red Ale,0.08,380
+297,Pernicious Double IPA,American Double / Imperial IPA,0.096,380
+298,6-4-3 Double Play Pilsner,German Pilsener,0.052000000000000005,380
+299,N Street Drive-In 50th Anniversary IPA,American Double / Imperial IPA,,380
+300,467 Ethan's Stout,American Stout,0.05,380
+301,1335 Wicked Snout,Saison / Farmhouse Ale,0.064,380
+302,543 Skull Creek Fresh Hopped Pale Ale,American Pale Ale (APA),0.045,380
+303,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056,380
+304,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056,380
+305,1327 Pod's ESB,Extra Special / Strong Bitter (ESB),0.056,380
+306,834 Happy As Ale,American Pale Ale (APA),0.046,380
+307,Yellow Collar,Mead,0.059,422
+308,Green Collar,Mead,0.059,422
+309,Quarter Mile Double IPA,American Double / Imperial IPA,0.08,304
+310,Full Nelson Pale Ale,American Pale Ale (APA),0.059,382
+311,Steel Wheels ESB,Extra Special / Strong Bitter (ESB),0.065,382
+312,Blue Mountain Classic Lager,Euro Pale Lager,0.053,382
+313,Full Nelson Pale Ale (2010),American Pale Ale (APA),0.059,382
+314,Kölsch 151,Kölsch,0.049,414
+315,Professor Black,American Stout,,77
+316,Little Boss,American Pale Wheat Ale,,77
+317,Van Dayum!,American Amber / Red Ale,,77
+318,Spirit Animal,American Pale Ale (APA),,77
+319,Toxic Sludge,American Black Ale,0.07,489
+320,Blue Point White IPA,American White IPA,0.06,489
+321,Blue Point Summer Ale,American Blonde Ale,0.044,489
+322,Toasted Lager,Vienna Lager,0.055,489
+323,Bohemian Export Lager,Dortmunder / Export Lager,0.06,364
+324,Altus Bohemes Altbier,Altbier,0.053,364
+325,Cherny Bock,Schwarzbier,0.04,364
+326,Czech Pilsner,Czech Pilsener,0.05,364
+327,Viennese Lager,Vienna Lager,0.05,364
+328,Mad Manatee IPA,American IPA,0.065,378
+329,Killer Whale Cream Ale,Cream Ale,0.055,378
+330,Duke's Cold Nose Brown Ale,American Brown Ale,0.06,378
+331,Longhop IPA,American IPA,0.042,281
+332,Lucky Buck,Irish Dry Stout,0.04,281
+333,Bomb Lager (New Recipe),Munich Helles Lager,0.051,525
+334,Bomb Lager (Old Recipe),Munich Helles Lager,0.045,525
+335,Firestarter India Pale Ale,American IPA,0.066,107
+336,Kilt Dropper Scotch Ale,Scotch Ale / Wee Heavy,0.075,107
+337,Wood Splitter Pilsner,Czech Pilsener,0.048,107
+338,Gyptoberfest,Märzen / Oktoberfest,0.056,107
+339,Farmer Wirtz India Pale Ale,English India Pale Ale (IPA),0.07,107
+340,Slow & Steady Golden Ale,American Blonde Ale,0.047,107
+341,Pink-I Raspberry IPA,American IPA,0.068,107
+342,Moe's Original Bar B Que 'Bama Brew Golden Ale,American Blonde Ale,0.047,107
+343,Live Local Golden Ale,American Blonde Ale,0.047,107
+344,Screaming Eagle Special Ale ESB,Extra Special / Strong Bitter (ESB),0.048,107
+345,Dirtbag Dunkel,Munich Dunkel Lager,0.049,107
+346,Kindler Pale Ale,American Pale Ale (APA),0.053,107
+347,Mistress Winter Wheat,Winter Warmer,0.064,107
+348,Tent Pole Vanilla Porter,American Porter,0.061,107
+349,Awry Rye Pale Ale,American Pale Ale (APA),0.058,107
+350,Demshitz Brown Ale,American Brown Ale,0.058,107
+351,Wood Splitter Pilsner (2012),Czech Pilsener,0.048,107
+352,Brush Creek Blonde,American Blonde Ale,0.048,107
+353,Firestarter India Pale Ale,American IPA,0.066,107
+354,Noche Dulce,American Porter,0.071,231
+355,Porch Rocker,Radler,0.045,300
+356,Rebel IPA,American IPA,0.065,300
+357,Cold Snap,Witbier,0.055,300
+358,Samuel Adams Winter Lager,Bock,0.056,300
+359,Boston Lager,Vienna Lager,0.049,300
+360,Boston Lager,Vienna Lager,0.049,300
+361,Samuel Adams Octoberfest,Märzen / Oktoberfest,0.053,300
+362,Samuel Adams Summer Ale,American Pale Wheat Ale,0.053,300
+363,Boston Lager,Vienna Lager,0.049,300
+364,Hazed & Infused,American Pale Ale (APA),0.049,417
+365,Hoopla Pale Ale,American Pale Ale (APA),0.057,417
+366,Hazed & Infused (2010),American Pale Ale (APA),0.049,417
+367,Heavy Lifting,American IPA,0.062,31
+368,1492,American Pale Ale (APA),0.065,167
+369,Mango Ginger,American IPA,0.058,167
+370,Passenger,English Dark Mild Ale,0.047,167
+371,Plum St. Porter,American Porter,0.06,219
+372,Plum St. Porter,American Porter,0.057,219
+373,Bozone HopZone IPA,American IPA,0.07,219
+374,Bozone Hefe Weizen,Hefeweizen,0.06,219
+375,Bozone Select Amber Ale,American Amber / Red Ale,0.055,219
+376,Evil Owl,American Amber / Red Ale,0.052000000000000005,207
+377,Post Time Kölsch,Kölsch,0.05,195
+378,Agave Wheat,American Pale Wheat Ale,0.042,391
+379,SummerBright Ale,American Pale Wheat Ale,0.045,391
+380,Lucky U IPA,American IPA,0.062,391
+381,Avalanche Ale,American Amber / Red Ale,0.054000000000000006,391
+382,"You're My Boy, Blue",Fruit / Vegetable Beer,0.05,308
+383,Last Stop IPA,American IPA,0.07200000000000001,308
+384,Rollin Dirty Red Ale,Irish Red Ale,0.05,308
+385,Are Wheat There Yet?,American Pale Wheat Ale,0.055,308
+386,Insert Hop Reference,American Pale Ale (APA),0.058,19
+387,Manitou Amber,American Amber / Red Ale,0.053,85
+388,Belfort,Saison / Farmhouse Ale,0.067,10
+389,Star Runner,Belgian Pale Ale,0.06,10
+390,Tart Side of the Barrel,American Double / Imperial Stout,0.098,10
+391,Linnaeus Mango IPA,American IPA,0.06,10
+392,Beasts A'Burnin',Rauchbier,0.07,10
+393,Verdun,Bière de Garde,0.077,10
+394,Barrel Aged Triomphe,Belgian IPA,0.065,10
+395,Cherry Doppelbock,Doppelbock,0.065,10
+396,Tropical Saison,Saison / Farmhouse Ale,0.065,10
+397,Beach Patrol,Witbier,0.065,10
+398,Nuit Serpent,Belgian IPA,0.05,10
+399,Paris,Saison / Farmhouse Ale,0.09,10
+400,The Grand Army,Belgian IPA,0.055,10
+401,Acidulated Trip,Saison / Farmhouse Ale,0.059,10
+402,Root Stock,Rye Beer,0.066,10
+403,Mind Games,Dunkelweizen,0.041,10
+404,Sous Chef,Belgian Strong Pale Ale,0.08199999999999999,10
+405,Dubbelicious,Dubbel,0.065,10
+406,Psychopomp,Belgian Dark Ale,0.062,10
+407,Fat Paczki,Belgian Dark Ale,,10
+408,Earth-Like Planets,Belgian Pale Ale,,10
+409,Ski Patrol,Witbier,0.061,10
+410,Viking Ice Hole,Oatmeal Stout,0.063,10
+411,Rye Porter,American Porter,0.056,10
+412,Wizard Burial Ground,Quadrupel (Quad),0.099,10
+413,Smoky Wheat,Rauchbier,0.051,10
+414,BRIPA,Belgian IPA,0.062,10
+415,Mela,Belgian Dark Ale,0.062,10
+416,W.I.P.A Snappa,Belgian IPA,0.053,10
+417,Pepper in the Rye,Rye Beer,0.063,10
+418,Moe Lasses',American Stout,0.064,10
+419,Pumpkin Tart,Fruit / Vegetable Beer,0.07,10
+420,Undertaker,Belgian Dark Ale,0.067,10
+421,Undertaker (2014),Belgian Dark Ale,0.067,10
+422,Coq D'Or,Belgian Pale Ale,0.05,10
+423,North French,Bière de Garde,0.06,10
+424,Agent a Deux,Belgian Dark Ale,0.065,10
+425,Belgian Wit,Witbier,0.045,10
+426,Pothole Stout,American Stout,0.063,10
+427,Tree Bucket,Belgian IPA,0.093,10
+428,Le Flaneur Ale,American Wild Ale,0.073,10
+429,Maize & Blueberry,Fruit / Vegetable Beer,0.056,10
+430,Trebuchet Double IPA,American Double / Imperial IPA,0.093,10
+431,Contemplation,Bière de Garde,0.065,10
+432,Black Rabbit,American Black Ale,0.05,10
+433,Zaison,Saison / Farmhouse Ale,0.09,10
+434,Vivant Tripel,Tripel,0.08199999999999999,10
+435,Tart Side of the Moon,Belgian Dark Ale,0.098,10
+436,Big Red Coq,American Amber / Red Ale,0.06,10
+437,Hubris Quadrupel Anniversary Ale,Quadrupel (Quad),0.099,10
+438,Plow Horse Belgian Style Imperial Stout,American Double / Imperial Stout,0.095,10
+439,Escoffier Bretta Ale,American Wild Ale,0.092,10
+440,Contemplation (2012),Bière de Garde,0.065,10
+441,Vivant Belgian Style Imperial Stout (2012),Russian Imperial Stout,0.099,10
+442,Big Red Coq (2012),American Amber / Red Ale,0.062,10
+443,Zaison (2012),Saison / Farmhouse Ale,0.09,10
+444,Vivant Tripel (2012),Tripel,0.092,10
+445,Trebuchet Double IPA (2012),Belgian IPA,0.097,10
+446,Kludde,Belgian Strong Dark Ale,0.085,10
+447,Farm Hand,Saison / Farmhouse Ale,0.055,10
+448,Solitude,Belgian Pale Ale,0.06,10
+449,Triomphe,Belgian IPA,0.065,10
+450,Tampa Pale Ale,American Pale Ale (APA),,467
+451,Orange Grove Wheat Ale,American Pale Wheat Ale,,467
+452,Broad Brook Ale,American Amber / Red Ale,0.061,89
+453,Northern Lights Amber Ale,American Amber / Red Ale,0.05,493
+454,Polar Pale Ale,American Pale Ale (APA),0.052000000000000005,493
+455,Chugach Session Ale,Cream Ale,0.048,493
+456,Fairweather IPA,American IPA,0.061,493
+457,East India Pale Ale,English India Pale Ale (IPA),0.068,437
+458,Brooklyn Summer Ale,English Pale Mild Ale,0.045,437
+459,East India Pale Ale,English India Pale Ale (IPA),0.068,437
+460,Brooklyn Summer Ale (2011),English Pale Mild Ale,0.045,437
+461,Brooklyn Lager (16 oz.),American Amber / Red Lager,0.052000000000000005,437
+462,Brooklyn Lager (12 oz.),American Amber / Red Lager,0.052000000000000005,437
+463,Tour de Nez Belgian IPA (Current),Belgian IPA,0.08,530
+464,Roler Bock (Current),Maibock / Helles Bock,,530
+465,Black Adder IBA (Current),American Black Ale,0.073,530
+466,Very Noddy Lager (Current),Schwarzbier,0.099,530
+467,Tule Duck Red Ale (Current),American Amber / Red Ale,0.062,530
+468,Original Orange Blossom Ale (Current),Herbed / Spiced Beer,0.058,530
+469,Black Noddy Lager (Current),Schwarzbier,0.052000000000000005,530
+470,Cleveland Beer Week 2013,Munich Helles Lager,0.053,357
+471,Painted Turtle,American Pale Ale (APA),0.045,56
+472,1836,American Blonde Ale,0.06,214
+473,Summer's Wit,Witbier,0.06,214
+474,More Cowbell,American Double / Imperial IPA,0.09,214
+475,Wrath of Pele,American Brown Ale,0.065,24
+476,Black Beer'd,American Black Ale,0.068,24
+477,Mr. Tea,Fruit / Vegetable Beer,0.078,24
+478,Pale Alement,American Pale Ale (APA),0.055,24
+479,Hopkick Dropkick,American Double / Imperial IPA,0.099,24
+480,Kreamed Corn,Cream Ale,0.06,24
+481,Coconoats,American Pale Wheat Ale,0.065,24
+482,Joey Wheat,American Pale Wheat Ale,0.068,24
+483,3:33 Black IPA,American IPA,0.07200000000000001,24
+484,MCA,American IPA,0.068,24
+485,Pale Alement,American Pale Ale (APA),0.055,24
+486,Couch Select Lager,American Pale Lager,0.05,197
+487,Mucho Aloha Hawaiian Pale Ale,American Pale Ale (APA),0.056,517
+488,Heinnieweisse Weissebier,Hefeweizen,0.049,556
+489,Snapperhead IPA,American IPA,0.068,556
+490,Moo Thunder Stout,Milk / Sweet Stout,0.049,556
+491,Porkslap Pale Ale,American Pale Ale (APA),0.043,556
+492,Blackbeard,American Double / Imperial Stout,0.093,5
+493,Rye Knot,American Brown Ale,0.062,5
+494,Dead Arm,American Pale Ale (APA),0.06,5
+495,32°/50° Kölsch ,Kölsch,0.048,5
+496,HopArt,American IPA,0.077,5
+497,Boy King,American Double / Imperial IPA,0.097,5
+498,Gran Sport,American Porter,0.052000000000000005,182
+499,Horny Toad Cerveza,American Blonde Ale,0.053,182
+500,Native Amber,American Amber / Red Ale,0.063,182
+501,F5 IPA,American IPA,0.068,182
+502,Native Amber (2013),American Amber / Red Ale,0.063,182
+503,Horny Toad Cerveza (2013),American Blonde Ale,0.053,182
+504,Hopportunity Knocks IPA,American IPA,0.068,155
+505,Pilot Rock Porter,American Porter,0.06,155
+506,Caldera Pale Ale,American Pale Ale (APA),0.056,155
+507,Lawnmower Lager,American Adjunct Lager,0.039,155
+508,Ashland Amber Ale (2009),American Amber / Red Ale,0.054000000000000006,155
+509,Caldera IPA (2009),American IPA,0.061,155
+510,Caldera IPA (2007),American IPA,0.061,155
+511,Caldera Pale Ale (2010),American Pale Ale (APA),0.056,155
+512,Caldera Pale Ale (2009),American Pale Ale (APA),0.056,155
+513,Caldera Pale Ale (2005),American Pale Ale (APA),0.056,155
+514,Caldera Pale Ale (2007),American Pale Ale (APA),0.056,155
+515,Caldera Pale Ale (2011),American Pale Ale (APA),0.056,155
+516,Ashland Amber Ale,American Amber / Red Ale,0.054000000000000006,155
+517,Caldera IPA,American IPA,0.061,155
+518,Remain in Light,American Pilsner,0.05,178
+519,Flower Child (2014),American IPA,0.065,178
+520,THP White (2006),Witbier,,497
+521,THP Amber (2006),American Amber / Red Ale,,497
+522,THP Light (2006),American Blonde Ale,,497
+523,THP Dark (2006),English Dark Mild Ale,,497
+524,Imperial Pumpkin Stout,Pumpkin Ale,0.099,230
+525,Dead-Eye DIPA,American Double / Imperial IPA,0.09,230
+526,Fisherman's IPA,American IPA,0.055,230
+527,Fisherman's Pils,German Pilsener,0.054000000000000006,230
+528,Fisherman's Brew,American Amber / Red Ale,0.055,230
+529,Cape Cod Red,American Amber / Red Ale,0.055,267
+530,Beach Blonde,American Blonde Ale,0.049,267
+531,Dark Voyage Black IPA (2013),American Black Ale,0.065,192
+532,Wisconsin Amber,Vienna Lager,0.052000000000000005,192
+533,Lake House,Munich Helles Lager,0.046,192
+534,Ghost Ship White IPA,American IPA,0.056,192
+535,Lake House,Munich Helles Lager,0.046,192
+536,Mutiny IPA,American IPA,0.062,192
+537,Wisconsin Amber (1998),Vienna Lager,0.052000000000000005,192
+538,Island Wheat,American Pale Wheat Ale,0.042,192
+539,Wisconsin Amber (2013),Vienna Lager,0.052000000000000005,192
+540,U.S. Pale Ale,American Pale Ale (APA),0.05,192
+541,Supper Club Lager,American Pale Lager,,192
+542,Carolina Lighthouse (2007),American Blonde Ale,0.04,504
+543,Carolina Blonde (2006),American Blonde Ale,0.05,504
+544,Carolina Blonde Light (2005),American Blonde Ale,0.035,504
+545,Santa's Secret,Winter Warmer,0.059,179
+546,Flagship IPA,English India Pale Ale (IPA),0.057,179
+547,Sky Blue Golden Ale,Kölsch,0.051,179
+548,Epitome,American Black Ale,0.099,222
+549,Monkey Chased the Weasel,Berliner Weissbier,0.039,222
+550,077XX,American Double / Imperial IPA,0.078,222
+551,Boat Beer,American IPA,0.042,222
+552,Granny Smith Hard Apple Cider,Cider,0.069,404
+553,Dry Hard Apple Cider,Cider,0.069,404
+554,Farmer Ted's Cream Ale,Cream Ale,0.056,331
+555,Firewater India Pale Ale,American IPA,0.052000000000000005,331
+556,White Zombie Ale,Witbier,0.047,331
+557,King Winterbolt Winter Ale,Winter Warmer,0.07,331
+558,White Zombie Ale,Witbier,0.047,331
+559,Firewater India Pale Ale,American IPA,0.052000000000000005,331
+560,Farmer Ted's Farmhouse Cream Ale,Cream Ale,0.056,331
+561,Whitecap Wit,Witbier,0.048,285
+562,Seiche Scottish Ale,Scottish Ale,0.078,285
+563,Peanut Butter Jelly Time,American Brown Ale,0.058,96
+564,King Coconut,American Porter,0.054000000000000006,96
+565,Gone A-Rye,American Double / Imperial IPA,0.085,29
+566,Special Release,,,29
+567,Dankosaurus,American IPA,0.068,29
+568,Scruffy's Smoked Alt,Smoked Beer,0.051,29
+569,Elliott's Phoned Home Pale Ale,American Pale Ale (APA),0.051,29
+570,The Lawn Ranger,Cream Ale,0.05,29
+571,All American Blonde Ale,American Blonde Ale,0.05,452
+572,All American Red Ale,American Amber / Red Ale,0.05,452
+573,Main St. Virginia Ale,Altbier,0.05,122
+574,Chin Music Amber Lager,American Amber / Red Lager,0.045,122
+575,Main St. Virginia Ale,Altbier,0.05,122
+576,Ray Ray’s Pale Ale,American Pale Ale (APA),0.052000000000000005,122
+577,Chai Ale,Herbed / Spiced Beer,0.051,350
+578,Lucky Day IPA,American IPA,0.07200000000000001,350
+579,Terrace Hill Double IPA,American Double / Imperial IPA,0.095,350
+580,Catch 23,American Black Ale,0.075,350
+581,Stickin' In My Rye,Rye Beer,0.07,236
+582,Black Me Stout,American Stout,0.06,236
+583,Killer Kolsch,Kölsch,0.05,236
+584,Missile IPA,American IPA,0.07,236
+585,Enlighten,Kölsch,0.045,250
+586,Ale Cider,Fruit / Vegetable Beer,0.065,250
+587,Pail Ale,American Pale Ale (APA),0.055,250
+588,Englishman,English Brown Ale,0.045,250
+589,8 Barrel,American Strong Ale,0.08,226
+590,Oktoberfest,Märzen / Oktoberfest,0.055,226
+591,IPA #11,American IPA,0.057,121
+592,Blood Orange Honey,Fruit / Vegetable Beer,0.057,121
+593,Lighthouse Amber,Altbier,0.052000000000000005,121
+594,Bay of Bengal Double IPA (2014),American Double / Imperial IPA,0.08900000000000001,99
+595,Churchkey Pilsner Style Beer,American Pilsner,0.049,526
+596,First Press,Cider,0.05,425
+597,Magic Apple,Cider,0.05,425
+598,Cubano Espresso,Bock,0.055,141
+599,Operation Homefront,American IPA,0.062,141
+600,Wandering Pelican,American Black Ale,0.08199999999999999,141
+601,Sugar Plum,American Brown Ale,0.055,141
+602,Oktoberfest,Märzen / Oktoberfest,0.055,141
+603,Puppy's Breath Porter,American Porter,0.06,141
+604,Happening Now,American IPA,0.045,141
+605,Hopped on the High Seas (Hop #529),American IPA,0.07,141
+606,Hopped on the High Seas (Calypso),American IPA,0.07,141
+607,Wiregrass Post-Prohibition Ale,American Pale Ale (APA),0.063,141
+608,Dry-Hopped On The High Seas Caribbean-Style IPA,American IPA,0.07,141
+609,Hopped on the High Seas (Citra),American IPA,0.07,141
+610,Hopped on the High Seas (Ahtanum),American IPA,0.07,141
+611,Gwar Beer,American Pale Ale (APA),0.055,141
+612,Tropical Heatwave,American Pale Wheat Ale,0.052000000000000005,141
+613,Humidor Series India Pale Ale,American IPA,0.075,141
+614,Jai Alai IPA Aged on White Oak,American IPA,0.075,141
+615,José Martí American Porter,American Porter,0.08,141
+616,Invasion Pale Ale,American Pale Ale (APA),0.05,141
+617,Maduro Brown Ale,English Brown Ale,0.055,141
+618,Maduro Brown Ale,American Brown Ale,0.055,141
+619,Hotter Than Helles Lager,Munich Helles Lager,0.05,141
+620,Tocobaga Red Ale,American Amber / Red Ale,0.07200000000000001,141
+621,Jai Alai IPA,American IPA,0.075,141
+622,Florida Cracker Belgian Wit,Witbier,0.05,141
+623,Shark Tracker Light lager,Light Lager,0.048,145
+624,Pumple Drumkin,Pumpkin Ale,0.06,145
+625,Grey Lady,Witbier,0.045,145
+626,Summer of Lager,Munich Helles Lager,0.062,145
+627,Indie Pale Ale,American IPA,0.065,145
+628,Sankaty Light Lager,Light Lager,0.038,145
+629,Whale's Tale Pale Ale,English Pale Ale,0.056,145
+630,Jacaranada Rye IPA,American IPA,0.067,320
+631,Cascadian Dark Ale,American Black Ale,0.06,418
+632,Wheat the People,American Pale Wheat Ale,0.044,418
+633,Tybee Island Blonde,American Blonde Ale,0.047,415
+634,Savannah Brown Ale,American Brown Ale,0.062,415
+635,Rhode Island Blueberry,Kölsch,0.046,101
+636,Newport Storm IPA,American IPA,0.065,101
+637,Hurricane Amber Ale (2004),American Amber / Red Ale,0.052000000000000005,101
+638,Hurricane Amber Ale,American Amber / Red Ale,0.052000000000000005,101
+639,Big Blue Van,Fruit / Vegetable Beer,0.058,232
+640,Des Moines IPA,American IPA,0.068,482
+641,Capital Gold Golden Lager,German Pilsener,0.048,482
+642,Farmer John's Multi-Grain Ale,American Blonde Ale,0.056,482
+643,Behemoth,American Pilsner,0.05,139
+644,Arkansas Red,American Amber / Red Ale,0.052000000000000005,139
+645,Core Oatmeal Stout,Oatmeal Stout,0.057,139
+646,Core ESB,Extra Special / Strong Bitter (ESB),0.061,139
+647,Chester's Beer (2005),American Pale Lager,0.038,512
+648,Heiner Brau Kölsch,Kölsch,0.05,553
+649,Trigger Blonde Ale,American Blonde Ale,0.048,515
+650,Crabtree Oatmeal Stout,Oatmeal Stout,0.075,515
+651,Eclipse Black IPA,American Black Ale,0.077,515
+652,Neomexicanus Native,American Pale Ale (APA),0.06,63
+653,Old Soul,Belgian Strong Pale Ale,0.075,63
+654,Snowcat Coffee Stout,American Stout,0.059,63
+655,WinterWonderGrass Festival Ale,American Amber / Red Ale,,63
+656,Boohai Red Ale,American Amber / Red Ale,,63
+657,Lava Lake Wit,Witbier,0.052000000000000005,63
+658,Mountain Livin' Pale Ale,American Pale Ale (APA),0.06,63
+659,Crazy Mountain Amber Ale,American Amber / Red Ale,0.052000000000000005,63
+660,Tropicalia,American IPA,0.065,247
+661,Athena,Berliner Weissbier,0.045,247
+662,Aviator Raspberry Blonde,American Blonde Ale,0.049,169
+663,3 Picket Porter,American Porter,0.055,169
+664,Rusty Nail Pale Ale,American Pale Ale (APA),0.056,169
+665,Red Water Irish Style Red,American Amber / Red Ale,0.065,212
+666,Mjöllnir,Herbed / Spiced Beer,0.066,212
+667,Bear Butte Nut Brown Ale,American Brown Ale,0.055,212
+668,Easy Livin' Summer Ale,American Blonde Ale,0.045,212
+669,Canyon Cream Ale,Cream Ale,0.055,212
+670,Pile O'Dirt Porter,American Porter,0.069,212
+671,11th Hour IPA,American IPA,0.06,212
+672,South Ridge Amber Ale,American Amber / Red Ale,0.06,472
+673,Summertime Ale,Kölsch,0.052000000000000005,472
+674,Lost River Blonde Ale,American Blonde Ale,0.049,315
+675,Monon Wheat,Witbier,0.054000000000000006,315
+676,Floyd's Folly,Scottish Ale,0.08,315
+677,Half Court IPA,American IPA,0.063,315
+678,Geary's Pale Ale,English Pale Ale,0.045,323
+679,Geary's Summer Ale,Kölsch,0.06,323
+680,Stone of Arbroath,Scotch Ale / Wee Heavy,0.08,227
+681,The Tradition,American Blonde Ale,0.05,227
+682,El Hefe Speaks,Hefeweizen,0.053,227
+683,Penn Quarter Porter,American Porter,0.055,227
+684,On the Wings of Armageddon,American Double / Imperial IPA,0.092,227
+685,The Corruption,American IPA,0.065,227
+686,The Citizen,Belgian Pale Ale,0.07,227
+687,The Public,American Pale Ale (APA),0.06,227
+688,Dank IPA,American IPA,0.065,451
+689,Dank IPA (2012),American IPA,0.065,451
+690,Lift Off IPA,American IPA,0.07200000000000001,358
+691,BrewFarm Select Golden Lager,American Pale Lager,0.055,554
+692,Sprocket Blonde Ale (2006),American Blonde Ale,0.05,333
+693,Sprocket Pale Ale (2006),American Pale Ale (APA),0.05,333
+694,Dead Armadillo Amber Ale,American Amber / Red Ale,0.063,330
+695,Neato Bandito,Euro Pale Lager,0.06,127
+696,Oak Cliff Coffee Ale,American Brown Ale,0.075,127
+697,Dream Crusher Double IPA,American Double / Imperial IPA,0.085,127
+698,Deep Ellum Pale Ale,American Pale Ale (APA),0.06,127
+699,Double Brown Stout,Baltic Porter,0.07,127
+700,Farmhouse Wit,Saison / Farmhouse Ale,0.048,127
+701,Rye Pils Session Lager,German Pilsener,0.046,127
+702,Dallas Blonde,American Blonde Ale,0.052000000000000005,127
+703,Deep Ellum IPA,American IPA,0.07,127
+704,Thrasher Session India Pale Ale,American IPA,0.045,283
+705,Gutch English Style Mild Ale,English Pale Mild Ale,0.05,283
+706,Chuli Stout,Irish Dry Stout,0.059,453
+707,Mother Ale,American Blonde Ale,0.056,453
+708,Twister Creek India Pale Ale,American IPA,0.065,453
+709,Single Engine Red,Irish Red Ale,0.058,453
+710,Incredible Pedal IPA,American IPA,0.07,263
+711,Graham Cracker Porter,American Porter,0.05,263
+712,Mirror Pond Pale Ale,American Pale Ale (APA),0.05,454
+713,Weissenheimer,Hefeweizen,0.052000000000000005,57
+714,Abbey's Single (2015- ),Abbey Single Ale,0.049,57
+715,Vertex IPA,American IPA,0.063,57
+716,Here Gose Nothin',Gose,0.05,57
+717,Strawberry Blonde,Fruit / Vegetable Beer,0.05,57
+718,Hoperation Overload,American Double / Imperial IPA,0.096,57
+719,Abbey's Single Ale (Current),Abbey Single Ale,0.049,57
+720,Bravo Four Point,American Pale Ale (APA),0.044,237
+721,Striped Bass Pale Ale,American Pale Ale (APA),0.052000000000000005,237
+722,Deadicated Amber,American Amber / Red Ale,0.054000000000000006,491
+723,Kaleidoscope Collaboration 2012,American Black Ale,,491
+724,California Sunshine Rye IPA,American IPA,0.071,491
+725,Full Boar Scotch Ale,Scotch Ale / Wee Heavy,0.07400000000000001,491
+726,12 Man Pale Ale,American Pale Ale (APA),0.045,319
+727,Filthy Hoppin' IPA,American IPA,0.065,311
+728,Dock Street Amber Beer (1992),American Amber / Red Ale,,488
+729,Dolores River Hefeweizen,Hefeweizen,,531
+730,Dolores River ESB,Extra Special / Strong Bitter (ESB),,531
+731,Snaggletooth Double Pale Ale,American Double / Imperial IPA,,531
+732,Dolores River Pale Ale,American Pale Ale (APA),,531
+733,Dolores River Dry Stout,Irish Dry Stout,,531
+734,Dolores River Mild,English Dark Mild Ale,,531
+735,Cranberry Blend,Cider,0.049,446
+736,Orignal Blend,Cider,0.051,446
+737,Hop Abomination,American IPA,0.066,496
+738,Apricot Blonde,Fruit / Vegetable Beer,0.051,496
+739,Dry Dock Hefeweizen,Hefeweizen,0.043,496
+740,Dry Dock Amber Ale,American Amber / Red Ale,0.058,496
+741,Category 3 IPA,American IPA,0.061,340
+742,Dundee Summer Wheat Beer,American Pale Wheat Ale,0.045,538
+743,Pumpkin Patch Ale,Pumpkin Ale,0.05,369
+744,Crank Yanker IPA,American IPA,0.078,369
+745,River Runners Pale Ale,American Pale Ale (APA),0.06,369
+746,Pumpkin Patch Ale (2012),Pumpkin Ale,0.05,369
+747,Mountain Fairy Raspberry Wheat,Fruit / Vegetable Beer,0.055,369
+748,Boater Beer,German Pilsener,0.045,369
+749,Crank Yanker IPA (2011),American IPA,0.078,369
+750,Bleeding Buckeye Red Ale,Extra Special / Strong Bitter (ESB),0.057,352
+751,Dottie Seattle Lager,American Amber / Red Lager,0.049,516
+752,Nut Sack Imperial Brown Ale,American Brown Ale,0.07,465
+753,Underachiever,American Adjunct Lager,0.05,473
+754,Lil' Brainless Raspberries,Fruit / Vegetable Beer,0.052000000000000005,81
+755,Element 29,American Pale Ale (APA),0.052000000000000005,81
+756,Hop Syndrome,American Pale Lager,0.05,81
+757,Escape to Colorado,American IPA,0.062,81
+758,Little Sister India Style Session Ale,American IPA,0.043,170
+759,Country Boy IPA,American IPA,0.062,170
+760,Blonde Czich,American Blonde Ale,0.049,26
+761,White Reaper,Belgian IPA,0.07,26
+762,Bobblehead,American Pale Wheat Ale,0.051,26
+763,Lucky Dog,American Pale Ale (APA),0.052000000000000005,26
+764,Voodoo,American Porter,0.048,26
+765,General George Patton Pilsner,Czech Pilsener,0.054000000000000006,26
+766,Nomader Weiss,Berliner Weissbier,0.04,173
+767,Molotov Lite,American Double / Imperial IPA,0.085,173
+768,Hipster Ale (Two Roads Brewing),American Pale Ale (APA),0.055,173
+769,Bikini Beer,American IPA,0.027000000000000003,173
+770,Hipster Ale (Westbrook Brewing),American Pale Ale (APA),0.055,173
+771,Iron Horse Pale Ale,American Pale Ale (APA),0.05,335
+772,Stone's Throw IPA,Scottish Ale,0.045,335
+773,Wood Chipper India Pale Ale,American IPA,0.067,335
+774,Trail Head,American Pale Ale (APA),0.063,224
+775,Hop Stalker Fresh Hop IPA,American IPA,0.07,224
+776,Sudice American Stout,American Stout,0.07,405
+777,Parcae Belgian Style Pale Ale,Belgian Pale Ale,0.05,405
+778,Norns Roggenbier,Roggenbier,0.05,405
+779,Laimas Kölsch Style Ale,Kölsch,0.05,405
+780,Moirai India Pale Ale,American IPA,0.07,405
+781,Loki Red Ale,American Amber / Red Ale,0.075,201
+782,Peaches & Cream,Fruit / Vegetable Beer,0.046,201
+783,Quaff India Style Session Ale,American IPA,0.051,201
+784,Loki Red Ale (2013),American Amber / Red Ale,0.075,201
+785,Mjolnir Imperial IPA,American Double / Imperial IPA,0.069,201
+786,Fearless Scottish Ale,Scottish Ale,0.05,201
+787,Mastermind,American Double / Imperial IPA,0.081,172
+788,Hyzer Flip,American Double / Imperial IPA,0.08199999999999999,172
+789,Second Fiddle,American Double / Imperial IPA,0.08199999999999999,172
+790,Hodad Porter,American Porter,0.055,172
+791,Weiss Weiss Baby,Kristalweizen,0.045,36
+792,Czech Yo Self,Czech Pilsener,0.055,36
+793,FMB 101,Kölsch,0.048,36
+794,Hardcore Chimera,American Double / Imperial IPA,0.09,256
+795,Sobek & Set,American Black Ale,0.08,256
+796,Nuclear Winter,Belgian Strong Dark Ale,0.086,256
+797,Wet Hot American Wheat Ale,American Pale Wheat Ale,0.05,256
+798,Secret Stache Stout,American Stout,0.053,256
+799,Fascist Pig Ale,American Amber / Red Ale,0.08,256
+800,Cut Throat Pale Ale,American Pale Ale (APA),0.055,256
+801,Threadless IPA,American IPA,0.075,256
+802,Cut Throat Pale Ale (2011),American Pale Ale (APA),0.055,256
+803,Golden Wing Blonde Ale,American Blonde Ale,0.047,256
+804,Easy Jack,American IPA,0.045,48
+805,Union Jack,American IPA,0.075,48
+806,Pivo Pils,German Pilsener,0.053,48
+807,805 Blonde Ale,American Blonde Ale,0.047,48
+808,805,American Blonde Ale,0.047,48
+809,Deflator,Doppelbock,0.065,16
+810,Hinchtown Hammer Down,American Blonde Ale,0.05,16
+811,Half Cycle IPA,American IPA,0.06,16
+812,Inclined Plane Ale,American IPA,,532
+813,Moped Traveler,American Pale Ale (APA),0.055,54
+814,Snake Dog IPA,American IPA,0.071,521
+815,Underdog Atlantic Lager,American Pale Lager,0.047,521
+816,Flying Mouse 8,American Porter,0.04,50
+817,Flying Mouse 4,American IPA,0.07,50
+818,La Ferme Urbaine Farmhouse Ale,Saison / Farmhouse Ale,0.078,279
+819,Backyahd IPA,American IPA,0.06,279
+820,Raincloud Robust Porter,American Porter,0.065,279
+821,Barstool American Golden Ale,American Blonde Ale,0.045,279
+822,What the Butler Saw,Witbier,0.05,217
+823,1916 Shore Shiver,American IPA,0.069,217
+824,Quick WIT,Belgian Pale Ale,0.052000000000000005,206
+825,The Optimist,American IPA,0.062,206
+826,Suicide Squeeze IPA,American IPA,0.045,206
+827,Java the Hop,American IPA,0.065,206
+828,Next Adventure Black IPA,American Black Ale,0.062,206
+829,3-Way IPA (2013),American IPA,0.067,206
+830,Tender Loving Empire NWPA,American Pale Ale (APA),0.058,206
+831,Quick Wit Belgianesque Ale,Witbier,0.052000000000000005,206
+832,Sunrise Oatmeal Pale Ale,American Pale Ale (APA),0.055,206
+833,Cavatica Stout,American Double / Imperial Stout,0.08800000000000001,206
+834,1811 Lager,American Amber / Red Lager,0.051,206
+835,Vortex IPA,American IPA,0.07400000000000001,206
+836,Fort Pitt Ale,American Amber / Red Ale,,151
+837,Park,American Pale Wheat Ale,0.047,4
+838,Westfalia,American Amber / Red Ale,0.056,4
+839,KSA,Kölsch,0.046,4
+840,Villager,American IPA,0.063,4
+841,Dirty Bastard,Scotch Ale / Wee Heavy,0.085,15
+842,Centennial IPA,American IPA,0.07200000000000001,15
+843,All Day IPA,American IPA,0.047,15
+844,El Chingon IPA,American IPA,0.076,287
+845,Block Party Robust Porter,American Porter,0.057,287
+846,Local Buzz,American Blonde Ale,0.052000000000000005,287
+847,Feel Like Maplin' Love,Oatmeal Stout,0.055,22
+848,Father's Beer,Belgian Pale Ale,0.05,22
+849,The 26th,American IPA,0.06,22
+850,The Gadget,American IPA,0.064,22
+851,Leprechaun Lager,American Pale Lager,0.04,348
+852,Sunbru Kölsch,Kölsch,0.052000000000000005,160
+853,Kilt Lifter Scottish-Style Ale,,0.06,160
+854,Pumpkin Porter,American Porter,0.051,160
+855,Four Peaks Peach Ale,Fruit / Vegetable Beer,0.042,160
+856,Hop Knot IPA,American IPA,0.067,160
+857,Kilt Lifter Scottish-Style Ale (2009),Scottish Ale,0.06,160
+858,Sunbru Kölsch,Kölsch,0.052000000000000005,160
+859,Four String Vanilla Porter,American Porter,0.06,105
+860,Suncaster Summer Wheat,American Pale Wheat Ale,0.05,105
+861,Brass Knuckle Pale Ale,American Pale Ale (APA),0.057,105
+862,Big Star White IPA,American White IPA,0.07,105
+863,Old Detroit,American Amber / Red Ale,0.056,253
+864,Batch 69 IPA,American IPA,0.069,253
+865,Twisted Helles Summer Lager,Munich Helles Lager,0.055,253
+866,OktoberFiesta,,0.053,66
+867,Texicali ,American Brown Ale,0.065,66
+868,Pinata Protest,Witbier,0.06,66
+869,Bat Outta Helles,Munich Helles Lager,0.042,66
+870,Original,American Amber / Red Ale,0.068,66
+871,Rye Wit,Witbier,0.042,66
+872,Soul Doubt,American IPA,0.059,66
+873,Yo Soy Un Berliner,Berliner Weissbier,0.044,66
+874,77 Fremont Select Spring Session IPA,American IPA,0.04,460
+875,Fremont Organic Pale Ale,American Pale Ale (APA),0.045,460
+876,Abominable Ale,English Strong Ale,0.08,460
+877,Harvest Ale,Saison / Farmhouse Ale,0.065,460
+878,Fremont Summer Ale,American Pale Ale (APA),0.065,460
+879,Universale Pale Ale,American Pale Ale (APA),0.056,460
+880,Interurban IPA,American IPA,0.065,460
+881,Gateway Kolsch Style Ale,Kölsch,0.053,433
+882,Wee-Heavy-Er Scotch Ale,Scotch Ale / Wee Heavy,0.07,433
+883,13 Rebels ESB,Extra Special / Strong Bitter (ESB),0.052000000000000005,433
+884,Salamander Slam,American IPA,0.07,180
+885,Cack-A-Lacky,American Pale Ale (APA),0.05,347
+886,No Wake IPA,American IPA,0.07200000000000001,228
+887,Boathouse Blonde,American Blonde Ale,0.049,228
+888,Cedar Point,American Amber / Red Ale,0.05,228
+889,Clean Shave IPA,American IPA,0.067,106
+890,Might As Well IPL,American Pale Lager,0.07200000000000001,240
+891,Saison Pamplemousse,Saison / Farmhouse Ale,0.058,240
+892,2020 IPA,American IPA,0.07400000000000001,240
+893,Wolf Among Weeds IPA,American IPA,0.08,240
+894,Better Weather IPA,American IPA,0.094,240
+895,Point the Way IPA,American IPA,0.059,240
+896,Golden Road Hefeweizen,Hefeweizen,0.046,240
+897,Heal the Bay IPA,American IPA,0.068,240
+898,Point the Way IPA,American IPA,0.059,240
+899,Cabrillo Kölsch,Kölsch,0.05,240
+900,Get Up Offa That Brown,American Brown Ale,0.055,240
+901,Burning Bush Smoked IPA,American IPA,0.08,240
+902,Wolf Among Weeds IPA (2012),American IPA,0.08,240
+903,Point the Way IPA (2012),American IPA,0.059,240
+904,Golden Road Hefeweizen (2012),Hefeweizen,0.046,240
+905,Vanilla Porter,American Porter,0.07,39
+906,Descender IPA,American IPA,0.07,464
+907,Sweet As Pacific Ale,American Pale Wheat Ale,0.06,464
+908,Good People Pale Ale,American Pale Ale (APA),0.056,478
+909,Snake Handler Double IPA,American Double / Imperial IPA,0.093,478
+910,Coffee Oatmeal Stout,Oatmeal Stout,0.06,478
+911,Good People IPA,American IPA,0.06,478
+912,Good People American Brown Ale,American Brown Ale,0.058,478
+913,Mountain Rescue Pale Ale,American Pale Ale (APA),0.055,194
+914,Goose Island India Pale Ale,American IPA,0.059,196
+915,312 Urban Pale Ale,American Pale Ale (APA),0.054000000000000006,88
+916,312 Urban Pale Ale,American Pale Ale (APA),0.054000000000000006,88
+917,312 Urban Wheat Ale,American Pale Wheat Ale,0.042,88
+918,312 Urban Wheat Ale,American Pale Wheat Ale,0.042,88
+919,312 Urban Wheat Ale (2012),American Pale Wheat Ale,0.042,88
+920,Beaver Logger,American Pale Lager,0.052000000000000005,420
+921,White Water Wheat,American Pale Wheat Ale,0.05,536
+922,Grand Canyon American Pilsner,American Pilsner,0.052000000000000005,536
+923,Grand Canyon Sunset Amber Ale,American Amber / Red Ale,0.054000000000000006,536
+924,Black Iron India Pale Ale,American IPA,,536
+925,Monarch Classic American Wheat,American Pale Wheat Ale,0.043,213
+926,Sir William's English Brown Ale,English Brown Ale,0.049,213
+927,Lakefire Rye Pale Ale,American Pale Ale (APA),0.055,213
+928,Beer Agent Re-Ignition,American Blonde Ale,0.053,165
+929,Cherry Ale,Fruit / Vegetable Beer,0.057,165
+930,Bourbon Barrel Aged Coconut Porter,American Porter,0.056,165
+931,Great Crescent IPA,American IPA,0.062,165
+932,Aurora Lager,Dortmunder / Export Lager,0.057,165
+933,Great Crescent Blonde Ale,American Blonde Ale,0.053,165
+934,Great Crescent Coconut Porter,American Porter,0.056,165
+935,Great Crescent Oktoberfest Lager,Märzen / Oktoberfest,0.057,165
+936,Great Crescent Brown Ale,American Brown Ale,0.045,165
+937,Cherry Ale (1),Fruit / Vegetable Beer,0.057,165
+938,Aurora Lager (2011),Dortmunder / Export Lager,0.057,165
+939,Frosted Fields Winter Wheat,American Dark Wheat Ale,0.06,165
+940,Great Crescent Belgian Style Wit,Witbier,0.051,165
+941,Bourbon's Barrel Stout,American Stout,0.075,165
+942,Great Crescent Stout,English Stout,0.08,165
+943,Great Crescent Coconut Porter (2012),American Porter,0.056,165
+944,Great Crescent Dark Lager,Euro Dark Lager,0.057,165
+945,Great Crescent Mild Ale,English Dark Mild Ale,0.042,165
+946,Great Crescent IPA (2011),American IPA,0.062,165
+947,Great Crescent Blonde Ale (2011),American Blonde Ale,0.053,165
+948,Denver Pale Ale (Artist Series No. 1),American Pale Ale (APA),0.05,6
+949,Hibernation Ale,Old Ale,0.087,6
+950,Whitewater,American Pale Wheat Ale,0.061,6
+951,Rumble,American IPA,0.071,6
+952,Orabelle,Tripel,0.083,6
+953,Lasso,American IPA,0.05,6
+954,Yeti  Imperial Stout,Russian Imperial Stout,0.095,6
+955,Colette,Saison / Farmhouse Ale,0.073,6
+956,Titan IPA,American IPA,0.071,6
+957,Black Star Double Hopped Golden Lager (24 oz.),American Pale Lager,0.045,543
+958,Black Star Double Hopped Golden Lager (12 oz.),American Pale Lager,0.045,543
+959,Commotion APA,American Pale Ale (APA),0.052000000000000005,269
+960,Southern Drawl Pale Lager,American Pale Lager,0.052000000000000005,269
+961,Chickawawa Lemonale,Fruit / Vegetable Beer,0.05,365
+962,Barrel Aged Farmer,American Brown Ale,0.07,365
+963,Great River Golden Ale,American Blonde Ale,0.048,365
+964,Dirty Blonde Chocolate Ale,American Blonde Ale,0.048,365
+965,Dos Pistolas,Vienna Lager,0.048,365
+966,Owney Irish Style Red Ale,Irish Red Ale,0.05,365
+967,Aaah Bock Lager,Vienna Lager,0.06,365
+968,Widespread Wit,Witbier,0.055,365
+969,Roller Dam Red Ale,Irish Red Ale,0.054000000000000006,365
+970,483 Pale Ale,American Pale Ale (APA),0.053,365
+971,Hop A Potamus Double Dark Rye Pale Ale,Rye Beer,0.09,365
+972,Farmer Brown Ale,American Brown Ale,0.07,365
+973,Big Cock IPA,American IPA,0.07,365
+974,Oktoberfest,Märzen / Oktoberfest,0.059,365
+975,40th Annual Bix Street Fest Copper Ale (Current),American Amber / Red Ale,0.048,365
+976,Redband Stout,American Stout,0.06,365
+977,483 Pale Ale (2010),American Pale Ale (APA),0.053,365
+978,Roller Dam Red Ale (2010),Irish Red Ale,0.054000000000000006,365
+979,Pablo Beach Pale Ale,American Pale Ale (APA),0.05,466
+980,Wild Trail Pale Ale,American Pale Ale (APA),0.057,156
+981,Mothman Black IPA,American Black Ale,0.067,156
+982,Autumn Winds Fest Beer,Märzen / Oktoberfest,0.058,86
+983,Captain's Daughter,American Double / Imperial IPA,0.085,86
+984,Autumn Winds,Märzen / Oktoberfest,0.058,379
+985,Flying Jenny Extra Pale Ale,American Pale Ale (APA),0.06,379
+986,Hazy Day Belgian-Style Wit,Witbier,0.04,379
+987,Bring Back the Beach Blonde Ale,American Blonde Ale,0.055,379
+988,Leaning Chimney Smoked Porter,American Porter,0.06,379
+989,Flying Jenny Extra Pale Ale (2012),American Pale Ale (APA),0.06,379
+990,Flagship Ale,Cream Ale,0.049,379
+991,Mr. Blue Sky,American Pale Wheat Ale,0.045,124
+992,3 Scrooges,Winter Warmer,0.065,124
+993,Screamin’ Pumpkin,Pumpkin Ale,0.05,124
+994,Grand Trunk Bohemian Pils,Czech Pilsener,0.05,124
+995,El Rojo,American Amber / Red Ale,0.065,124
+996,Norm's Raggedy Ass IPA,American IPA,0.075,124
+997,Grind Line,American Pale Ale (APA),0.05,124
+998,Norm's Gateway IPA,American IPA,0.04,124
+999,Lemon Shandy Tripel,Tripel,0.09,124
+1000,Little Red Cap,Altbier,0.063,144
+1001,Supergoose IPA,American IPA,0.069,290
+1002,Hale's Pale American Ale,American Pale Ale (APA),0.047,290
+1003,Heyoka IPA,American IPA,0.07,327
+1004,Guest Lager,American Double / Imperial Pilsner,0.08,327
+1005,Pony Pilsner,German Pilsener,0.057,327
+1006,Akari Shogun American Wheat Ale,American Pale Wheat Ale,0.055,327
+1007,Meat Wave,English India Pale Ale (IPA),0.06,327
+1008,Over Ale,American Brown Ale,0.06,327
+1009,Gossamer Golden Ale,American Blonde Ale,0.042,327
+1010,Daisy Cutter Pale Ale,American Pale Ale (APA),0.052000000000000005,327
+1011,Pursuit,American IPA,0.07,248
+1012,Half Full Bright Ale,American Blonde Ale,0.052000000000000005,248
+1013,Orange Wheat,Fruit / Vegetable Beer,0.046,476
+1014,Hangar 24 Helles Lager,Munich Helles Lager,0.043,476
+1015,The Great Return,American IPA,0.075,343
+1016,Hardywood Cream Ale,Cream Ale,0.044,343
+1017,Capital Trail Pale Ale,American Pale Ale (APA),0.056,343
+1018,UFO Gingerland,Herbed / Spiced Beer,0.052000000000000005,234
+1019,The Long Thaw White IPA,American White IPA,0.062,234
+1020,Honey Cider,Cider,0.048,234
+1021,Harpoon Summer Beer,Kölsch,0.05,234
+1022,Harpoon IPA,American IPA,0.059,234
+1023,UFO Pumpkin,Pumpkin Ale,0.059,234
+1024,Harpoon Octoberfest,Märzen / Oktoberfest,0.055,234
+1025,Harpoon IPA (2012),American IPA,0.059,234
+1026,Harpoon Summer Beer (2012),Kölsch,0.05,234
+1027,UFO White,American Pale Wheat Ale,0.048,234
+1028,Harpoon Summer Beer (2010),Kölsch,0.05,234
+1029,Harpoon IPA (2010),American IPA,0.059,234
+1030,Great Falls Select Pale Ale,American Blonde Ale,,535
+1031,Beltian White,Witbier,0.048,535
+1032,Kaua'i Golden Ale,American Blonde Ale,0.049,204
+1033,Sunset Amber,American Pale Ale (APA),0.054000000000000006,204
+1034,Hapa Brown Ale,American Brown Ale,0.064,204
+1035,Hapa Brown Ale,American Brown Ale,0.064,204
+1036,Southern Cross,Flanders Red Ale,0.083,204
+1037,Groupe G,Belgian IPA,0.076,280
+1038,Pt. Bonita Rustic Lager,American Pale Lager,0.062,280
+1039,Hill 88 Double IPA,American Double / Imperial IPA,0.08800000000000001,280
+1040,Loose Cannon,American IPA,0.07200000000000001,479
+1041,AARGHtoberfest!,Märzen / Oktoberfest,0.06,479
+1042,Davy Jones Lager,Cream Ale,0.06,479
+1043,Grazias,Cream Ale,0.063,423
+1044,Habitus IPA,American IPA,0.08,423
+1045,Ex Umbris Rye Imperial Stout,American Double / Imperial Stout,0.099,423
+1046,The Golden One,American Pilsner,0.063,168
+1047,The Power of Zeus,American Pale Ale (APA),0.07,168
+1048,Tonganoxie Honey Wheat,American Pale Wheat Ale,0.044,500
+1049,Oregon Trail Unfiltered Raspberry Wheat,Fruit / Vegetable Beer,0.045,500
+1050,Annie's Amber Ale,American Amber / Red Ale,0.055,500
+1051,The 12th Can™,American Pale Ale (APA),0.045,362
+1052,Hilliard's Pils,Czech Pilsener,0.055,362
+1053,Hilliard's Blonde,American Blonde Ale,0.049,362
+1054,Hilliard's Amber Ale,American Amber / Red Ale,0.055,362
+1055,Hilliard's Saison,Saison / Farmhouse Ale,0.066,362
+1056,White Cap White IPA,American White IPA,0.042,349
+1057,Provision,Saison / Farmhouse Ale,0.042,297
+1058,One Nut Brown,American Brown Ale,0.047,297
+1059,Hop Farm IPA,American IPA,0.058,297
+1060,Double D Blonde,American Blonde Ale,0.049,198
+1061,Festeroo Winter Ale,American Strong Ale,0.078,198
+1062,Proxima IPA,American IPA,0.063,198
+1063,Double D Blonde (2013),American Blonde Ale,0.049,198
+1064,541 American Lager,American Pale Lager,0.048,198
+1065,Alphadelic IPA,American IPA,0.065,198
+1066,Alphadelic IPA (2011),American IPA,0.065,198
+1067,Double D Blonde (2011),American Blonde Ale,0.049,198
+1068,Green House India Pale Ale,American IPA,0.07,395
+1069,The One They Call Zoe,American Pale Lager,0.051,395
+1070,Alteration,Altbier,0.051,395
+1071,Pale Dog,American Pale Ale (APA),0.06,395
+1072,Porter Culture,American Porter,0.065,136
+1073,Hard Cider,Cider,0.068,80
+1074,Totally Radler,Radler,0.027000000000000003,80
+1075,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1076,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1077,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1078,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1079,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1080,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1081,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1082,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1083,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1084,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1085,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1086,Nonstop Hef Hop,American Pale Wheat Ale,0.039,80
+1087,Rise Up Red,American Amber / Red Ale,0.058,80
+1088,Survival Stout,American Stout,0.058,80
+1089,Hopworks IPA,American IPA,0.066,80
+1090,Abominable Winter Ale,American Strong Ale,0.073,80
+1091,Pigwar White India Pale Ale,American White IPA,0.06,80
+1092,Rise-Up Red (2014),American Amber / Red Ale,0.058,80
+1093,Abominable Winter Ale (2012),American Strong Ale,0.073,80
+1094,HUB Lager,Czech Pilsener,0.051,80
+1095,Hopworks IPA (2012),American IPA,0.066,80
+1096,Watermelon Wheat,American Pale Wheat Ale,0.056,120
+1097,Laka Laka Pineapple,Hefeweizen,0.051,120
+1098,Oktoberfest,Märzen / Oktoberfest,0.06,120
+1099,Trail Maker Pale Ale,American Pale Ale (APA),0.065,445
+1100,Action Man Lager,Vienna Lager,0.055,445
+1101,Let It Ride IPA,American IPA,0.068,277
+1102,Stir Crazy Winter Ale,Winter Warmer,0.065,277
+1103,Sweet Yamma Jamma Ale,Fruit / Vegetable Beer,0.05,277
+1104,Shenanigans Summer Ale,American Pale Wheat Ale,0.046,277
+1105,Midnight Ryder,American Black Ale,0.065,277
+1106,Day Tripper Pale Ale,American Pale Ale (APA),0.054000000000000006,277
+1107,Oklahoma Suks,American Amber / Red Ale,0.048,140
+1108,Power & Light,American Pale Ale (APA),0.055,140
+1109,White Rabbit ,Witbier,0.059,140
+1110,Tribute,American Pale Ale (APA),0.058,23
+1111,Infamous IPA,American IPA,0.07,242
+1112,Hijack,Cream Ale,0.055,242
+1113,Jon Boat Coastal Ale,American Blonde Ale,0.045,527
+1114,I-10 IPA,American IPA,0.068,527
+1115,People's Pale Ale,American Pale Ale (APA),0.053,527
+1116,Summer Ale,American Blonde Ale,0.049,123
+1117,Appreciation Ale,American IPA,,316
+1118,House Lager,Keller Bier / Zwickel Bier,0.052000000000000005,2
+1119,Leisure Time,American Pale Lager,0.048,2
+1120,Excess IPL,American India Pale Lager,0.07200000000000001,2
+1121,Hoponius Union,American India Pale Lager,0.067,2
+1122,Calyptra,American India Pale Lager,0.049,2
+1123,Helen's Blend,Cider,0.05,416
+1124,Jack's Hard Cider,Cider,0.051,416
+1125,Thunder Ann,American Pale Ale (APA),0.055,312
+1126,Razz Wheat,Fruit / Vegetable Beer,0.055,92
+1127,Hop Ryot,American IPA,0.065,92
+1128,Mystic Mama IPA,American IPA,0.07,92
+1129,Firefly Amber Ale,American Amber / Red Ale,0.05,92
+1130,Chomolungma Honey Nut Brown Ale,English Brown Ale,0.067,92
+1131,Welcome to Scoville,American IPA,0.069,114
+1132,Bastian,American Strong Ale,,32
+1133,Healani,Hefeweizen,0.045,32
+1134,Yabba Dhaba Chai Tea Porter,American Porter,0.055,32
+1135,A Capella Gluten Free Pale Ale,American Pale Ale (APA),0.055,32
+1136,Casper White Stout,American Blonde Ale,0.06,32
+1137,JP's Ould Sod Irish Red IPA,American IPA,0.06,32
+1138,Weize Guy,Hefeweizen,0.05,233
+1139,Fox Tail Gluten Free Ale,American Pale Ale (APA),0.05,233
+1140,Hop Box Imperial IPA,American Double / Imperial IPA,0.093,233
+1141,Joseph James American Lager,American Adjunct Lager,0.052000000000000005,233
+1142,Sucha Much IPA,American IPA,0.071,208
+1143,Lewbricator Wheat Dopplebock ,Doppelbock,0.075,208
+1144,Weisse Versa (2012),Hefeweizen,0.052000000000000005,125
+1145,Mother in Lager,Munich Dunkel Lager,0.058,125
+1146,Weekend Warrior Pale Ale,American Pale Ale (APA),0.055,125
+1147,Karbachtoberfest,Märzen / Oktoberfest,0.055,125
+1148,Love Street Summer Seasonal (2014),Kölsch,0.047,125
+1149,Barn Burner Saison,Saison / Farmhouse Ale,0.066,125
+1150,Rodeo Clown Double IPA,American Double / Imperial IPA,0.095,125
+1151,Sympathy for the Lager,American Amber / Red Lager,0.049,125
+1152,Weisse Versa,Hefeweizen,0.052000000000000005,125
+1153,Hopadillo India Pale Ale,American IPA,0.066,125
+1154,KelSo Nut Brown Lager,Euro Dark Lager,0.057,342
+1155,KelSo India Pale Ale,American IPA,0.06,342
+1156,KelSo Pilsner,Czech Pilsener,0.055,342
+1157,Skilak Scottish Ale,Scottish Ale,0.058,458
+1158,Peninsula Brewers Reserve (PBR),American Blonde Ale,0.05,458
+1159,Sunken Island IPA,American IPA,0.068,458
+1160,Skilak Scottish Ale (2011),Scottish Ale,0.058,458
+1161,Cold Smoke Scotch Ale (2007),Scotch Ale / Wee Heavy,0.065,510
+1162,Double Haul IPA (2009),American IPA,0.065,510
+1163,Double Haul IPA (2006),American IPA,0.065,510
+1164,Eddy Out Pale Ale,American Pale Ale (APA),0.055,510
+1165,Double Haul IPA,American IPA,0.065,510
+1166,Cold Smoke Scotch Ale,Scotch Ale / Wee Heavy,0.065,510
+1167,U. P. Witbier,Witbier,,84
+1168,November Gale Pale Ale,American Pale Ale (APA),,84
+1169,Olde Ore Dock Scottish Ale,Scottish Ale,,84
+1170,Widow Maker Black Ale,American Brown Ale,,84
+1171,Lift Bridge Brown Ale,American Brown Ale,,84
+1172,Pick Axe Blonde Ale,American Blonde Ale,,84
+1173,Red Jacket Amber Ale,American Amber / Red Ale,,84
+1174,Amber Ale,American Amber / Red Ale,0.051,102
+1175,King Street Pilsner,Czech Pilsener,0.055,102
+1176,King Street IPA,American IPA,0.06,102
+1177,King Street Hefeweizen,Hefeweizen,0.057,102
+1178,King Street Blonde Ale,American Blonde Ale,0.049,102
+1179,India Pale Ale,American IPA,0.063,87
+1180,Blackberry Wheat,American Pale Wheat Ale,0.048,87
+1181,Longboard Island Lager,American Amber / Red Lager,0.046,439
+1182,Longboard Island Lager,American Amber / Red Lager,0.046,439
+1183,Longboard Island Lager,American Amber / Red Lager,0.046,439
+1184,Longboard Island Lager,American Amber / Red Lager,0.046,439
+1185,Choc Beer (2003),American Dark Wheat Ale,0.04,505
+1186,Bellingham Beer Week 2013 Collaboration,Belgian Strong Dark Ale,0.08,354
+1187,A Slice of Hefen,Hefeweizen,0.054000000000000006,332
+1188,Elevated IPA,American IPA,0.07200000000000001,332
+1189,Rumspringa Golden Bock,Maibock / Helles Bock,0.066,545
+1190,Lancaster German Style Kölsch,Kölsch,0.048,545
+1191,Beach Cruiser,Hefeweizen,0.045,59
+1192,I.P. Eh!,American IPA,0.068,59
+1193,Schoolhouse Honey,American Amber / Red Ale,0.05,59
+1194,10 Degrees of Separation,English Brown Ale,0.055,59
+1195,Laughing Dog Cream Ale,Cream Ale,0.05,218
+1196,Two-One Niner,American Pilsner,0.048,218
+1197,Laughing Dog IPA,American IPA,0.064,218
+1198,Madra Allta,American IPA,0.064,345
+1199,Duluchan India Pale Ale,American IPA,0.056,345
+1200,Lazy Monk Bohemian Pilsner,Czech Pilsener,0.05,406
+1201,Yellowstone Golden Ale,Kölsch,0.051,537
+1202,Tumbleweed IPA,American IPA,0.057,537
+1203,Lewis & Clark Amber Ale,American Amber / Red Ale,0.05,537
+1204,Miner's Gold Hefeweizen,Hefeweizen,0.05,537
+1205,Back Country Scottish Ale,Scottish Ale,0.057,537
+1206,Getaway,German Pilsener,0.052000000000000005,244
+1207,Farm Girl Saison,Saison / Farmhouse Ale,0.06,244
+1208,Adam's Stout,American Stout,0.058,298
+1209,American Hero,American Amber / Red Ale,0.057,298
+1210,Schweet Ale,Fruit / Vegetable Beer,0.052000000000000005,298
+1211,Irregardless IPA,American IPA,0.065,298
+1212,Peach Pale Ale,American Pale Ale (APA),0.057,104
+1213,Deadeye Jack,American Porter,0.06,149
+1214,Pistols at Dawn,American Stout,0.075,149
+1215,Peacemaker Pale Ale,American Pale Ale (APA),0.057,149
+1216,Shotgun Betty,Hefeweizen,0.058,149
+1217,Sweet Josie,American Brown Ale,0.061,149
+1218,Long Trail IPA,English India Pale Ale (IPA),0.059,268
+1219,Long Trail Ale,American Amber / Red Ale,0.046,268
+1220,Double Bag,Altbier,0.07200000000000001,268
+1221,Blackbeary Wheat,Fruit / Vegetable Beer,0.04,268
+1222,Long Trail Ale (1),Altbier,0.046,268
+1223,Gose,Gose,0.046,41
+1224,Vermont Pilsner,German Pilsener,0.048,41
+1225,Mosaic Single Hop IPA,American IPA,0.055,41
+1226,Lost Galaxy,American IPA,0.045,41
+1227,Face Plant IPA,American IPA,0.062,430
+1228,Rhino Chasers Pilsner,Czech Pilsener,0.056,430
+1229,Slow Hand Stout,American Stout,0.052000000000000005,377
+1230,Hips Don't Lie,Hefeweizen,0.062,456
+1231,Ride Again Pale Ale,American Pale Ale (APA),0.052000000000000005,456
+1232,The Farmer's Daughter,American Blonde Ale,0.048,456
+1233,Pub Ale,English Dark Mild Ale,0.038,245
+1234,Ballistic Blonde,Belgian Pale Ale,0.051,245
+1235,Knotty Pine,American Pale Ale (APA),0.054000000000000006,158
+1236,Lumberyard Pilsner,American Pilsner,0.053,158
+1237,Lumberyard IPA,American IPA,0.061,158
+1238,Lumberyard Red Ale,American Amber / Red Ale,0.058,158
+1239,Mac's Highlander Pale Ale (2000),American Pale Ale (APA),0.05,485
+1240,Mac's Scottish Style Amber Ale (2000),American Amber / Red Ale,0.051,485
+1241,Macon Progress Ale,American Pale Ale (APA),0.05,400
+1242,Macon History Ale,American Brown Ale,0.055,400
+1243,Galaxy High,American Double / Imperial IPA,0.099,91
+1244,Sol Drifter,American Blonde Ale,0.043,91
+1245,Thunder Snow,Winter Warmer,0.085,91
+1246,The Great Pumpcan,Fruit / Vegetable Beer,0.079,91
+1247,LIFT,Kölsch,0.047,91
+1248,SPRYE,American Pale Ale (APA),0.05,91
+1249,Psychopathy,American IPA,0.069,91
+1250,Gnarly Brown,American Brown Ale,0.07,91
+1251,Happy Amber,American Amber / Red Ale,0.06,91
+1252,#9,Fruit / Vegetable Beer,0.051,303
+1253,Elder Betty,Hefeweizen,0.055,303
+1254,#9,Fruit / Vegetable Beer,0.051,303
+1255,High Country Pilsner (Current),German Pilsener,0.042,534
+1256,Epic IPA,American IPA,0.065,534
+1257,Golden Trout Pilsner,German Pilsener,0.042,534
+1258,Real McCoy Amber Ale (Current),American Amber / Red Ale,0.045,534
+1259,Festivus (1),Winter Warmer,0.07200000000000001,356
+1260,Manayunk Oktoberfest,Märzen / Oktoberfest,0.067,356
+1261,Belgian Style Session Ale,Belgian Pale Ale,0.045,356
+1262,Manayunk IPA,American IPA,0.055,356
+1263,Yunkin' Punkin',Pumpkin Ale,0.055,356
+1264,Summer Paradise,American Pale Wheat Ale,0.05,356
+1265,Monk from the 'Yunk,Tripel,0.09,356
+1266,Schuylkill Punch,Fruit / Vegetable Beer,0.06,356
+1267,Dreamin' Double IPA,American Double / Imperial IPA,0.085,356
+1268,Chaotic Double IPA,American Double / Imperial IPA,0.099,346
+1269,Manzanita IPA,American IPA,0.08,346
+1270,Riverwalk Blonde Ale,American Blonde Ale,0.06,346
+1271,Gillespie Brown Ale,American Brown Ale,0.095,346
+1272,Manzanita Pale Ale,American Pale Ale (APA),0.066,346
+1273,Marble Pilsner,German Pilsener,0.047,443
+1274,Marble India Pale Ale,American IPA,0.062,443
+1275,Toughcats IPA,American IPA,0.07200000000000001,317
+1276,Tug Pale Ale,American Pale Ale (APA),0.05,317
+1277,Sexy Chaos,Russian Imperial Stout,0.099,317
+1278,Ace Hole American Pale Ale,American Pale Ale (APA),0.063,317
+1279,Cant Dog Imperial Pale Ale,American Double / Imperial IPA,0.097,317
+1280,River House,Saison / Farmhouse Ale,0.05,161
+1281,Pretzel Stout,American Stout,0.065,161
+1282,Rubberneck Red,American Amber / Red Ale,0.05,161
+1283,The Imperial Texan,American Double / Imperial IPA,0.08,161
+1284,The Imperial Texan,American Double / Imperial IPA,0.08,161
+1285,Day Break 4-Grain Breakfast Beer,Rye Beer,0.05,161
+1286,River House Saison,Saison / Farmhouse Ale,0.05,161
+1287,There Will Be Stout,American Stout,0.065,161
+1288,Our Legacy IPA,American IPA,0.065,299
+1289,Saranac Shandy,Shandy,0.042,299
+1290,Our Legacy IPA,American IPA,0.065,299
+1291,Saranac Golden Pilsener (2003),German Pilsener,0.051,299
+1292,Saranac Adirondack Light (2002),Light Lager,0.045,299
+1293,DAX Light (1998),Light Lager,0.045,299
+1294,Saranac Traditional Lager (2000),American Pale Lager,0.048,299
+1295,Pomegranate Wheat (2008),Fruit / Vegetable Beer,0.047,299
+1296,Blueberry Blonde Ale,American Blonde Ale,0.05,299
+1297,Saranac White IPA,American IPA,0.06,299
+1298,Saranac Summer Ale (2011),American Pale Wheat Ale,0.047,299
+1299,Saranac Pale Ale (12 oz.),English Pale Ale,0.055,299
+1300,Saranac Pale Ale (16 oz.),English Pale Ale,0.055,299
+1301,Lahaina Town Brown,American Brown Ale,0.051,375
+1302,Pau Hana Pilsner,Czech Pilsener,0.055,375
+1303,Lemongrass Saison,Saison / Farmhouse Ale,0.05,375
+1304,Aloha B’ak’tun,Belgian Strong Dark Ale,0.07,375
+1305,Liquid Breadfruit,Fruit / Vegetable Beer,0.08199999999999999,375
+1306,Sobrehumano Palena'ole,American Amber / Red Ale,0.06,375
+1307,La Perouse White,Witbier,0.05,375
+1308,Flyin' HI.P.Hay,American IPA,0.068,375
+1309,Mana Wheat,American Pale Wheat Ale,0.055,375
+1310,Bikini Blonde Lager,Munich Helles Lager,0.045,375
+1311,CoCoNut Porter,American Porter,0.057,375
+1312,Big Swell IPA,American IPA,0.062,375
+1313,Pit Stop Chocolate Porter,American Porter,0.037000000000000005,448
+1314,Pace Setter Belgian Style Wit,Witbier,0.037000000000000005,448
+1315,Back in the Saddle Rye Pale Ale,American Pale Ale (APA),0.037000000000000005,448
+1316,Bushwhacker Cider,Cider,0.069,254
+1317,Weim-R-Iner,Cider,0.069,254
+1318,Cherry Bomb,Cider,0.069,254
+1319,Tsunami IPA,American IPA,0.07200000000000001,203
+1320,Tsunami IPA,American IPA,0.07200000000000001,203
+1321,Humpback Blonde Ale,American Blonde Ale,0.042,203
+1322,Hawaiian Crow Porter,American Porter,0.052000000000000005,203
+1323,Volcano Red Ale,American Amber / Red Ale,0.052000000000000005,203
+1324,Mauna Kea Pale Ale,American Pale Ale (APA),0.054000000000000006,203
+1325,Shark Bait,Fruit / Vegetable Beer,0.053,393
+1326,Gator Tail Brown Ale,American Brown Ale,0.053,393
+1327,Miami Vice IPA,American IPA,0.071,393
+1328,Big Rod Coconut Ale,American Blonde Ale,0.053,393
+1329,Mickey Finn's Amber Ale,American Amber / Red Ale,0.056,552
+1330,Pleasure Town,American IPA,0.063,223
+1331,Pleasure Town IPA,American IPA,0.063,223
+1332,Snowshoe White Ale,Witbier,0.048,223
+1333,Kodiak Brown Ale,American Brown Ale,0.05,223
+1334,Sockeye Red IPA,American IPA,0.057,223
+1335,Habitus (2014),American Double / Imperial IPA,0.08,3
+1336,Solis,American IPA,0.075,3
+1337,Jucundus,Wheat Ale,0.06,3
+1338,Habitus,American Double / Imperial IPA,0.08,3
+1339,Grazias,Cream Ale,0.063,3
+1340,Claritas,Kölsch,0.058,3
+1341,Vinyl Frontier,American Double / Imperial IPA,0.083,65
+1342,Disco Superfly,American IPA,0.08,65
+1343,Misty Mountain Hop,American IPA,0.075,65
+1344,One-Hit Wonderful,Belgian IPA,0.075,65
+1345,En Parfaite Harmonie,Saison / Farmhouse Ale,0.065,65
+1346,Daft Funk,Berliner Weissbier,0.043,65
+1347,Love In An Ellavator,American IPA,0.075,65
+1348,Spin Doctor,American Pale Ale (APA),0.053,65
+1349,Keeper (Current),American Pilsner,0.05,363
+1350,Better Half,American IPA,0.068,363
+1351,SNO White Ale,Witbier,0.048,440
+1352,BRIK Irish Red Ale,Irish Red Ale,0.048,440
+1353,AXL Pale Ale,American Pale Ale (APA),,440
+1354,Hop Freak,American Double / Imperial IPA,0.087,284
+1355,Louie's Demise Amber Ale,American Amber / Red Ale,0.051,284
+1356,Hop Happy,American IPA,0.075,284
+1357,Booyah Farmhouse Ale,Saison / Farmhouse Ale,0.065,284
+1358,O-Gii,Witbier,0.092,284
+1359,Flaming Damsel Lager (2010),Vienna Lager,0.048,284
+1360,Louie’s Demise Immort-Ale (2010),American Amber / Red Ale,0.051,284
+1361,Axe Head Malt Liquor,American Malt Liquor,0.099,134
+1362,Huber Bock (2014),Bock,0.054000000000000006,134
+1363,Minhas Light (2012),Light Lager,0.04,134
+1364,Huber,American Pale Lager,0.05,134
+1365,Clear Creek Ice,American Pale Lager,0.062,134
+1366,Clear Creek Ice,American Pale Lager,0.062,134
+1367,Mountain Crest,American Pale Lager,0.055,134
+1368,Mountain Crest,American Pale Lager,0.055,134
+1369,Mountain Creek (2013),American Pale Lager,0.055,134
+1370,Boxer,American Adjunct Lager,0.05,134
+1371,Boxer Light,Light Lager,0.042,134
+1372,Boxer Ice,American Adjunct Lager,0.055,134
+1373,Boxer,American Adjunct Lager,0.05,134
+1374,Cortez Gold,Belgian Pale Ale,0.05,98
+1375,Mission IPA,American IPA,0.068,98
+1376,El Conquistador Extra Pale Ale,American Pale Ale (APA),0.048,98
+1377,Shipwrecked Double IPA,American Double / Imperial IPA,0.092,98
+1378,Squeaky Bike Nut Brown Ale,American Brown Ale,0.04,399
+1379,Dead Horse Amber,American Pale Wheat Ale,0.04,399
+1380,Rocket Bike American Lager,California Common / Steam Beer,0.04,399
+1381,Johnny's American IPA,American IPA,0.04,399
+1382,Boneshaker Brown Ale,English Brown Ale,0.055,547
+1383,Iron Mike Pale Ale,American Pale Ale (APA),0.056,547
+1384,Monkadelic,American Pale Ale (APA),0.042,189
+1385,City of the Sun,American IPA,0.075,209
+1386,Booming Rollers,American IPA,0.068,209
+1387,Oneida,American Pale Ale (APA),0.052000000000000005,209
+1388,Aurora ,American Amber / Red Ale,0.067,209
+1389,Lomaland,Saison / Farmhouse Ale,0.055,209
+1390,Fortunate Islands,American Pale Wheat Ale,0.047,209
+1391,Black House,American Stout,0.058,209
+1392,Blazing World,American Amber / Red Ale,0.065,209
+1393,Wapiti Amber Ale,American Amber / Red Ale,0.05,549
+1394,Sweet Georgia Brown,American Brown Ale,0.054000000000000006,514
+1395,Rich Man's IIPA,American Double / Imperial IPA,0.087,514
+1396,Monkey Paw Oatmeal Pale Ale,American Pale Ale (APA),0.058,514
+1397,Montauk Summer Ale,American Blonde Ale,0.056,276
+1398,Driftwood Ale,Extra Special / Strong Bitter (ESB),0.06,276
+1399,When Helles Freezes Over,Munich Helles Lager,0.056,326
+1400,Morgan Street Oktoberfest,Märzen / Oktoberfest,0.049,326
+1401,Honey Wheat,American Pale Wheat Ale,0.047,326
+1402,Black Bear Dark Lager,Schwarzbier,0.046,326
+1403,Golden Pilsner,German Pilsener,0.05,326
+1404,Cali Creamin',Cream Ale,0.052000000000000005,111
+1405,Second Wind Pale Ale,American Pale Ale (APA),0.05,540
+1406,Sunny Haze,Hefeweizen,0.05,540
+1407,Towhead,American Blonde Ale,0.052000000000000005,188
+1408,Lil' Helper,American IPA,0.07,188
+1409,Train Wreck,American Amber / Red Ale,0.08199999999999999,260
+1410,Full Moon Belgian White Ale,Witbier,0.085,507
+1411,Desert Magic IPA,American IPA,0.07200000000000001,507
+1412,Up River Light,Light Lager,0.042,507
+1413,Full Moon Belgian White Ale (2007),Witbier,0.085,507
+1414,Dry Heat Hefeweizen (2006),Hefeweizen,0.055,507
+1415,Mustang Sixty-Six,American Amber / Red Lager,0.05,366
+1416,Mustang '33,American Pale Lager,0.04,366
+1417,Session '33 (2011),American Pale Lager,0.04,366
+1418,Mustang Golden Ale,American Blonde Ale,0.053,366
+1419,Washita Wheat,American Pale Wheat Ale,0.053,366
+1420,Gansett Light,Light Lager,0.037000000000000005,143
+1421,Bohemian Pils,American Pilsner,0.052000000000000005,143
+1422,Autocrat Coffee Milk Stout,Milk / Sweet Stout,0.053,143
+1423,Narragansett Bohemian Pilsner,German Pilsener,0.086,143
+1424,Narragansett Summer Ale,American Pale Wheat Ale,0.042,143
+1425,Narragansett Cream Ale,Cream Ale,0.05,143
+1426,Narragansett Summer Ale,American Pale Wheat Ale,0.042,143
+1427,Narragansett Porter,American Porter,0.07,143
+1428,Narragansett Bock,Bock,0.065,143
+1429,Narragansett Fest Lager,Märzen / Oktoberfest,0.055,143
+1430,Undun Blonde Ale,American Blonde Ale,0.053,387
+1431,CuDa Cascadian Dark Ale,American Black Ale,0.07400000000000001,387
+1432,Old Grogham Imperial India Pale Ale,American Double / Imperial IPA,0.085,387
+1433,Old Grogham Imperial India Pale Ale (2012),American Double / Imperial IPA,0.085,387
+1434,CuDa Cascadian Dark Ale (2012),American Black Ale,0.07400000000000001,387
+1435,Undun Blonde Ale (2012),American Blonde Ale,0.053,387
+1436,Wick For Brains,Pumpkin Ale,0.061,337
+1437,Nebraska India Pale Ale,American IPA,0.065,337
+1438,EOS Hefeweizen,Hefeweizen,0.048,337
+1439,Brunette Nut Brown Ale,English Brown Ale,0.048,337
+1440,Cardinal Pale Ale,American Pale Ale (APA),0.057,337
+1441,County Line IPA,American IPA,0.066,325
+1442,Trauger Pilsner,German Pilsener,0.048,325
+1443,Slow Ride,American IPA,0.045,82
+1444,Ranger IPA,American IPA,0.065,82
+1445,Shift,American Pale Lager,0.05,82
+1446,1554 Black Lager,Euro Dark Lager,0.056,82
+1447,Blue Paddle,Czech Pilsener,0.048,82
+1448,California Route,American Amber / Red Lager,0.055,82
+1449,Snapshot,American Pale Wheat Ale,0.052000000000000005,82
+1450,Sunshine Wheat Beer,American Pale Wheat Ale,0.048,82
+1451,Fat Tire Amber Ale,American Amber / Red Ale,0.052000000000000005,82
+1452,Shift (1),American Pale Lager,0.05,82
+1453,Fat Tire Amber Ale (2011),American Amber / Red Ale,0.052000000000000005,82
+1454,Shift,American Pale Lager,0.05,82
+1455,Ranger IPA,American IPA,0.065,82
+1456,Fat Tire Amber Ale,American Amber / Red Ale,0.052000000000000005,82
+1457,Ranger IPA (Current),American IPA,0.065,82
+1458,Sunshine Wheat Beer (2009),American Pale Wheat Ale,0.048,82
+1459,Fat Tire Amber Ale (2008),American Amber / Red Ale,0.052000000000000005,82
+1460,Weiss Trash Culture,Berliner Weissbier,0.034,410
+1461,Sea Hag IPA,American IPA,0.062,410
+1462,Elm City Pilsner,American Pilsner,0.05,410
+1463,Atlantic Amber Ale (2004),American Amber / Red Ale,0.05,410
+1464,668 Neighbor of the Beast12 oz.,Belgian Pale Ale,0.09,410
+1465,Gandhi-Bot Double IPA (12 oz.),American Double / Imperial IPA,0.08800000000000001,410
+1466,668 Neighbor of the Beast (16 oz.) (2010),Belgian Pale Ale,0.09,410
+1467,Gandhi-Bot Double IPA (16 oz.) (2010),American Double / Imperial IPA,0.08800000000000001,410
+1468,Elm City Lager (2007),American Pilsner,0.05,410
+1469,Atlantic Amber Ale (2007),American Amber / Red Ale,0.05,410
+1470,Sea Hag IPA (Current),American IPA,0.062,410
+1471,Rebirth Pale Ale,American Pale Ale (APA),0.05,174
+1472,Irish Channel Stout,American Stout,0.068,174
+1473,MechaHopzilla,American Double / Imperial IPA,0.08800000000000001,174
+1474,Hopitoulas IPA,American IPA,0.065,174
+1475,NOLA Brown Ale,English Dark Mild Ale,0.039,174
+1476,NOLA Blonde Ale,American Blonde Ale,0.049,174
+1477,Skylight,Dunkelweizen,0.056,241
+1478,Kadigan,American Blonde Ale,0.056,241
+1479,Dammit Jim!,American Amber / Red Ale,0.052000000000000005,241
+1480,Nut Brown Ale,English Brown Ale,0.054000000000000006,518
+1481,White Ale,Witbier,0.046,518
+1482,Cream Ale,Cream Ale,0.042,238
+1483,Green Head IPA,American IPA,0.07200000000000001,495
+1484,Plum Island Belgian White,Witbier,0.054000000000000006,495
+1485,Newburyport Pale Ale,American Pale Ale (APA),0.055,495
+1486,Marblehead,American Amber / Red Ale,0.055,305
+1487,Jam Session,American Pale Ale (APA),0.051,359
+1488,Hop Drop 'N Roll IPA,American IPA,0.07200000000000001,359
+1489,Paleo IPA,English India Pale Ale (IPA),0.06,431
+1490,Buck Snort Stout,American Stout,0.061,431
+1491,Station 33 Firehouse Red,Irish Red Ale,0.055,431
+1492,Slimy Pebble Pils,German Pilsener,0.045,431
+1493,Get Together,American IPA,0.045,0
+1494,Maggie's Leap,Milk / Sweet Stout,0.049,0
+1495,Wall's End,English Brown Ale,0.048,0
+1496,Pumpion,Pumpkin Ale,0.06,0
+1497,Stronghold,American Porter,0.06,0
+1498,Parapet ESB,Extra Special / Strong Bitter (ESB),0.056,0
+1499,Blue Boots IPA,American IPA,0.069,293
+1500,Hoppy Bitch IPA,American IPA,0.063,450
+1501,Three Skulls Ale Pale Ale,American Pale Ale (APA),0.063,450
+1502,Walter's Premium Pilsener Beer,German Pilsener,0.045,529
+1503,Floppin' Crappie,American Pale Wheat Ale,0.045,529
+1504,Left of the Dial IPA,American IPA,0.043,271
+1505,Notch Session Pils,Czech Pilsener,0.04,271
+1506,O'Fallon Pumpkin Beer,Pumpkin Ale,0.055,442
+1507,5 Day IPA,American IPA,0.061,442
+1508,O'Fallon Wheach,Fruit / Vegetable Beer,0.051,442
+1509,Watershed IPA,American IPA,0.067,150
+1510,Oakshire Amber Ale,American Amber / Red Ale,0.054000000000000006,150
+1511,Overcast Espresso Stout,American Stout,0.058,150
+1512,Watershed IPA (2013),American IPA,0.067,150
+1513,Lake Monster,Baltic Porter,0.08199999999999999,184
+1514,London Homesick Ale,English Bitter,0.049,184
+1515,Luchesa Lager,Keller Bier / Zwickel Bier,0.048,184
+1516,Slow Ride,American Pale Ale (APA),0.048,184
+1517,Occidental Hefeweizen,American Pale Wheat Ale,0.047,200
+1518,Occidental Dunkel,Dunkelweizen,0.051,200
+1519,Occidental Altbier,Altbier,0.05,200
+1520,Occidental Kölsch,Kölsch,0.045,200
+1521,Perpetual Darkness,Belgian Strong Dark Ale,0.092,148
+1522,Clan Warrior,Scotch Ale / Wee Heavy,0.087,148
+1523,Psycho Penguin Vanilla Porter,American Porter,0.054000000000000006,148
+1524,Heliocentric Hefeweizen,Hefeweizen,0.047,148
+1525,Ghose Drifter Pale Ale,American Pale Ale (APA),0.051,148
+1526,Ghost Rider Pale Ale (2013),American Pale Ale (APA),0.051,148
+1527,Helios Hefeweizen (2013),Hefeweizen,0.047,148
+1528,The Hole in Hadrian's Wall,Scottish Ale,0.095,471
+1529,33 Select Brown Ale,American Brown Ale,0.065,471
+1530,Midwest Charm Farmhouse Ale,Saison / Farmhouse Ale,0.06,471
+1531,Boji Blue Pale Ale,American Pale Ale (APA),0.05,471
+1532,Winter Games Select #32 Stout,American Stout,0.057,471
+1533,Boji Beach Golden Rye Ale,Rye Beer,0.05,471
+1534,Hopsmith Pale Lager,American Pale Lager,0.06,301
+1535,Falling Down Brown Ale,American Brown Ale,0.065,301
+1536,Resolution Rye Stout,American Stout,0.068,301
+1537,Plowshare Porter,American Porter,0.055,301
+1538,Old Forge Pumpkin Ale,Pumpkin Ale,0.046,301
+1539,Endless Sun Ale,American Pale Wheat Ale,0.045,301
+1540,Celestial Blonde Ale,American Blonde Ale,0.065,301
+1541,Overbite IPA,American IPA,0.075,301
+1542,T-Rail Pale Ale,American Pale Ale (APA),0.055,301
+1543,Endless Summer Ale (2011),American Pale Wheat Ale,0.048,301
+1544,Clem's Gold,American Pale Lager,0.053,390
+1545,Lizzy's Red,American Amber / Red Lager,0.055,390
+1546,Orlison India Pale Lager,American Pale Lager,0.067,390
+1547,Brünette,Euro Dark Lager,0.042,390
+1548,Havanüther,Light Lager,0.041,390
+1549,Lyric Ale,Saison / Farmhouse Ale,0.065,216
+1550,Atalanta,Saison / Farmhouse Ale,0.053,216
+1551,Pinner Throwback IPA,American IPA,0.049,166
+1552,Centennial State Pale Ale,American Pale Ale (APA),0.052000000000000005,166
+1553,Old Chub NITRO,Scotch Ale / Wee Heavy,0.08,166
+1554,The CROWLER™,,,166
+1555,CAN'D AID Foundation,,,166
+1556,Icey.P.A.,American IPA,,166
+1557,One Nut Brown,English Brown Ale,0.05,166
+1558,Birth IPA,American IPA,,166
+1559,Dale's Pale Ale,American Pale Ale (APA),0.065,166
+1560,Dale's Pale Ale,American Pale Ale (APA),0.065,166
+1561,Mama's Little Yella Pils,Czech Pilsener,0.053,166
+1562,oSKAr the G'Rauch,American IPA,0.085,166
+1563,oSKAr the G'Rauch,American IPA,0.085,166
+1564,Dale's Pale Ale,American Pale Ale (APA),0.065,166
+1565,The Deuce,American Brown Ale,0.07,166
+1566,Dale's Pale Ale (10 Year Anniversary),American Pale Ale (APA),0.065,166
+1567,Dale's Pale Ale (2012),American Pale Ale (APA),0.065,166
+1568,Gordon Imperial Red (2010),American Double / Imperial IPA,0.087,166
+1569,Dale's Pale Ale (2011),American Pale Ale (APA),0.065,166
+1570,Dale's Pale Ale (2010),American Pale Ale (APA),0.065,166
+1571,G'KNIGHT (16 oz.),American Double / Imperial IPA,0.087,166
+1572,15th Anniversary Abbey Ale (2012),Belgian Dark Ale,0.09,166
+1573,Chaka,Belgian Strong Pale Ale,0.08,166
+1574,HGH (Home Grown Hops): Part Duh,American Strong Ale,0.08,166
+1575,Deviant Dale's IPA,American Double / Imperial IPA,0.08,166
+1576,One Hit Wonder,American Double / Imperial IPA,0.09,166
+1577,G'KNIGHT (12 oz.),American Double / Imperial IPA,0.087,166
+1578,Ten Fidy Imperial Stout,Russian Imperial Stout,0.099,166
+1579,Mama's Little Yella Pils,Czech Pilsener,0.053,166
+1580,GUBNA Imperial IPA,American Double / Imperial IPA,0.099,166
+1581,Old Chub,Scottish Ale,0.08,166
+1582,Gordon Ale (2009),American Double / Imperial IPA,0.087,166
+1583,Dale's Pale Ale,American Pale Ale (APA),0.065,166
+1584,Gordon (2005),American Double / Imperial IPA,0.092,503
+1585,Ten Fidy Imperial Stout (2008),Russian Imperial Stout,0.095,503
+1586,Ten Fidy Imperial Stout (2007),Russian Imperial Stout,0.099,503
+1587,Old Chub (2008),Scottish Ale,0.08,503
+1588,Old Chub (2004),Scottish Ale,0.08,503
+1589,Old Chub (2003),Scottish Ale,0.08,503
+1590,Dale's Pale Ale (2008),American Pale Ale (APA),0.065,503
+1591,Dale's Pale Ale (2006),American Pale Ale (APA),0.065,503
+1592,Dale's Pale Ale (2004),American Pale Ale (APA),0.065,503
+1593,Dale's Pale Ale (2003),American Pale Ale (APA),0.065,503
+1594,Dale's Pale Ale (2002),American Pale Ale (APA),0.065,503
+1595,Leroy (2005),American Brown Ale,0.052000000000000005,503
+1596,Gordon Beer (2006),American Double / Imperial IPA,0.087,503
+1597,G'KNIGHT,American Double / Imperial IPA,0.087,389
+1598,Ten Fidy,Russian Imperial Stout,0.099,389
+1599,Deviant Dale's IPA,American Double / Imperial IPA,0.08,389
+1600,Old Chub,Scottish Ale,0.08,389
+1601,Dale's Pale Ale,American Pale Ale (APA),0.065,389
+1602,Dale's Pale Ale,American Pale Ale (APA),0.065,389
+1603,Fresh Slice White IPA,American White IPA,0.055,275
+1604,Overgrown American Pale Ale,American Pale Ale (APA),0.055,261
+1605,Ozark American Pale Ale,American Pale Ale (APA),0.04,259
+1606,Hula Hoppie Session IPA,American IPA,0.048,341
+1607,Dirty Hippie Dark Wheat,American Dark Wheat Ale,0.053,341
+1608,Rustic Red,Irish Red Ale,0.052000000000000005,441
+1609,Stimulator Pale Ale,American Pale Ale (APA),0.053,441
+1610,Old Town Ale,Kölsch,0.045,441
+1611,Car 21,English Bitter,0.044,441
+1612,Cache La Porter,American Porter,0.05,441
+1613,Rodeo Rye Pale Ale,American Pale Ale (APA),0.042,307
+1614,Outlaw IPA,American IPA,0.062,307
+1615,North Fork Lager,American Pale Lager,0.044,307
+1616,Payette Pale Ale,American Pale Ale (APA),0.048,307
+1617,Mutton Buster,American Brown Ale,0.055,307
+1618,Side Kick Kölsch,Kölsch,0.05,468
+1619,Fresh Cut Pilsner,American Pilsner,0.046,266
+1620,Summer Session Ale,American Pale Wheat Ale,0.05,266
+1621,Lobo Lito,Light Lager,0.04,187
+1622,Robert Earl Keen Honey Pils,American Pilsner,0.05,187
+1623,Mound Builder IPA,American IPA,0.065,205
+1624,Amazon Princess IPA,American IPA,0.062,205
+1625,Farmer's Daughter Wheat,American Pale Wheat Ale,0.042,205
+1626,People's Pilsner,German Pilsener,0.045,205
+1627,Hotbox Brown,American Brown Ale,0.055,13
+1628,Gold,American Blonde Ale,0.048,13
+1629,Black,American Black Ale,0.058,13
+1630,98 Problems (Cuz A Hop Ain't One),American IPA,0.065,13
+1631,Veteran’s Pale Ale (VPA),American Pale Ale (APA),0.05,13
+1632,Grapefruit IPA,American IPA,0.05,13
+1633,Pete's ESP Lager (1998),American Pale Lager,0.051,470
+1634,Pete's Wicked Summer Brew (1995),American Pale Wheat Ale,0.047,470
+1635,Pete's Wicked Bohemian Pilsner (1997),Czech Pilsener,0.049,470
+1636,Pete's Wicked Pale Ale (1997),American Pale Ale (APA),,470
+1637,Pete's Wicked Summer Brew (2002),American Pale Wheat Ale,0.047,470
+1638,Pete's Wicked Summer Brew (1997),American Pale Wheat Ale,0.047,470
+1639,Pete's Wicked Summer Brew (1996),American Pale Wheat Ale,0.047,470
+1640,Sparkle,American Pale Lager,0.041,11
+1641,North 45 Amber Ale,American Amber / Red Ale,0.059,11
+1642,Horny Monk,Dubbel,0.069,11
+1643,Mind's Eye PA,American IPA,0.067,11
+1644,Camelback,American IPA,0.061,157
+1645,Local 5 Pale Ale,American Pale Ale (APA),0.056,355
+1646,Devils Head Red Ale,American Amber / Red Ale,0.073,355
+1647,Elephant Rock IPA,American IPA,0.07,355
+1648,Black Bay Milk Stout,Milk / Sweet Stout,0.05,310
+1649,Atom Splitter Pale Ale,American Pale Ale (APA),0.05,310
+1650,Hot Date Ale,Chile Beer,0.06,314
+1651,Masked Bandit IPA,American Black Ale,0.07,314
+1652,Sweet Potato Ale,Fruit / Vegetable Beer,0.06,314
+1653,Float Trip Ale,American Blonde Ale,0.045,314
+1654,Old Tom Porter,American Porter,0.055,314
+1655,Black Walnut Wheat,American Dark Wheat Ale,0.045,314
+1656,McKinney Eddy Amber Ale,American Amber / Red Ale,0.055,314
+1657,Missouri Mule India Pale Ale,American IPA,0.07,314
+1658,Blood of the Unicorn,American Amber / Red Ale,0.065,52
+1659,GreyBeard™ IPA,American IPA,0.069,324
+1660,Pisgah Pale Ale,American Pale Ale (APA),0.057,324
+1661,PONTO S.I.P.A.,American IPA,0.045,370
+1662,Chronic Ale,American Amber / Red Ale,0.049,370
+1663,Swami's India Pale Ale,American IPA,0.068,370
+1664,New Cleveland Palesner,American Pilsner,0.05,147
+1665,Mazzie,American Pale Ale (APA),0.054000000000000006,55
+1666,Big Chuck Barleywine,American Barleywine,0.099,274
+1667,Ponderosa IPA,American IPA,,548
+1668,Liquid Amber Ale,American Amber / Red Ale,,548
+1669,Morning Wood Wheat (Current),American Pale Wheat Ale,0.059,135
+1670,Hideout Helles,Munich Helles Lager,0.069,135
+1671,Dead Eye Dunkel,Munich Dunkel Lager,0.06,135
+1672,Peacemaker Pilsner,Czech Pilsener,0.058,135
+1673,Over the Rail Pale Ale,American Pale Ale (APA),0.057,135
+1674,Pallavicini Pilsner (2009),Czech Pilsener,0.058,135
+1675,Morning Wood Wheat (Current),American Pale Wheat Ale,0.059,135
+1676,Pyramid Hefeweizen (2011),Hefeweizen,0.052000000000000005,544
+1677,Haywire Hefeweizen (2010),Hefeweizen,0.052000000000000005,544
+1678,Golden Fleece,Belgian Pale Ale,0.045,246
+1679,Smoking Mirror,American Porter,0.055,246
+1680,Rahr's Blonde,Munich Helles Lager,0.046,176
+1681,Pride of Texas Pale Ale,American Pale Ale (APA),0.058,176
+1682,18th Anniversary Gose,Gose,0.044,128
+1683,White (2015),Witbier,0.046,128
+1684,BLAKKR,American Black Ale,0.099,128
+1685,Firemans #4 Blonde Ale (2013),American Blonde Ale,0.051,128
+1686,The Sword Iron Swan Ale,English Pale Ale,0.059,128
+1687,Hans' Pils (2015),German Pilsener,0.053,128
+1688,Four Squared (2015),American Blonde Ale,0.06,128
+1689,Firemans #4 Blonde Ale (2015),American Blonde Ale,0.051,128
+1690,Watership Brown Ale,American Brown Ale,0.07200000000000001,475
+1691,Gangway IPA,American IPA,0.062,475
+1692,Long Day Lager,Czech Pilsener,0.049,475
+1693,Farmer's Daughter Blonde,American Blonde Ale,0.051,68
+1694,Pump House IPA,American IPA,0.055,68
+1695,Suicide Blonde IPA,Belgian IPA,0.07,68
+1696,Vanilla Porter,American Porter,0.047,68
+1697,Honey Rye,Rye Beer,0.058,68
+1698,Happy Cider,Cider,0.055,403
+1699,Long Hammer IPA,American IPA,0.065,487
+1700,Long Hammer IPA,American IPA,0.065,487
+1701,Copper Hook (2011),American Amber / Red Ale,0.058,487
+1702,Nectar of the Hops,Mead,0.08,421
+1703,Sunshine Nectar,Mead,0.08,421
+1704,Black Raspberry Nectar,Mead,0.08,421
+1705,Blood Orange Wit,Witbier,0.05,225
+1706,Consilium,American Pale Ale (APA),0.05,110
+1707,Hammer & Sickle,Russian Imperial Stout,0.09,110
+1708,Redacted Rye IPA,American IPA,0.07,110
+1709,Elevation Triple India Pale Ale,American Double / Imperial IPA,0.099,110
+1710,5:00 O'Clock Afternoon Ale,American Blonde Ale,0.05,110
+1711,Ryeteous Rye IPA (2012),American IPA,0.07,110
+1712,Stout Ol' Friend,American Stout,0.064,386
+1713,Stout Ol' Friend (2012),American Stout,0.064,386
+1714,Rye Porter,American Porter,,386
+1715,Miner's Gold,American Blonde Ale,0.05,386
+1716,Vienna Lager,Vienna Lager,0.046,386
+1717,Jessie's Garage,American Pale Ale (APA),0.056,386
+1718,Colorado Red Ale,American Amber / Red Ale,0.062,386
+1719,Miner's Gold,American Blonde Ale,,386
+1720,Fist City,American Pale Ale (APA),0.055,44
+1721,A Little Crazy,Belgian Pale Ale,0.068,44
+1722,Rosa Hibiscus Ale,Herbed / Spiced Beer,0.058,44
+1723,Fistmas Ale,Herbed / Spiced Beer,0.061,44
+1724,Oktoberfest Revolution,Märzen / Oktoberfest,0.057,44
+1725,Eugene Porter,American Porter,0.068,44
+1726,Anti-Hero IPA,American IPA,0.065,44
+1727,Bottom Up Belgian Wit,Witbier,0.05,44
+1728,Hustle,American Amber / Red Ale,0.057,93
+1729,Pure Fury,American Pale Ale (APA),0.055,93
+1730,Dad,American Amber / Red Ale,0.06,93
+1731,Panther,American Porter,0.058,93
+1732,Franz,Märzen / Oktoberfest,0.052000000000000005,93
+1733,Zen,American Pale Ale (APA),0.043,93
+1734,Truth,American IPA,0.07200000000000001,93
+1735,Cougar,American Blonde Ale,0.048,93
+1736,Smooth Operator,Cream Ale,0.038,162
+1737,Gose,Gose,0.035,42
+1738,Maine Island Trail Ale,American Pale Ale (APA),0.043,42
+1739,River North White Ale,Witbier,0.05,459
+1740,River North Ale,American Amber / Red Ale,0.05,459
+1741,Lil SIPA,American IPA,0.05,321
+1742,Hop Bomber Rye Pale Ale,American Pale Ale (APA),0.055,321
+1743,Jah Mon,American IPA,0.05,43
+1744,Oktoberfest,Märzen / Oktoberfest,0.062,43
+1745,Headless Wylie,Pumpkin Ale,0.08,43
+1746,Dayman IPA,American IPA,0.05,43
+1747,All Aboard! Anniversary Stout,Oatmeal Stout,0.071,43
+1748,Hop Lace,American White IPA,0.062,43
+1749,OH-PA Session Pale Ale,American Pale Ale (APA),0.048,43
+1750,Patrick's Poison,American Amber / Red Ale,0.08,43
+1751,Rudolph's Red,American Amber / Red Ale,0.081,43
+1752,Babbling Blonde,American Blonde Ale,0.053,43
+1753,Maxwell's Scottish Ale,Scottish Ale,0.051,43
+1754,Grateful White,Witbier,0.061,43
+1755,RT Lager,American Amber / Red Lager,0.055,43
+1756,Old Wylie's IPA,American IPA,0.062,43
+1757,Hala Kahiki Pineapple Beer,Fruit / Vegetable Beer,0.048,43
+1758,Track 1 Amber Lager,American Amber / Red Lager,0.045,427
+1759,Pine Knob Pilsner,Czech Pilsener,0.053,229
+1760,Cal and Co. Black Cherry Porter,American Porter,,229
+1761,Lazy Daze Lager,American Adjunct Lager,0.055,229
+1762,Rochester Red Ale,American Amber / Red Ale,0.059,229
+1763,Milkshake Stout,Milk / Sweet Stout,0.05,229
+1764,Cornerstone IPA,American IPA,0.07,229
+1765,Lazy Daze Lager,American Adjunct Lager,0.055,229
+1766,Rogue American Amber Ale,American Amber / Red Ale,0.051,289
+1767,12th Round,American Strong Ale,0.076,376
+1768,RoughTail IPA,American IPA,0.07,376
+1769,Polar Night Stout,American Stout,0.08,376
+1770,Sundown,Saison / Farmhouse Ale,0.071,164
+1771,Sanctified,Belgian Strong Pale Ale,0.099,164
+1772,Fear of a Brett Planet,American Pale Ale (APA),0.051,164
+1773,Original Slacker Ale,English Brown Ale,0.056,164
+1774,Alpha Blackback,American Black Ale,0.07200000000000001,164
+1775,Kiss Off IPA,American IPA,0.063,164
+1776,Dog Days Summer Ale,Kölsch,0.045,164
+1777,1881 California Red,American Amber / Red Ale,0.056,397
+1778,CAPT Black IPA,American Black Ale,0.073,397
+1779,Ruhstaller's Gilt Edge Lager Beer,American Amber / Red Lager,0.048,397
+1780,CAPT Black IPA,American Black Ale,0.073,397
+1781,1881 California Red Ale,American Amber / Red Ale,0.056,397
+1782,Saint Archer White Ale,Witbier,0.05,288
+1783,Saint Archer IPA,American IPA,0.068,288
+1784,Saint Archer Pale Ale,American Pale Ale (APA),0.052000000000000005,288
+1785,Saint Archer Blonde,Kölsch,0.048,288
+1786,Sex Panther,American Porter,0.069,30
+1787,Winter Warmer (Vault Series),Winter Warmer,0.095,30
+1788,Count Hopula (Vault Series),American Double / Imperial IPA,0.091,30
+1789,Oktoberfest,Märzen / Oktoberfest,0.055,30
+1790,SunSpot Golden Ale,American Blonde Ale,0.05,30
+1791,I.W.A. (2011),American Pale Wheat Ale,0.06,30
+1792,Supermonk I.P.A.,Belgian IPA,0.065,30
+1793,Epicenter Amber Ale,American Amber / Red Ale,0.055,30
+1794,SanTan HefeWeizen,Hefeweizen,0.05,30
+1795,Hop Shock IPA,American IPA,0.07,30
+1796,Sex Panther (2014),American Porter,0.069,30
+1797,Devil’s Ale,American Pale Ale (APA),0.055,30
+1798,Rail Slide Imperial Spiced Ale,Herbed / Spiced Beer,0.081,30
+1799,Mr. Pineapple,Fruit / Vegetable Beer,0.05,30
+1800,American Idiot Ale (2012),American Pale Ale (APA),0.055,30
+1801,Hop Shock IPA (2010),American IPA,0.07,30
+1802,SanTan HefeWeizen (2010),Hefeweizen,0.05,30
+1803,Devil’s Ale (2010),American Pale Ale (APA),0.055,30
+1804,Epicenter Amber Ale (2010),American Amber / Red Ale,0.055,30
+1805,Sanitas Saison Ale,Saison / Farmhouse Ale,0.058,419
+1806,Sanitas Black IPA,American Black Ale,0.068,419
+1807,Giant DIPA,American Double / Imperial IPA,0.08900000000000001,252
+1808,Dread Brown Ale,American Brown Ale,0.054000000000000006,252
+1809,Casinos IPA,English India Pale Ale (IPA),0.07,252
+1810,Saison 88,Saison / Farmhouse Ale,0.055,392
+1811,Black IPA,American Black Ale,0.071,392
+1812,Santa Fe Irish Red Ale,Irish Red Ale,0.045,392
+1813,Santa Fe Oktoberfest,Märzen / Oktoberfest,,392
+1814,Imperial Java Stout,Russian Imperial Stout,0.08,392
+1815,Freestyle Pilsner,German Pilsener,0.055,392
+1816,Happy Camper IPA,American IPA,0.066,392
+1817,Oval Beach Blonde Ale,American Blonde Ale,0.05,398
+1818,Oak Aged Cider,Cider,0.065,394
+1819,Ginger Cider,Cider,0.065,394
+1820,Schilling Hard Cider,Cider,0.065,394
+1821,Schlafly Yakima Wheat Ale,American Pale Wheat Ale,0.05,428
+1822,Schlafly Black Lager,Schwarzbier,0.05,428
+1823,Schlafly IPA,American IPA,0.045,428
+1824,Schlafly American Brown Ale,American Brown Ale,0.05,428
+1825,Schlafly Hefeweizen,Hefeweizen,0.041,428
+1826,Schlafly Summer Lager,Munich Helles Lager,0.045,428
+1827,Sea Dog Wild Blueberry Wheat Ale,Fruit / Vegetable Beer,0.047,502
+1828,Blur India Pale Ale,American IPA,0.07400000000000001,432
+1829,Dry Cider,Cider,0.065,411
+1830,Dry Hard Cider,Cider,0.065,411
+1831,Frankenlou's IPA,American IPA,0.07,494
+1832,Becky's Black Cat Porter,American Porter,0.07,494
+1833,Seventh Son of a Seventh Son,American Strong Ale,0.077,183
+1834,Stone Fort Brown Ale,English Brown Ale,0.053,183
+1835,Seventh Son Hopped Red Ale,American Amber / Red Ale,0.077,183
+1836,Humulus Nimbus Super Pale Ale,American Pale Ale (APA),0.06,183
+1837,Golden Ratio IPA,American IPA,0.07,183
+1838,Black Hop IPA,American Black Ale,0.068,130
+1839,Archer's Ale (2004),English Pale Ale,0.05,511
+1840,Monkey Fist IPA,American IPA,0.069,385
+1841,Shipyard Summer Ale,American Pale Wheat Ale,0.051,385
+1842,Pumpkinhead Ale,Pumpkin Ale,0.047,385
+1843,Shipyard Export,American Blonde Ale,0.051,385
+1844,Nooner,German Pilsener,0.052000000000000005,83
+1845,Torpedo,American IPA,0.07200000000000001,83
+1846,Yonder Bock,Maibock / Helles Bock,0.06,83
+1847,CANfusion Rye Bock,Rye Beer,0.06,83
+1848,Sierra Nevada Pale Ale,American Pale Ale (APA),0.056,83
+1849,Old Chico Crystal Wheat,American Pale Wheat Ale,0.048,83
+1850,Summerfest,Czech Pilsener,0.05,83
+1851,Torpedo,American IPA,0.07200000000000001,83
+1852,Sierra Nevada Pale Ale,American Pale Ale (APA),0.056,83
+1853,Sietsema Red Label,Cider,0.069,137
+1854,Bear Ass Brown,American Brown Ale,0.042,551
+1855,Red Mountain Ale,American Amber / Red Ale,0.06,551
+1856,Ice Pick Ale,American IPA,0.068,551
+1857,4Beans,Baltic Porter,0.1,46
+1858,Jammer,Gose,0.042,46
+1859,Abigale,Belgian Pale Ale,0.08,46
+1860,Rad,Fruit / Vegetable Beer,0.032,46
+1861,Bengali,American IPA,0.065,46
+1862,Sensi Harvest,American Pale Ale (APA),0.047,46
+1863,Hi-Res,American Double / Imperial IPA,0.099,46
+1864,Global Warmer,American Strong Ale,0.07,46
+1865,Autumnation (2013),American IPA,0.067,46
+1866,The Crisp,German Pilsener,0.054000000000000006,46
+1867,Sweet Action,Cream Ale,0.052000000000000005,46
+1868,Righteous Ale,Rye Beer,0.063,46
+1869,Bengali Tiger,American IPA,0.064,46
+1870,3Beans,Baltic Porter,0.099,46
+1871,Brownstone,American Brown Ale,0.059,46
+1872,Apollo,American Pale Wheat Ale,0.052000000000000005,46
+1873,Harbinger,Saison / Farmhouse Ale,0.049,46
+1874,Resin,American Double / Imperial IPA,0.091,46
+1875,Diesel,American Stout,0.063,46
+1876,Autumnation (2011-12) (2011),Pumpkin Ale,0.06,46
+1877,The Crisp (2011),German Pilsener,0.054000000000000006,46
+1878,Sweet Action (2011),Cream Ale,0.052000000000000005,46
+1879,Righteous Ale (2011),Rye Beer,0.063,46
+1880,Bengali Tiger (2011),American IPA,0.064,46
+1881,Rudie Session IPA,American IPA,0.045,264
+1882,Taster's Choice,Doppelbock,0.07400000000000001,264
+1883,Modus Hoperandi,American IPA,0.068,264
+1884,Estival Cream Stout,American Stout,0.058,264
+1885,Vernal Minthe Stout,American Stout,0.058,264
+1886,Hibernal Vinifera Stout,Foreign / Export Stout,0.08,264
+1887,Autumnal Molé Stout,American Stout,,264
+1888,Mexican Logger,American Pale Lager,0.042,264
+1889,True Blonde Ale,American Blonde Ale,0.053,264
+1890,Euphoria Pale Ale,American Pale Ale (APA),0.061,264
+1891,ESB Special Ale,Extra Special / Strong Bitter (ESB),0.057,264
+1892,Modus Hoperandi,American IPA,0.068,264
+1893,Iron Butt Red Ale,American Amber / Red Ale,0.058,313
+1894,Initial Point India Pale Ale,American IPA,0.071,313
+1895,Monkey Dancing On A Razor Blade,Belgian IPA,0.085,64
+1896,Tripel Deke,Tripel,0.08199999999999999,64
+1897,Urban Wilderness Pale Ale,English Pale Ale,0.049,557
+1898,Homefront IPA,American IPA,0.06,163
+1899,Sly Fox Christmas Ale 2013,Winter Warmer,0.055,371
+1900,Grisette,Grisette,0.056,371
+1901,360° India Pale Ale,American IPA,0.062,371
+1902,Helles Golden Lager,Munich Helles Lager,0.049,371
+1903,Sly Fox Christmas Ale 2012 (2012),Winter Warmer,0.055,371
+1904,Odyssey Imperial IPA,American Double / Imperial IPA,0.084,371
+1905,Oktoberfest Lager,Märzen / Oktoberfest,0.058,371
+1906,113 IPA,American IPA,0.07,371
+1907,Dunkel Lager,Munich Dunkel Lager,0.053,371
+1908,Royal Weisse Ale,Hefeweizen,0.056,371
+1909,Pikeland Pils,German Pilsener,0.049,371
+1910,Phoenix Pale Ale,American Pale Ale (APA),0.051,371
+1911,Rule G IPA,American IPA,0.07,115
+1912,Murphy's Law,American Amber / Red Ale,0.058,115
+1913,Alter Ego ,Saison / Farmhouse Ale,0.062,115
+1914,Monarch Pilsner,American Pilsner,0.05,191
+1915,Snow King Pale Ale,American Pale Ale (APA),0.06,191
+1916,Zonker Stout,Foreign / Export Stout,0.054000000000000006,191
+1917,OB-1 Organic Ale,English Brown Ale,0.05,191
+1918,Snake River Lager,Vienna Lager,0.05,191
+1919,Snake River Pale Ale,American Pale Ale (APA),0.052000000000000005,191
+1920,Pako’s EyePA,American IPA,0.068,191
+1921,Thanksgiving Ale,Kölsch,0.05,309
+1922,Double Dagger Imperial IPA,American Double / Imperial IPA,0.092,309
+1923,Dagger Falls IPA,American IPA,0.063,309
+1924,Dagger Falls IPA,American IPA,0.063,309
+1925,Socktoberfest,Märzen / Oktoberfest,0.06,309
+1926,Hopnoxious Imperial IPA,American Double / Imperial IPA,0.079,309
+1927,Barrel Aged Seven Devils Imperial Stout,American Double / Imperial Stout,0.099,309
+1928,Boise Co-Op Two Score Ale,Saison / Farmhouse Ale,0.055,309
+1929,Sockeye Belgian Style Summer Ale,Witbier,0.05,309
+1930,Sockeye Maibock,Maibock / Helles Bock,0.064,309
+1931,Old Devil's Tooth,American Barleywine,0.099,309
+1932,Galena Golden,American Blonde Ale,0.043,309
+1933,Hell-Diver Pale Ale,American Pale Ale (APA),0.052000000000000005,309
+1934,Woolybugger Wheat,American Pale Wheat Ale,0.046,309
+1935,Power House Porter,American Porter,0.057,309
+1936,Winterfest,American Strong Ale,0.084,309
+1937,Dagger Falls IPA,American IPA,0.063,309
+1938,LuckenBock,Bock,0.07,257
+1939,Texas Pale Ale (TPA),American IPA,0.055,257
+1940,6 String Saison,Saison / Farmhouse Ale,0.08,257
+1941,Kol' Beer,Kölsch,0.05,257
+1942,Montauk Light,Light Lager,0.035,249
+1943,Na Zdraví Pilsner,Czech Pilsener,0.048,436
+1944,Nice Rack IPA,American IPA,0.055,436
+1945,2014 IPA Cicada Series,American IPA,0.075,133
+1946,Sinister Minister Black IPA,American IPA,0.077,133
+1947,Jack the Sipper,Extra Special / Strong Bitter (ESB),0.053,133
+1948,Devil's Harvest Extra Pale Ale,American Pale Ale (APA),0.058,133
+1949,Suzy B Dirty Blonde Ale,American Blonde Ale,0.05,133
+1950,Mississippi Fire Ant,American Amber / Red Ale,0.08,133
+1951,Hipster Breakfast,Oatmeal Stout,0.058,133
+1952,Suzy B Dirty Blonde Ale,American Blonde Ale,0.05,133
+1953,Devil's Harvest Extra Pale Ale,American Pale Ale (APA),0.058,133
+1954,Pine Belt Pale Ale,American Pale Ale (APA),0.065,118
+1955,Walloon,Saison / Farmhouse Ale,0.055,118
+1956,Le Mort Vivant,Bière de Garde,0.069,118
+1957,Red Cockaded Ale,American Double / Imperial IPA,0.085,118
+1958,Valkyrie Double IPA,American Double / Imperial IPA,0.092,118
+1959,Red Cockaded Ale (2013),American Double / Imperial IPA,0.085,118
+1960,Old Potentate,Old Ale,0.07200000000000001,118
+1961,Bombshell Blonde,American Blonde Ale,0.05,118
+1962,PRO-AM (2012) (2012),American Double / Imperial IPA,0.099,118
+1963,Walloon (2014),Saison / Farmhouse Ale,0.055,118
+1964,Le Mort Vivant (2011),Bière de Garde,0.069,118
+1965,Buried Hatchet Stout,Foreign / Export Stout,0.083,118
+1966,Pine Belt Pale Ale,American Pale Ale (APA),0.065,118
+1967,Bombshell Blonde,American Blonde Ale,0.05,118
+1968,Baby Daddy Session IPA,American IPA,0.047,78
+1969,Hopluia (2004),English India Pale Ale (IPA),,508
+1970,Ball & Chain (2014),American Pale Ale (APA),0.058,175
+1971,Bitter Biker Double IPA,American Double / Imperial IPA,0.096,175
+1972,God Damn Pigeon Porter,American Porter,0.08199999999999999,175
+1973,Working for the Weekend,American Double / Imperial IPA,0.079,175
+1974,Angry Adam,American Amber / Red Ale,0.06,175
+1975,Freedom Fries,American Stout,0.055,175
+1976,Bitter Biker Double IPA,American Double / Imperial IPA,0.096,175
+1977,Ghost Bike Pale Ale,American Pale Ale (APA),0.073,175
+1978,Spiteful IPA,American IPA,0.062,175
+1979,Alley Time,American Pale Ale (APA),0.06,175
+1980,Fat Badger,Irish Red Ale,0.058,175
+1981,In the Weeds,American Pale Wheat Ale,0.055,175
+1982,Special Amber,Vienna Lager,0.05,498
+1983,Special Amber,Vienna Lager,0.05,498
+1984,Seven Gates Pale Ale,American Pale Ale (APA),0.056,372
+1985,Gunga Din,Cider,0.052000000000000005,186
+1986,Starr Pils,German Pilsener,0.042,383
+1987,Northern Lights India Pale Ale,American IPA,0.065,383
+1988,Festie,Märzen / Oktoberfest,0.048,383
+1989,Northern Lights India Pale Ale,American IPA,0.065,383
+1990,Third Eye Enlightened Pale Ale,American Pale Ale (APA),0.065,119
+1991,Colorado Kölsch,Kölsch,0.049,119
+1992,Steam Engine Lager,American Amber / Red Lager,0.057,119
+1993,Third Eye Pale Ale,American IPA,0.065,119
+1994,Point Special (Current),American Adjunct Lager,0.047,131
+1995,Point Special,American Adjunct Lager,0.047,131
+1996,Point Cascade Pale Ale (2013),American Pale Ale (APA),0.054000000000000006,131
+1997,Point Special,American Adjunct Lager,0.047,131
+1998,Onyx Black Ale,American Black Ale,0.052000000000000005,131
+1999,Beyond The Pale IPA,American IPA,0.063,131
+2000,Point Special (2013),American Adjunct Lager,0.047,131
+2001,Point Special (2012),American Adjunct Lager,0.047,131
+2002,Point Special Lager,American Adjunct Lager,0.047,131
+2003,St. Benedict's Winter Ale,Winter Warmer,0.062,131
+2004,Point Oktoberfest,Märzen / Oktoberfest,0.057,131
+2005,Point Nude Beach Summer Wheat,American Pale Wheat Ale,0.052000000000000005,131
+2006,Point Nude Beach Summer Wheat,American Pale Wheat Ale,0.05,131
+2007,Point Nude Beach Summer Wheat (2011),American Pale Wheat Ale,0.05,131
+2008,Drop Dead Blonde,American Blonde Ale,0.035,131
+2009,Three Kings Ale,Kölsch,0.049,131
+2010,Point Oktoberfest,Märzen / Oktoberfest,0.057,131
+2011,2012 Black Ale,American Brown Ale,0.054000000000000006,131
+2012,Point Nude Beach Summer Wheat (2010),American Pale Wheat Ale,0.05,131
+2013,Point Cascade Pale Ale,American Pale Ale (APA),0.054000000000000006,131
+2014,Point Amber Classic,American Amber / Red Lager,0.047,131
+2015,Point Special Lager,American Adjunct Lager,0.047,131
+2016,Wisco Disco,American Amber / Red Ale,0.051,486
+2017,Brontide,American Black Ale,0.05,255
+2018,Brontide,American Black Ale,0.05,255
+2019,Classique,Saison / Farmhouse Ale,0.045,255
+2020,Sunsplash Golden Ale (2004),American Blonde Ale,0.045,492
+2021,Sand Island Lighthouse,Kölsch,0.051,412
+2022,Lily Flagg Milk Stout,Milk / Sweet Stout,0.05,412
+2023,Monkeynaut IPA,American IPA,0.07200000000000001,412
+2024,Straub Beer (Current),American Adjunct Lager,0.05,129
+2025,American Lager,American Adjunct Lager,0.041,129
+2026,American Amber,American Amber / Red Lager,0.041,129
+2027,American Light,Light Lager,0.032,129
+2028,Extra Pale Ale,American Pale Ale (APA),0.053,138
+2029,Make It So,Extra Special / Strong Bitter (ESB),0.053,58
+2030,Hopvale Organic Ale,American Pale Ale (APA),0.047,58
+2031,Unchained #18 Hop Silo,American Double / Imperial IPA,0.083,58
+2032,Tip Off,Altbier,0.052000000000000005,25
+2033,Java Mac,Scottish Ale,0.054000000000000006,25
+2034,Cowbell,American Porter,0.054000000000000006,25
+2035,Hop Up Offa That Brett (2014),Belgian Pale Ale,0.058,25
+2036,PV Muckle (2013),Scotch Ale / Wee Heavy,0.083,25
+2037,Bourbon Barrel Batch 666: Sympathy for the Devil,Belgian Dark Ale,0.099,25
+2038,Whip Fight,Scotch Ale / Wee Heavy,0.09,25
+2039,Port Barrel Wee Mac ,Scotch Ale / Wee Heavy,0.053,25
+2040,Fistful Of Hops Red,American IPA,0.064,25
+2041,Fistful of Hops Orange,American IPA,0.063,25
+2042,Fistful Of Hops Blue,American IPA,0.064,25
+2043,Fistful of Hops Green,American IPA,0.064,25
+2044,30 Min Coma,Belgian IPA,,25
+2045,Wee Muckle,Scotch Ale / Wee Heavy,0.09,25
+2046,Royal Brat,Extra Special / Strong Bitter (ESB),0.065,25
+2047,Grapefruit Jungle (GFJ),American IPA,0.075,25
+2048,Osiris Pale Ale,American Pale Ale (APA),0.056,25
+2049,Bourbon Barrel Aged Timmie,Russian Imperial Stout,0.099,25
+2050,Stupid Sexy Flanders,Flanders Oud Bruin,0.063,25
+2051,Bourbon Barrel Cowbell,American Porter,,25
+2052,Popcorn Pilsner,German Pilsener,0.054000000000000006,25
+2053,Ring of Dingle,Irish Dry Stout,0.071,25
+2054,Bourbon Barrel Wee Mac,Scottish Ale,0.054000000000000006,25
+2055,Bourbon Barrel Johan,English Barleywine,0.099,25
+2056,The Deuce,American Brown Ale,0.07,25
+2057,The Velvet Fog,Quadrupel (Quad),0.09,25
+2058,Sun King Oktoberfest,Märzen / Oktoberfest,0.055,25
+2059,Indianapolis Indians Lager,Dortmunder / Export Lager,0.052000000000000005,25
+2060,Indians Victory Lager (2012),Dortmunder / Export Lager,0.052000000000000005,25
+2061,Chaka,Belgian Strong Pale Ale,0.08,25
+2062,Isis,American Double / Imperial IPA,0.091,25
+2063,Wee Muckle (2011),Scotch Ale / Wee Heavy,0.09,25
+2064,Grapefruit Jungle (GFJ) (2011),American IPA,0.075,25
+2065,Sun King Oktoberfest (2011),Märzen / Oktoberfest,0.055,25
+2066,Johan the Barleywine,English Barleywine,0.099,25
+2067,Wee Mac Scottish-Style Ale,Scottish Ale,0.054000000000000006,25
+2068,Sunlight Cream Ale,Cream Ale,0.053,25
+2069,Osiris Pale Ale (2010),American Pale Ale (APA),0.056,25
+2070,Dam Lager,American Amber / Red Lager,0.045,455
+2071,Red Clay IPA,American IPA,0.07,455
+2072,Todd the Axe Man,American IPA,0.07200000000000001,61
+2073,Doomtree,Extra Special / Strong Bitter (ESB),0.057,61
+2074,BLAKKR,American Black Ale,0.099,61
+2075,Overrated! West Coast Style IPA,American IPA,0.073,61
+2076,WET,American IPA,0.075,61
+2077,Bitter Brewer,English Bitter,0.04,61
+2078,SurlyFest,Rye Beer,0.055,61
+2079,Coffee Bender,American Brown Ale,0.051,61
+2080,Bender,American Brown Ale,0.051,61
+2081,Abrasive Ale,American Double / Imperial IPA,0.097,61
+2082,Hell,Keller Bier / Zwickel Bier,0.051,61
+2083,CynicAle,Saison / Farmhouse Ale,0.067,61
+2084,Furious,American IPA,0.062,61
+2085,Big Nose,American IPA,0.073,447
+2086,Cotton Mouth,Witbier,0.05,447
+2087,Stump Knocker Pale Ale,American Pale Ale (APA),0.056,447
+2088,Midnight Oil,Oatmeal Stout,0.05,447
+2089,Wild Night,Cream Ale,0.059,447
+2090,Bermuda Triangle Ginger Beer,Herbed / Spiced Beer,0.045,381
+2091,Take Two Pils,German Pilsener,0.055,49
+2092,Waterkeeper,Hefeweizen,0.057,49
+2093,SweetWater IPA,American IPA,0.064,49
+2094,420 Extra Pale Ale,American Pale Ale (APA),0.054000000000000006,49
+2095,Dodgy Knight Imperial IPA,American Double / Imperial IPA,0.08,449
+2096,TailGate Saison,Saison / Farmhouse Ale,0.05,449
+2097,TailGate IPA,American IPA,0.05,449
+2098,TailGate IPA,American IPA,0.05,449
+2099,TailGate Hefeweizen,Hefeweizen,0.049,449
+2100,Blacktop Blonde,American Blonde Ale,0.05,449
+2101,Blacktop Blonde,American Blonde Ale,0.05,449
+2102,TailGate Hefeweizen,Hefeweizen,0.049,449
+2103,Wooden Rooster,Tripel,0.085,45
+2104,Ginger Peach Saison,Saison / Farmhouse Ale,0.048,45
+2105,Zombie Monkie,American Porter,0.062,45
+2106,Wild Plum Farmhouse Ale,Saison / Farmhouse Ale,0.056,45
+2107,Vanilla Bean Buffalo Sweat,Oatmeal Stout,0.05,45
+2108,Ethos IPA,American IPA,0.068,45
+2109,Tallgrass Pub Ale,American Brown Ale,0.044,45
+2110,Oasis,Extra Special / Strong Bitter (ESB),0.07200000000000001,45
+2111,Buffalo Sweat,Milk / Sweet Stout,0.05,45
+2112,Halcyon Unfiltered Wheat,American Pale Wheat Ale,0.05,45
+2113,8-Bit Pale Ale,American Pale Ale (APA),0.052000000000000005,45
+2114,Velvet Rooster,Tripel,0.085,45
+2115,Halcyon Unfiltered Wheat,American Pale Wheat Ale,0.05,45
+2116,Köld Lager (2010),German Pilsener,0.05,45
+2117,Oasis (2010),American Double / Imperial IPA,0.07200000000000001,45
+2118,Tallgrass Ale,American Brown Ale,0.044,45
+2119,Buffalo Sweat (2010),Milk / Sweet Stout,0.05,45
+2120,Tallgrass IPA,American IPA,0.063,45
+2121,Hat Trick Hop IPA,American IPA,0.068,409
+2122,Yard Sale Amber Ale,American Amber / Red Ale,0.056,409
+2123,Loafin Bräu,Altbier,0.055,490
+2124,Old Elephant Foot IPA,American IPA,0.07,490
+2125,Peck's Porter,American Porter,0.065,7
+2126,Reactor,American IPA,0.07,7
+2127,Mr. Orange,Witbier,0.057,7
+2128,Deduction,Dubbel,0.08,28
+2129,Face Down Brown Ale,American Brown Ale,0.057,480
+2130,Tempter IPA,American IPA,0.064,480
+2131,Bridal Veil Rye Pale Ale,American Pale Ale (APA),0.055,480
+2132,Smittytown,Extra Special / Strong Bitter (ESB),0.048,210
+2133,Greenwood Beach,Fruit / Vegetable Beer,0.04,210
+2134,Gatecrasher,English India Pale Ale (IPA),0.066,210
+2135,RecreationAle,American Pale Ale (APA),0.047,469
+2136,First Stand,Saison / Farmhouse Ale,0.055,215
+2137,Battle LIne,American Brown Ale,0.063,215
+2138,Broken Bridge,Dunkelweizen,0.056,215
+2139,Brutus,English India Pale Ale (IPA),0.071,215
+2140,Petit Mutant,American Wild Ale,0.06,272
+2141,The Crusher,American Double / Imperial IPA,0.096,272
+2142,Beelzebub,American Double / Imperial Stout,0.08,272
+2143,Focal Banger,American IPA,0.07,272
+2144,Heady Topper,American Double / Imperial IPA,0.08,272
+2145,Heady Topper,American Double / Imperial IPA,0.08,272
+2146,Bomber Mountain Amber Ale (2013),American Amber / Red Ale,0.046,457
+2147,Indian Paintbrush IPA,American IPA,0.07,457
+2148,Saddle Bronc Brown Ale (2013),English Brown Ale,0.048,457
+2149,Wagon Box Wheat Beer,American Pale Wheat Ale,0.059,457
+2150,Birdhouse Pale Ale,Belgian Pale Ale,0.05,262
+2151,Ozzy,Belgian Pale Ale,0.073,262
+2152,Resurrection,Dubbel,0.07,262
+2153,Bronx Summer Pale Ale,American Pale Ale (APA),0.052000000000000005,329
+2154,Bronx Black Pale Ale,American Black Ale,0.057,329
+2155,Bronx Pale Ale,American Pale Ale (APA),0.063,329
+2156,Surfrider,American Pale Ale (APA),0.052000000000000005,33
+2157,Kolschtal Eddy,Kölsch,0.055,33
+2158,South Bay Session IPA,American IPA,0.05,33
+2159,Grandma's Pecan,English Brown Ale,0.069,33
+2160,Double Trunk,American Double / Imperial IPA,0.099,33
+2161,Just IPA,American IPA,0.046,328
+2162,Lionshead,American Pilsner,0.045,90
+2163,Manhattan Gold Lager (1990),American Amber / Red Lager,,484
+2164,G. B. Russo’s Italian Pistachio Pale Ale,American Pale Ale (APA),0.052000000000000005,9
+2165,Northern Hawk Owl Amber,American Amber / Red Ale,0.058,438
+2166,CEO Stout,American Stout,0.059,438
+2167,Will Power Pale Ale,American Pale Ale (APA),0.047,438
+2168,Curious Traveler Shandy,Shandy,0.044,334
+2169,Hunny Do Wheat,American Pale Wheat Ale,0.048,142
+2170,Three Way Pale Ale,American Pale Ale (APA),0.052000000000000005,142
+2171,Rise to the Top,Cream Ale,0.041,142
+2172,Lost Trout Brown Ale,American Brown Ale,0.049,142
+2173,Watermelon Ale,Fruit / Vegetable Beer,0.051,108
+2174,Knotty Blonde Ale,American Blonde Ale,0.04,153
+2175,Fivepine Chocolate Porter,American Porter,0.062,153
+2176,Hoodoo Voodoo IPA,American IPA,0.062,153
+2177,Hydraulion Red,Irish Red Ale,0.053,273
+2178,40 Mile IPA,American IPA,0.06,273
+2179,Citra Faced,American Pale Wheat Ale,0.055,21
+2180,Pole Barn Stout,Oatmeal Stout,0.055,21
+2181,Pale,American Pale Ale (APA),0.054000000000000006,21
+2182,Yoshi's Nectar,California Common / Steam Beer,0.053,21
+2183,Leatherhead Red,American Amber / Red Ale,0.052000000000000005,282
+2184,Cropduster Mid-American IPA,American IPA,0.065,282
+2185,Golden Frau Honey Wheat,Braggot,0.075,282
+2186,Cornstalker Dark Wheat,American Dark Wheat Ale,,282
+2187,Cafe Leche,American Porter,0.058,17
+2188,Damascene Apricot Sour,Fruit / Vegetable Beer,0.052000000000000005,17
+2189,Csar,Russian Imperial Stout,0.12,17
+2190,Klingon Warnog Roggen Dunkel,Roggenbier,0.055,17
+2191,Overlord Imperial IPA,American Double / Imperial IPA,0.085,17
+2192,Alloy,American IPA,0.058,17
+2193,Rivet Irish Red Ale,Irish Red Ale,0.051,17
+2194,3 Gear Robust Porter,American Porter,0.052000000000000005,17
+2195,Circuit Bohemian Pilsner,Czech Pilsener,0.045,17
+2196,Turnrow Harvest Ale,American Blonde Ale,0.055,152
+2197,Juke Joint IPA,American IPA,0.07,152
+2198,Parade Ground Coffee Porter,American Porter,0.07,152
+2199,Tin Roof Watermelon Wheat,Fruit / Vegetable Beer,0.05,152
+2200,Tin Roof Blonde Ale,American Blonde Ale,0.045,152
+2201,Voodoo Bengal Pale Ale,American Pale Ale (APA),0.055,152
+2202,Perfect Tin Amber,American Amber / Red Ale,0.045,152
+2203,IPA & a Half,American IPA,0.073,291
+2204,Ornery Amber Lager (2003),Vienna Lager,0.055,291
+2205,Big Island Shandy,Shandy,0.05,474
+2206,Preservation IPA,American IPA,0.068,474
+2207,Almanac IPA,American IPA,0.062,265
+2208,Milk Mustachio Stout,Milk / Sweet Stout,0.065,265
+2209,Farmer's Tan Red Ale,American Amber / Red Ale,0.06,265
+2210,Triangle India Pale Ale,American IPA,0.057,524
+2211,Triangle White Ale,Witbier,0.05,524
+2212,Triangle Belgian Golden Ale,Belgian Strong Pale Ale,0.08,524
+2213,Troegenator,Doppelbock,0.08199999999999999,97
+2214,Nugget Nectar,American Amber / Red Ale,0.075,97
+2215,Sunshine Pils,American Pilsner,0.045,97
+2216,Troegenator Doublebock,Doppelbock,0.08199999999999999,97
+2217,Perpetual IPA,American IPA,0.075,97
+2218,Greenville Pale Ale,American Pale Ale (APA),0.055,539
+2219,Hoppy Boy,American IPA,0.062,520
+2220,Cow Creek,American Amber / Red Lager,0.054000000000000006,38
+2221,Chupahopra,American IPA,0.075,38
+2222,Twisted X,American Adjunct Lager,0.051,38
+2223,Day Hike Session,American IPA,0.041,190
+2224,Trailhead ISA,American IPA,0.048,190
+2225,Immersion Amber,American Amber / Red Ale,0.052000000000000005,190
+2226,Evo IPA,American IPA,0.062,190
+2227,Presidential Pils,Czech Pilsener,0.048,190
+2228,Evolutionary IPA (2012),American IPA,0.062,190
+2229,Persnickety Pale,American Pale Ale (APA),0.057,190
+2230,SoDo Brown Ale,American Brown Ale,0.054000000000000006,190
+2231,Immersion Amber Ale (2011),American Amber / Red Ale,0.052000000000000005,190
+2232,Evolutionary IPA (2011),American IPA,0.062,190
+2233,Trailhead India Style Session Ale (2011),American IPA,0.048,190
+2234,Panorama Wheat Ale,American Pale Wheat Ale,0.046,190
+2235,Wobble,American IPA,0.063,74
+2236,Night Cat,American Dark Wheat Ale,0.058,74
+2237,Night Cat (2014),American Dark Wheat Ale,0.058,74
+2238,Dog Days Lager,Dortmunder / Export Lager,0.051,74
+2239,Sidekick Extra Pale Ale,American Pale Ale (APA),0.051,74
+2240,Atom Smasher,Märzen / Oktoberfest,0.077,74
+2241,Testudo,Bière de Garde,0.045,74
+2242,Hobnob B & B Pale Ale,American Pale Ale (APA),0.065,74
+2243,Cane and Ebel,American Strong Ale,0.07,74
+2244,Outlaw IPA (2015),American IPA,0.065,74
+2245,The Gilded Age,Munich Helles Lager,0.045,243
+2246,No Limits Hefeweizen,Hefeweizen,0.05,435
+2247,Honeyspot Road White IPA,American White IPA,0.06,435
+2248,Road 2 Ruin Double IPA,American Double / Imperial IPA,0.07200000000000001,435
+2249,Workers Comp Saison,Saison / Farmhouse Ale,0.048,435
+2250,Ol' Factory Pils,German Pilsener,0.05,435
+2251,PUNK'N,Pumpkin Ale,0.05,159
+2252,Yard Sale Winter Lager,American Amber / Red Lager,0.04,159
+2253,Trader Session IPA,American IPA,0.04,159
+2254,Hop Nosh IPA,American IPA,0.073,159
+2255,SUM'R,American Blonde Ale,0.04,159
+2256,Organic Baba Black Lager,Schwarzbier,0.04,159
+2257,Hop Notch IPA (2013),American IPA,0.073,159
+2258,Cutthroat Pale Ale,American Pale Ale (APA),0.04,159
+2259,WYLD Extra Pale Ale,American Pale Ale (APA),0.04,159
+2260,Pilsner Ukiah,German Pilsener,0.055,555
+2261,The Green Room,American IPA,0.06,126
+2262,Humbucker Helles,Maibock / Helles Bock,0.047,126
+2263,Uncle John's Apple Cherry Cider,Cider,0.065,338
+2264,Uncle John's Apricot Apple Cider,Cider,0.065,338
+2265,Draught Hard Apple Cider,Cider,0.065,338
+2266,Scotty K NA,Low Alcohol Beer,0.001,522
+2267,Bacon Brown Ale,American Brown Ale,0.068,522
+2268,Golden State Ale,Belgian Pale Ale,0.064,522
+2269,Baltic Porter,Baltic Porter,0.078,522
+2270,Siamese twin,Dubbel,0.085,522
+2271,Double Duckpin,American Double / Imperial IPA,0.085,71
+2272,Old Pro,Gose,0.042,71
+2273,Duckpin Pale Ale,American Pale Ale (APA),0.055,71
+2274,Balt Altbier,Altbier,0.06,71
+2275,Campside Session IPA,American IPA,0.045,202
+2276,Upland Wheat Ale,Witbier,0.045,202
+2277,Dragonfly IPA,American IPA,0.06,202
+2278,Lee Hill Series Vol. 5 - Belgian Style Quadrupel Ale,Quadrupel (Quad),0.128,51
+2279,Lee Hill Series Vol. 4 - Manhattan Style Rye Ale,Rye Beer,0.104,51
+2280,Lee Hill Series Vol. 2 - Wild Saison,American Wild Ale,0.068,51
+2281,Lee Hill Series Vol. 3 - Barrel Aged Imperial Stout,American Double / Imperial Stout,0.099,51
+2282,Lee Hill Series Vol. 1 - Barrel Aged Brown Ale,American Brown Ale,0.076,51
+2283,Blood Orange Saison,Saison / Farmhouse Ale,0.06,51
+2284,Thai Style White IPA,American White IPA,0.065,51
+2285,Ferus Fluxus Wild Belgian Pale Ale,American Wild Ale,0.075,51
+2286,Upslope Imperial India Pale Ale,American Double / Imperial IPA,0.099,51
+2287,Upslope Christmas Ale,Winter Warmer,0.08199999999999999,51
+2288,Upslope Pumpkin Ale,Pumpkin Ale,0.077,51
+2289,Upslope Belgian Style Pale Ale,Belgian Pale Ale,0.075,51
+2290,Upslope Foreign Style Stout,Foreign / Export Stout,0.069,51
+2291,Top Rope Mexican-style Craft Lager,Vienna Lager,0.048,51
+2292,Upslope Craft Lager,Vienna Lager,0.048,51
+2293,Upslope Brown Ale,English Brown Ale,0.067,51
+2294,Upslope Pale Ale,American Pale Ale (APA),0.058,51
+2295,Upslope India Pale Ale,American IPA,0.07200000000000001,51
+2296,Common Sense Kentucky Common Ale,American Brown Ale,0.053,546
+2297,Upstate I.P.W.,American IPA,0.065,546
+2298,Squatters Full Suspension Pale Ale,American Pale Ale (APA),0.04,302
+2299,Squatters Hop Rising Double IPA,American Double / Imperial IPA,0.09,302
+2300,Devastator Double Bock,Doppelbock,0.08,302
+2301,Wasatch Ghostrider White IPA,American White IPA,0.06,302
+2302,Wasatch Ghostrider White IPA (2014),American White IPA,0.06,302
+2303,Wasatch Apricot Hefeweizen,Fruit / Vegetable Beer,0.04,302
+2304,Squatters Hop Rising Double IPA (2014),American Double / Imperial IPA,0.09,302
+2305,Squatters Full Suspension Pale Ale,American Pale Ale (APA),0.04,302
+2306,Nunica Pine,Cider,0.068,185
+2307,Ginger Peach,Cider,0.069,185
+2308,Totally Roasted,Cider,0.068,185
+2309,Blue Gold,Cider,0.068,185
+2310,Hard Apple,Cider,0.068,185
+2311,Nitro Can Coffee Stout,American Stout,0.052000000000000005,113
+2312,Voodoo Love Child,Tripel,0.092,322
+2313,White Magick of the Sun,Witbier,0.079,322
+2314,Wynona's Big Brown Ale,American Brown Ale,0.075,322
+2315,Gran Met,Belgian Strong Pale Ale,0.092,322
+2316,Good Vibes IPA,American IPA,0.073,322
+2317,Pilzilla,American Double / Imperial Pilsner,0.075,322
+2318,Wachusett Light IPA,American IPA,0.04,295
+2319,Green Monsta IPA,American IPA,0.06,295
+2320,Wachusett IPA,American IPA,0.056,295
+2321,Strawberry White,Witbier,0.047,295
+2322,Larry Imperial IPA,American Double / Imperial IPA,0.085,295
+2323,Wachusett Summer,American Pale Wheat Ale,0.047,295
+2324,Country Pale Ale,English Pale Ale,0.051,295
+2325,Wachusett Light IPA (2013),American IPA,0.04,295
+2326,Pumpkan,Pumpkin Ale,0.052000000000000005,295
+2327,Wachusett Blueberry Ale,Fruit / Vegetable Beer,0.045,295
+2328,Green Monsta IPA,American IPA,0.06,295
+2329,T-6 Red Ale (2004),American Amber / Red Ale,0.047,506
+2330,Self Starter,American IPA,0.052000000000000005,94
+2331,Ermal's,Cream Ale,0.054000000000000006,94
+2332,10 Ton,Oatmeal Stout,0.07,94
+2333,Flyin' Rye,American IPA,0.07,94
+2334,Christmas Ale,Herbed / Spiced Beer,0.09,100
+2335,Pay It Forward Cocoa Porter,American Porter,0.07,100
+2336,West Sixth Amber Ale,American Amber / Red Ale,0.055,100
+2337,West Sixth IPA,American IPA,,100
+2338,One Claw,American Pale Ale (APA),0.055,384
+2339,Westbrook Gose,Gose,0.04,384
+2340,White Thai,Witbier,0.05,384
+2341,Westbrook IPA,American IPA,0.068,384
+2342,Westfield Octoberfest,Märzen / Oktoberfest,0.057,351
+2343,Pop's Old Fashioned Lager,American Amber / Red Lager,0.052000000000000005,351
+2344,Charlie in the Rye,American IPA,0.058,351
+2345,Royal Lager,American Pale Lager,,132
+2346,Rip Van Winkle (Current),Bock,0.08,132
+2347,O’Malley’s Stout,English Stout,,132
+2348,O’Malley’s IPA,American IPA,0.075,132
+2349,O’Malley’s Irish Style Cream Ale,Cream Ale,,132
+2350,L'il Lucy's Hot Pepper Ale,Chile Beer,0.049,132
+2351,Drop Kick Ale,American Amber / Red Ale,0.052000000000000005,132
+2352,Raspberry Berliner Weisse,Berliner Weissbier,0.055,47
+2353,Hop Session,American IPA,0.05,47
+2354,Blueberry Berliner Weisse,Berliner Weissbier,0.055,47
+2355,Berliner Weisse,Berliner Weissbier,0.055,47
+2356,Super G IPA,American IPA,0.06,396
+2357,Hefe Lemon,Radler,0.049,296
+2358,Hefe Black,Hefeweizen,0.049,296
+2359,Widmer Brothers Hefeweizen,Hefeweizen,0.049,296
+2360,Hop Slayer Double IPA,American Double / Imperial IPA,0.08199999999999999,361
+2361,Pumpkin Ale,Pumpkin Ale,0.045,361
+2362,Big Bowl Blonde Ale,American Brown Ale,0.05,361
+2363,Phat Chance,American Blonde Ale,0.052000000000000005,361
+2364,Hop Slayer Double IPA (2011),American Double / Imperial IPA,0.08199999999999999,361
+2365,Hop Slayer Double IPA (2011),American Double / Imperial IPA,0.08199999999999999,361
+2366,Wild Onion Summer Wit,Witbier,0.042,361
+2367,Jack Stout,Oatmeal Stout,0.06,361
+2368,Wild Onion Pumpkin Ale (2010),Pumpkin Ale,0.045,361
+2369,Paddy Pale Ale,American Pale Ale (APA),0.056,361
+2370,Blonde Hunny,Belgian Pale Ale,0.068,181
+2371,Wild Wolf Wee Heavy Scottish Style Ale,Scotch Ale / Wee Heavy,0.057,181
+2372,Wild Wolf American Pilsner,American Pilsner,0.045,181
+2373,Alpha Ale,American Pale Ale (APA),0.051,181
+2374,Mystical Stout,Irish Dry Stout,0.054000000000000006,499
+2375,Bodacious Bock,Bock,0.075,499
+2376,Ambitious Lager,Munich Helles Lager,0.05,499
+2377,Wyoming Pale Ale,American Pale Ale (APA),0.07200000000000001,550
+2378,Wind River Blonde Ale,American Blonde Ale,0.05,550
+2379,Ace IPA,American IPA,0.07400000000000001,509
+2380,P-51 Porter,American Porter,0.08,509
+2381,#001 Golden Amber Lager,American Amber / Red Lager,0.055,211
+2382,#002 American I.P.A.,American IPA,0.071,211
+2383,#003 Brown & Robust Porter,American Porter,0.052000000000000005,211
+2384,#004 Session I.P.A.,American IPA,0.048,211
+2385,Tarasque,Saison / Farmhouse Ale,0.059,239
+2386,Ananda India Pale Ale,American IPA,0.062,239
+2387,Tiny Bomb,American Pilsner,0.045,239
+2388,Train Hopper,American IPA,0.058,14
+2389,Edward’s Portly Brown,American Brown Ale,0.045,14
+2390,Troopers Alley IPA,American IPA,0.059,344
+2391,Wolverine Premium Lager,American Pale Lager,0.047,402
+2392,Woodchuck Amber Hard Cider,Cider,0.05,501
+2393,4000 Footer IPA,American IPA,0.065,109
+2394,Summer Brew,American Pilsner,0.028,109
+2395,Be Hoppy IPA,American IPA,0.065,339
+2396,Worthy IPA,American IPA,0.069,199
+2397,Easy Day Kolsch,Kölsch,0.045,199
+2398,Lights Out Vanilla Cream Extra Stout,American Double / Imperial IPA,0.077,199
+2399,Worthy IPA (2013),American IPA,0.069,199
+2400,Worthy Pale,American Pale Ale (APA),0.06,199
+2401,Patty's Chile Beer,Chile Beer,0.042,424
+2402,Colorojo Imperial Red Ale,American Strong Ale,0.08199999999999999,424
+2403,Wynkoop Pumpkin Ale,Pumpkin Ale,0.055,424
+2404,Rocky Mountain Oyster Stout,American Stout,0.075,424
+2405,Belgorado,Belgian IPA,0.067,424
+2406,Rail Yard Ale,American Amber / Red Ale,0.052000000000000005,424
+2407,B3K Black Lager,Schwarzbier,0.055,424
+2408,Silverback Pale Ale,American Pale Ale (APA),0.055,424
+2409,Rail Yard Ale (2009),American Amber / Red Ale,0.052000000000000005,424
