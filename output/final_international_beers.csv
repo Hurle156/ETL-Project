@@ -1,4 +1,4 @@
-,Beer Name,Style,abv,Brewery Id
+,beer_name,style,ABV,brewery_id
 0,Oude Geuze,Belgian-Style Fruit Lambic,6.0,578
 1,Drie Fonteinen Kriek,Belgian-Style Fruit Lambic,5.0,578
 2,Bock Beer,Traditional German-Style Bock,5.900000095399999,579
