@@ -1,0 +1,779 @@
+,Beer Name,Style,abv,Brewery Id
+0,Oude Geuze,Belgian-Style Fruit Lambic,6.0,578
+1,Drie Fonteinen Kriek,Belgian-Style Fruit Lambic,5.0,578
+2,Bock Beer,Traditional German-Style Bock,5.900000095399999,579
+3,JuleÃ¸l,Dark American-Belgo-Style Ale,5.900000095399999,579
+4,Classic Special Brew,American-Style Lager,0.0,579
+5,Genuine Pilsner,German-Style Pilsener,5.5,579
+6,Gull Classic,American-Style Lager,5.5,579
+7,Rochefort 10,Belgian-Style Quadrupel,11.300000190999999,580
+8,Rochefort 6,Dark American-Belgo-Style Ale,7.5,580
+9,Leffe Blonde,Golden or Blonde Ale,6.599999904600001,581
+10,8,Belgian-Style Dubbel,8.0,582
+11,10,Belgian-Style Tripel,10.0,582
+12,6,Golden or Blonde Ale,6.0,582
+13,Abhi beer,Bamberg-Style Bock Rauchbier,0.0,583
+14,Broadside Ale,Extra Special Bitter,6.3000001907000005,584
+15,Adnam's Suffolk Special Bitter,Extra Special Bitter,4.5,584
+16,Adnams Fisherman,American-Style Amber/Red Ale,4.5,584
+17,Adnams Tally Ho,American-Style Barley Wine Ale,7.5,584
+18,Adnams Explorer,Ordinary Bitter,5.5,584
+19,Nut Brown Ale,American-Style Brown Ale,3.2000000476999997,584
+20,Affligem Dubbel,Belgian-Style Dubbel,6.8000001907000005,585
+21,Catfish Cream Ale,American-Style Lager,5.0,586
+22,St. Martin Doppelbock,Traditional German-Style Bock,7.5,587
+23,Porteris,Traditional German-Style Bock,7.0,588
+24,Cambonator Doppelbock,Traditional German-Style Bock,7.1999998092999995,589
+25,Winterfestival,German-Style Oktoberfest,5.5,589
+26,Winterfestival,German-Style Oktoberfest,5.5,589
+27,Cambonator Doppelbock,Traditional German-Style Bock,7.1999998092999995,589
+28,Podge Belgian Imperial Stout,American-Style Stout,10.5,590
+29,Amstel Light,American-Style Light Lager,3.5,591
+30,Doppelbock Dunkel,Traditional German-Style Bock,7.0,592
+31,Guinness Draught,American-Style Stout,4.3000001907,593
+32,Foreign Extra Stout,Foreign (Export)-Style Stout,7.5,593
+33,Guinness Extra Stout,American-Style Stout,5.0,593
+34,Harp Lager,American-Style Lager,5.0,593
+35,Guinness 250th Anniversary Stout,American-Style Stout,5.0,593
+36,Guinness Draught,Classic Irish-Style Dry Stout,4.3000001907,593
+37,Kuronama,Porter,0.0,594
+38,Asahi Super Dry,American-Style Lager,0.0,594
+39,Maximator,Traditional German-Style Bock,0.0,595
+40,WeiÃŸbier,Light American Wheat Ale or Lager,0.0,595
+41,King Lager,American-Style Light Lager,5.1999998093,596
+42,Porter Czarny Boss / Black BOSS Porter,American-Style Stout,9.6000003815,597
+43,Mocny BOSS / BOSS Beer,American-Style Lager,8.1000003815,597
+44,Baltika 6,Baltic-Style Porter,7.0,598
+45,HefeweiÃŸbier,South German-Style Hefeweizen,0.0,599
+46,Christmas Bock,Traditional German-Style Bock,6.0,599
+47,Der Weisse Bock,South German-Style Weizenbock,8.5,599
+48,Weisse,South German-Style Hefeweizen,4.9000000954,599
+49,Schwarze,German-Style Schwarzbier,0.0,600
+50,Rotgold-Pils,American-Style Lager,4.9000000954,600
+51,Bass Pale Ale,Classic English-Style Pale Ale,5.0,601
+52,Korbinian,Traditional German-Style Bock,7.400000095399999,602
+53,Festbier,German-Style Oktoberfest,0.0,602
+54,Kristall Weissbier,South German-Style Hefeweizen,5.400000095399999,602
+55,Hefe Weissbier,South German-Style Hefeweizen,5.400000095399999,602
+56,Genuine Irish Stout,American-Style Stout,4.0999999046,603
+57,BeckÂ´s,German-Style Pilsener,4.5,604
+58,Wee Heavy,Scotch Ale,6.5,605
+59,Twisted Thistle India Pale Ale,American-Style Pale Ale,6.099999904600001,605
+60,Scottish Ale,Scottish-Style Light Ale,3.9000000954000003,605
+61,Belikin Stout,American-Style Stout,0.0,606
+62,Hollandia,American-Style Lager,0.0,607
+63,La Trappe Tripel,Belgian-Style Tripel,8.0,608
+64,La Trappe Enkel / La Trappe Blond,Golden or Blonde Ale,6.5,608
+65,Tilburg's Dutch Brown Ale,Other Belgian-Style Ales,5.0,608
+66,La Trappe Dubbel,Belgian-Style Dubbel,6.5,608
+67,Robertus,American-Style Lager,6.0,609
+68,Christoffel Blond,Golden or Blonde Ale,6.0,609
+69,#17 Cream Ale,American-Style Lager,0.0,610
+70,Lager,American-Style Lager,0.0,610
+71,Red Truck Ale,American-Style Amber/Red Ale,0.0,610
+72,Light Lager,American-Style Lager,0.0,610
+73,Old Sullivan Porter,Porter,0.0,610
+74,Clover Pale Ale,American-Style Pale Ale,0.0,610
+75,Brotherhood Black & Tan,American-Style Brown Ale,0.0,610
+76,Nut Brown Ale,American-Style Brown Ale,0.0,611
+77,Pale Ale,American-Style Pale Ale,0.0,611
+78,Vienna Lager,American-Style Lager,0.0,611
+79,Dry Stout,American-Style Stout,0.0,611
+80,Albino Rhino (discontinued),American-Style Pale Ale,0.0,612
+81,Buzzard Breath (discontinued),American-Style Pale Ale,5.0,612
+82,Grasshopper,Light American Wheat Ale or Lager,0.0,612
+83,Cold Cock Porter (discontinued),Porter,0.0,612
+84,Traditional Ale,American-Style Brown Ale,5.0,612
+85,Sixtus,Traditional German-Style Bock,0.0,613
+86,La Rossa,Traditional German-Style Bock,7.1999998092999995,614
+87,Birra Moretti La Rossa,Traditional German-Style Bock,7.1999998092999995,614
+88,NoÃ«l,Old Ale,0.0,615
+89,Premium Beer,German-Style Pilsener,4.8000001907,616
+90,Black Creek Porter,Smoke Beer,0.0,617
+91,Borsodi,German-Style Pilsener,5.0,618
+92,Special Amber Lager,American-Style Lager,0.0,619
+93,Triple,Belgian-Style Tripel,8.3999996185,620
+94,McChouffe,Dark American-Belgo-Style Ale,8.5,621
+95,La Chouffe Golden Ale,Belgian-Style Pale Strong Ale,8.0,621
+96,Hercule Stout,American-Style Stout,9.0,622
+97,Belzebuth,Golden or Blonde Ale,13.0,623
+98,St-Ambroise Apricot Wheat Ale,Light American Wheat Ale or Lager,5.0,624
+99,St-Ambroise Oatmeal Stout,Oatmeal Stout,5.0,624
+100,Griffon Brown Ale,American-Style Brown Ale,0.0,624
+101,Orval Trappist Ale,Other Belgian-Style Ales,6.900000095399999,625
+102,Petite Orval,Other Belgian-Style Ales,3.5,625
+103,BiÃ¨re Darbyste,Light American Wheat Ale or Lager,0.0,626
+104,Brasserie de Brunehaut Bio BiÃ¨re AmbrÃ©e (Organic),American-Style Amber/Red Ale,6.5,627
+105,Brasserie De Brunehaut Bio BiÃ¨re Blonde (Organic),Other Belgian-Style Ales,6.5,627
+106,Abbaye de Saint-Martin Triple,Other Belgian-Style Ales,9.0,627
+107,Abbaye de St Amand,Other Belgian-Style Ales,7.0,627
+108,Abbaye de Saint-Martin Blonde,Belgian-Style Pale Strong Ale,7.0,627
+109,Abbaye de Saint-Martin Brune,Belgian-Style Dark Strong Ale,8.0,627
+110,Brasserie de Brunehaut Bio BiÃ¨re Blanche (Organic),Belgian-Style White,5.0,627
+111,Tournay Black,Belgian-Style Dark Strong Ale,7.599999904600001,628
+112,Scotch,American-Style Pale Ale,8.0,629
+113,Hinano,American-Style Lager,5.0,630
+114,Blonde,Other Belgian-Style Ales,6.0,631
+115,Zinnebir,American-Style Pale Ale,0.0,632
+116,BÃªte des Vosges,Old Ale,0.0,633
+117,Ambr,Out of Category,0.0,634
+118,Bruocsella 1900 Grand Cru,Belgian-Style Fruit Lambic,0.0,635
+119,Classic Gueuze,Belgian-Style Fruit Lambic,0.0,635
+120,RosÃ© de Gambrinus,Belgian-Style Fruit Lambic,0.0,635
+121,Iris 1996,Belgian-Style Fruit Lambic,0.0,635
+122,Iris,Belgian-Style Fruit Lambic,0.0,635
+123,Vigneronne,Belgian-Style Fruit Lambic,5.0,635
+124,CuvÃ©e des Champions 2003-2004,Belgian-Style Fruit Lambic,0.0,635
+125,Kriek-Lambic,Belgian-Style Fruit Lambic,0.0,635
+126,Gueuze Bio / Organic Gueuze,Belgian-Style Fruit Lambic,0.0,635
+127,See-Weizen Bio-Hefeweizen,South German-Style Hefeweizen,0.0,636
+128,Coronator Helle Doppelbock,Traditional German-Style Bock,7.5,636
+129,Celebrator,German-Style Doppelbock,6.6999998092999995,637
+130,Ur-Weisse,South German-Style Hefeweizen,0.0,637
+131,Oktober Fest - MÃ¤rzen,German-Style Oktoberfest,0.0,637
+132,BrÃ¤u-Weisse,South German-Style Hefeweizen,0.0,637
+133,Beck's Light,European Low-Alcohol Lager,0.0,638
+134,St.Pauli Girl Beer,American-Style Lager,0.0,638
+135,Oktoberfest,German-Style Oktoberfest,0.0,638
+136,Weizla Hell,South German-Style Hefeweizen,5.0,639
+137,Maisel's Weisse Kristall,Belgian-Style White,5.0999999046,640
+138,JÃ¶rger WeiÃŸe Hell,South German-Style Hefeweizen,0.0,641
+139,Weizen Bier,South German-Style Hefeweizen,0.0,642
+140,Hexen BrÃ¤u,Traditional German-Style Bock,0.0,643
+141,Hefe-Weizen,South German-Style Hefeweizen,5.1999998093,644
+142,Alt,American-Style Brown Ale,4.5999999046,645
+143,Hefe-Weizen,South German-Style Hefeweizen,5.1999998093,646
+144,Rauchbier Weissbier,American-Style Lager,0.0,647
+145,Alt,American-Style Brown Ale,0.0,648
+146,Jubilate Special Reserve Anniversary Ale,American-Style Brown Ale,0.0,649
+147,Organic Hefewizen,South German-Style Hefeweizen,0.0,649
+148,ObergÃ¤rig / MÃ¼nster Alt,American-Style Brown Ale,0.0,649
+149,Kupfer,American-Style Lager,0.0,650
+150,Nickelbier,Traditional German-Style Bock,6.5,650
+151,Weizen,South German-Style Hefeweizen,0.0,650
+152,Herbstbeer,German-Style Oktoberfest,0.0,650
+153,Oktoberfest,South German-Style Weizenbock,0.0,651
+154,Weizentrumpf,South German-Style Hefeweizen,5.5,651
+155,Huusbier Schwarz,Porter,4.5,651
+156,Honey Brown Ale,American-Style Lager,6.0,651
+157,WaldschlÃ¶sschen Dunkel,German-Style Schwarzbier,5.0,652
+158,Tactical Nuclear Penguin,American-Style Imperial Stout,32.0,653
+159,Punk IPA,American-Style India Pale Ale,6.0,653
+160,Dogma,Herb and Spice Beer,7.8000001907000005,653
+161,Hop Rocker,American-Style Lager,5.5,653
+162,The Physics,Extra Special Bitter,5.0,653
+163,Rip Tide,American-Style Imperial Stout,8.0,653
+164,Tokyo,American-Style Imperial Stout,12.0,653
+165,Tokyo*,American-Style Imperial Stout,18.200000763,653
+166,Paradox Speyside,American-Style Imperial Stout,10.0,653
+167,77 Lager,German-Style Pilsener,4.9000000954,653
+168,Hardcore IPA,Imperial or Double India Pale Ale,9.0,653
+169,Trashy Blonde,Special Bitter or Best Bitter,4.0999999046,653
+170,Gueuze,Belgian-Style Fruit Lambic,0.0,654
+171,Budweiser Budvar (Czechvar),German-Style Pilsener,5.0,655
+172,Chapeau Framboise Lambic,Belgian-Style Fruit Lambic,0.0,656
+173,Chapeau Fraises Lambic,Belgian-Style Fruit Lambic,0.0,656
+174,Chapeau Tropical Lambic,Belgian-Style Fruit Lambic,0.0,656
+175,Chapeau Exotic Lambic,Belgian-Style Fruit Lambic,0.0,656
+176,Chapeau PÃªche Lambic,Belgian-Style Fruit Lambic,0.0,656
+177,Chapeau Mirabelle Lambic,Belgian-Style Fruit Lambic,0.0,656
+178,Breznak Dunkles/Dark,Dark American-Belgo-Style Ale,3.7000000476999997,657
+179,Premium Lager,American-Style Lager,0.0,658
+180,Waterloo Dark,American-Style Lager,0.0,658
+181,Border Gold Oranic Ale,Golden or Blonde Ale,6.0,659
+182,Kinmount Willie Stout,American-Style Stout,0.0,659
+183,Trappist Westvleteren 12,Belgian-Style Quadrupel,11.199999809000001,660
+184,Trappist Westvleteren 8,Belgian-Style Dubbel,8.0,660
+185,Trappist Westvleteren Blonde,Other Belgian-Style Ales,5.8000001907000005,660
+186,Westmalle Trappist Tripel,Belgian-Style Tripel,9.5,661
+187,Stella Artois,American-Style Lager,5.1999998093,662
+188,Petrus Speciale,American-Style Pale Ale,5.5,663
+189,Petrus Dubbel Bruin Ale,Belgian-Style Dubbel,6.5,663
+190,Kriek,Belgian-Style Fruit Lambic,0.0,664
+191,Geuze Boon,Belgian-Style Fruit Lambic,6.0,664
+192,Framboise 1997,Belgian-Style Fruit Lambic,0.0,664
+193,Mariage Parfait 1995,Belgian-Style Fruit Lambic,0.0,664
+194,Triple Karmeliet,Belgian-Style Tripel,8.0,665
+195,Arabier,Belgian-Style Pale Strong Ale,9.0,666
+196,Bos Keun,Belgian-Style Pale Strong Ale,8.8999996185,666
+197,Mort Subite Gueuze Lambic,Belgian-Style Fruit Lambic,4.5,667
+198,Maredsous 10 Tripple,Other Belgian-Style Ales,10.0,668
+199,Maredsous 10 Tripple,Other Belgian-Style Ales,10.0,668
+200,Gueuze 1882,Belgian-Style Fruit Lambic,5.0,669
+201,Gouden Carolus Hopsinjoor,Other Belgian-Style Ales,8.0,670
+202,Delirium Nocturnum,Belgian-Style Dark Strong Ale,9.0,671
+203,Delirium Tremens,Belgian-Style Pale Strong Ale,8.5,671
+204,Delirium NoÃ«l,Other Belgian-Style Ales,10.0,671
+205,Gluhkriek,Belgian-Style Fruit Lambic,0.0,672
+206,Liefmans Kriekbier,Belgian-Style Fruit Lambic,6.0,672
+207,Framboise,Belgian-Style Fruit Lambic,0.0,673
+208,Kriek,Belgian-Style Fruit Lambic,0.0,673
+209,PÃªche / Pecheresse,Belgian-Style Fruit Lambic,0.0,673
+210,CuvÃ©e RenÃ© Grand Cru Gueuze Lambic,Belgian-Style Fruit Lambic,0.0,673
+211,Balashi,German-Style Pilsener,5.0,674
+212,Oude Gueuze Vielle,Belgian-Style Fruit Lambic,0.0,675
+213,Abt 12,Belgian-Style Quadrupel,10.0,676
+214,Pater 6,Belgian-Style Dubbel,6.6999998092999995,676
+215,Watou Tripel,Belgian-Style Tripel,7.5,676
+216,St. Bernardus Tripel,Belgian-Style Tripel,8.0,676
+217,Grotten Flemish Ale,Other Belgian-Style Ales,7.6999998092999995,676
+218,Grotten Brown,Dark American-Belgo-Style Ale,6.6999998092999995,676
+219,Prior 8,Belgian-Style Dubbel,8.0,676
+220,St. Bernardus Witbier,Belgian-Style White,5.5,676
+221,Troubadour,American-Style Pale Ale,6.5,677
+222,Poperings Hommel Ale,American-Style Pale Ale,7.5,678
+223,St. Louis Gueuze,Belgian-Style Fruit Lambic,4.5,679
+224,Leute Bok Bier,Traditional German-Style Bock,7.5,680
+225,Head Trip,Other Belgian-Style Ales,10.5,680
+226,Bruegel Amber Ale,American-Style Amber/Red Ale,5.1999998093,680
+227,Tikka Gold,American-Style Pale Ale,5.0,680
+228,Bornem Triple,Other Belgian-Style Ales,9.0,680
+229,Piraat 10.5%,Golden or Blonde Ale,10.5,680
+230,Bornem Double,Other Belgian-Style Ales,8.0,680
+231,Achel Bruin 5Â°,Dark American-Belgo-Style Ale,5.0,681
+232,Achel Bruin 8Â°,Belgian-Style Dubbel,8.0,681
+233,Achel Blond 5Â°,Other Belgian-Style Ales,5.0,681
+234,Achel Blond 8Â°,Belgian-Style Tripel,8.0,681
+235,Hoegaarden,Light American Wheat Ale or Lager,4.9000000954,682
+236,Rycerskie,Traditional German-Style Bock,7.0,683
+237,Okocim Porter,Porter,8.3000001907,684
+238,Warka Strong,American-Style Lager,7.0,685
+239,Porter,American-Style Stout,9.5,686
+240,Porter,Porter,8.0,687
+241,Strongbow Cider,Fruit Beer,5.3000001907,688
+242,Burton Porter,Porter,0.0,689
+243,Empire India Pale Ale,English-Style India Pale Ale,7.5,689
+244,Olde Expensive Ale,Old Ale,0.0,689
+245,Roggenbier,American-Style Lager,5.5,690
+246,IPA,English-Style India Pale Ale,3.5,691
+247,Finest Bitter,Ordinary Bitter,4.0,691
+248,2008 Culture Beer,Ordinary Bitter,5.0,691
+249,FA,Special Bitter or Best Bitter,4.8000001907,691
+250,Dark Mild,English-Style Dark Mild Ale,3.2000000476999997,691
+251,Auburn Ale,American-Style Amber/Red Ale,5.0,692
+252,O'Hara's Celtic Stout,American-Style Stout,4.3000001907,693
+253,Elephant,Traditional German-Style Bock,7.1999998092999995,694
+254,47 Bryg,Traditional German-Style Bock,7.0,694
+255,Falcon Lagrad Gammelbrygd,Old Ale,5.599999904600001,695
+256,Carnegie Stark-Porter,Porter,5.5,695
+257,Steelhead Stout,American-Style Stout,0.0,696
+258,Iceberg Copper Bock,Traditional German-Style Bock,0.0,696
+259,Springboard Lager,American-Style Lager,0.0,696
+260,Red Racer India Pale Ale,American-Style India Pale Ale,6.5,696
+261,Moza,Traditional German-Style Bock,0.0,697
+262,Bohemia ClÃ¡sica,American-Style Lager,0.0,698
+263,Dos Equis Special Lager,American-Style Lager,0.0,698
+264,Tecate,American-Style Lager,0.0,698
+265,Dos Equis Amber Lager,American-Style Lager,0.0,698
+266,Carta Blanca,American-Style Lager,0.0,698
+267,Cerveza Sol,American-Style Lager,4.5,698
+268,Noche Buena Special Holiday Amber Beer,American-Style Lager,0.0,698
+269,Port Royal Export,American-Style Lager,0.0,699
+270,Cerveza Roja,German-Style Oktoberfest,6.0,700
+271,Cerveza Diablo,American-Style Lager,7.5,700
+272,Cerveza Negra,American-Style Stout,6.5,700
+273,Rubia,American-Style Lager,6.0,700
+274,Atlas Lager,American-Style Lager,3.75,701
+275,Cabro Extra,American-Style Lager,0.0,701
+276,Balboa Cerveza Pilsner,American-Style Lager,0.0,701
+277,Fuerte,American-Style Lager,0.0,702
+278,Caguama,German-Style Pilsener,3.9000000954000003,703
+279,Xingu,German-Style Schwarzbier,4.6999998093,704
+280,Eisenbahn Weizenbock,South German-Style Weizenbock,8.0,705
+281,Eisenbahn Escura,German-Style Schwarzbier,0.0,705
+282,Eisenbahn South American Pale Ale (S.A.P.A.),American-Style Pale Ale,0.0,705
+283,Lager,American-Style Lager,4.0,706
+284,Negra,German-Style Schwarzbier,5.400000095399999,707
+285,Chimay DorÃ©e,Other Belgian-Style Ales,4.8000001907,708
+286,Chimay PremiÃ¨re (Chimay Red),Belgian-Style Dubbel,7.0,708
+287,Chimay Triple (Chimay White),Belgian-Style Tripel,8.0,708
+288,Birell,American-Style Light Lager,0.5,709
+289,Coopers Mild Ale,English-Style Pale Mild Ale,3.5,709
+290,Dark Ale,English-Style Pale Mild Ale,4.5,709
+291,Coopers Original Pale Ale,Classic English-Style Pale Ale,4.5,709
+292,Coopers Best Extra Stout,American-Style Stout,6.3000001907000005,709
+293,Coopers Premium Light,American-Style Light Lager,2.9000000954000003,709
+294,Coopers Sparkling Ale,Classic English-Style Pale Ale,5.8000001907000005,709
+295,Coopers Premium Lager,American-Style Lager,5.0,709
+296,Cucapa Honey Ale,American-Style Amber/Red Ale,4.5,710
+297,Daas Organic Blond,Other Belgian-Style Ales,6.5,711
+298,Daas Organic Witte,Belgian-Style White,5.0,711
+299,Ripon Jewel Ale,American-Style Pale Ale,5.8000001907000005,712
+300,Monkey Wrench Dark Ale,Porter,5.3000001907,712
+301,Us Heit Dubbel Tarwe Bier,South German-Style Weizenbock,0.0,713
+302,Brugse Zot,Other Belgian-Style Ales,6.0,714
+303,Brugse Zot Double,Other Belgian-Style Ales,7.0,714
+304,Urthel Hop-It,Other Belgian-Style Ales,9.5,715
+305,Urthel Vlaemse Bock,Traditional German-Style Bock,7.5,715
+306,Black Albert,American-Style Imperial Stout,13.0,716
+307,Dragon Stout,American-Style Stout,7.5,717
+308,Guinness Foreign Extra,American-Style Stout,6.5,717
+309,Red Stripe Lager Beer,American-Style Lager,0.0,717
+310,German Premium Dark,American-Style Brown Ale,0.0,718
+311,Alt,American-Style Brown Ale,4.9000000954,718
+312,CD-Pils,German-Style Pilsener,4.9000000954,719
+313,Honey Brown,American-Style Lager,0.0,720
+314,Red Truck Ale,American-Style Amber/Red Ale,0.0,720
+315,Tropical Lager,American-Style Lager,0.0,720
+316,IPA,American-Style India Pale Ale,0.0,720
+317,Pelican Bay Brown,American-Style Brown Ale,0.0,721
+318,Old Bridge Dark Lager,American-Style Lager,5.3000001907,721
+319,Haupenthal Hefeweizen,South German-Style Hefeweizen,4.8000001907,721
+320,Cartwright Pale Ale,American-Style Pale Ale,4.3000001907,721
+321,Traditional,American-Style Brown Ale,0.0,722
+322,Hansa Pils,German-Style Pilsener,4.8000001907,722
+323,Hansa Imported Dortmunder,American-Style Lager,4.8000001907,722
+324,Dreher Classic,German-Style Pilsener,5.0,723
+325,Bak,Traditional German-Style Bock,7.3000001907000005,723
+326,1798 Revolution,English-Style Pale Mild Ale,0.0,724
+327,Duvel,Other Belgian-Style Ales,8.5,725
+328,Ginger Tom,Herb and Spice Beer,4.0,726
+329,Edelweiss,South German-Style Hefeweizen,0.0,727
+330,Schlappeseppl Export,American-Style Lager,5.5,728
+331,Schwarzbier / Dunkel,German-Style Schwarzbier,4.9000000954,729
+332,Ur-Bock Hell,Traditional German-Style Bock,6.5,729
+333,Flag Porter 1825 Original,Porter,0.0,730
+334,Old 95,Old Ale,7.0,731
+335,Trompe La Mort,Traditional German-Style Bock,7.400000095399999,732
+336,Epic Pale Ale,American-Style Pale Ale,5.400000095399999,733
+337,Curator Dunkler Doppelbock,Traditional German-Style Bock,9.0,734
+338,Northumbrian Brown Ale,American-Style Brown Ale,0.0,735
+339,Angel Ale,English-Style Pale Mild Ale,0.0,735
+340,Flensburger Pilsner,German-Style Pilsener,4.8000001907,736
+341,Foster's Special Bitter,Ordinary Bitter,5.5,737
+342,Foster's Premium Ale,Classic English-Style Pale Ale,5.5,737
+343,Trafalgar IPA,American-Style India Pale Ale,6.0,738
+344,Deep Shaft Stout,American-Style Stout,6.1999998092999995,738
+345,Schierlinger Roggen,American-Style Lager,0.0,739
+346,Vintage Ale 1999,Old Ale,8.5,740
+347,India Pale Ale,American-Style Pale Ale,4.8000001907,740
+348,Vintage Ale 2008,Old Ale,8.5,740
+349,London Porter,Porter,5.400000095399999,740
+350,Fuller's ESB,Extra Special Bitter,4.5,740
+351,Hefeweizen,South German-Style Hefeweizen,0.0,741
+352,Spezial,American-Style Lager,0.0,741
+353,Weizenbier,South German-Style Hefeweizen,0.0,742
+354,Alt,American-Style Brown Ale,0.0,743
+355,Conquest Ale,Old Ale,9.0,744
+356,Prize Old Ale,Old Ale,9.0,744
+357,Golden Harvest Weizenbier,South German-Style Hefeweizen,0.0,745
+358,Premium Lager,American-Style Lager,5.3000001907,746
+359,Brockton Black Lager,German-Style Schwarzbier,6.5,747
+360,Kitsilano Maple Cream Ale,American-Style Lager,5.0,748
+361,Cypress Honey Lager,American-Style Lager,4.6999998093,748
+362,English Bay Pale Ale,American-Style Pale Ale,5.0,748
+363,Island Lager,American-Style Lager,5.0,748
+364,Cypress Honey Lager,American-Style Lager,4.6999998093,748
+365,Island Lager,American-Style Lager,5.0,748
+366,Hefeweizen,South German-Style Hefeweizen,0.0,748
+367,Hefeweizen,South German-Style Hefeweizen,0.0,748
+368,English Bay Pale Ale,American-Style Pale Ale,5.0,748
+369,Kitsilano Maple Cream Ale,American-Style Lager,5.0,748
+370,Olde Suffolk,Old Ale,0.0,749
+371,Wexford Irish Cream Ale,American-Style Cream Ale or Lager,5.0,749
+372,Grolsch Pilsner Speciale,German-Style Pilsener,5.5,750
+373,Grolsch Premium Pilsner,German-Style Pilsener,5.0,750
+374,Grolsch Amber Ale,German-Style Brown Ale/Altbier,5.3000001907,750
+375,Grolsch Dunkel Weizen,Light American Wheat Ale or Lager,5.5,750
+376,Grolsch Premium Weizen,Light American Wheat Ale or Lager,5.5,750
+377,Modelo especial,American-Style Light Lager,0.0,751
+378,PacÃ­fico Clara,American-Style Lager,4.5,751
+379,Corona Light,American-Style Light Lager,4.0999999046,751
+380,Corona Extra,American-Style Lager,4.5999999046,751
+381,Negra Modelo,American-Style Lager,6.0,751
+382,Dort,Traditional German-Style Bock,6.5,752
+383,Weisse,South German-Style Hefeweizen,0.0,753
+384,Original Oktoberfest,German-Style Oktoberfest,0.0,753
+385,Little Scrapper IPA,American-Style India Pale Ale,6.0,754
+386,Nightmare,Porter,5.0,755
+387,Pride of Romsey IPA,American-Style India Pale Ale,5.0,756
+388,Hannen Alt,German-Style Brown Ale/Altbier,0.0,757
+389,Alt,American-Style Brown Ale,0.0,757
+390,Oude Kriek,Belgian-Style Fruit Lambic,0.0,758
+391,Oude Gueuze,Belgian-Style Fruit Lambic,0.0,758
+392,Oudbeitje,Belgian-Style Fruit Lambic,0.0,758
+393,A. LeCoq Imperial Extra Double Stout 2000,American-Style Stout,9.0,759
+394,A. LeCoq Imperial Extra Double Stout 1999,American-Style Stout,9.0,759
+395,Old Engine Oil,Porter,6.0,760
+396,Altbier,American-Style Brown Ale,0.0,761
+397,Soproni,German-Style Pilsener,5.0,762
+398,Heineken,American-Style Lager,5.0,763
+399,Premium Light Lager Beer,American-Style Lager,0.0,763
+400,Original Ittinger KlosterbrÃ¤u,American-Style Lager,0.0,764
+401,Aecht Schlenkerla Rauchbier Urbock,Traditional German-Style Bock,6.0,765
+402,Aecht Schlenkerla Rauchbier Weizen,American-Style Lager,0.0,765
+403,Weizen,South German-Style Hefeweizen,0.0,766
+404,Doppel-Hirsch Bavarian-Doppelbock,Traditional German-Style Bock,7.1999998092999995,767
+405,Bavarian-Weissbier Hefeweisse / Weisser Hirsch,South German-Style Hefeweizen,5.1999998093,767
+406,Hite,American-Style Lager,4.5,768
+407,Will-BrÃ¤u Ur-Bock,Traditional German-Style Bock,0.0,769
+408,Porter,German-Style Schwarzbier,5.8000001907000005,770
+409,Edelweiss HefetrÃ¼b,South German-Style Hefeweizen,0.0,771
+410,Duckstein Alt,American-Style Brown Ale,0.0,772
+411,Twelve Days,American-Style Stout,5.5,773
+412,Thunder Storm,American-Style Lager,5.0,774
+413,Entire Stout,American-Style Stout,4.5,774
+414,Jupiler,German-Style Pilsener,5.1999998093,775
+415,Premier,American-Style Lager,0.0,776
+416,Pilsner of El Salvador,American-Style Lager,0.0,776
+417,Regia Extra,American-Style Lager,0.0,776
+418,Suprema,American-Style Lager,0.0,776
+419,Blackfriar,Scotch Ale,7.0,777
+420,Wee Beast,Scotch Ale,7.0,778
+421,Harvest Ale 2001,Old Ale,11.5,779
+422,Harvest Ale 1998,Old Ale,11.5,779
+423,Harvest Ale 2000,Old Ale,11.5,779
+424,Harvest Ale 1997,Old Ale,11.5,779
+425,Harvest Ale 2006,Old Ale,11.600000381,779
+426,Harvest Ale 1999,Old Ale,11.5,779
+427,Harvest Ale 2002,Old Ale,11.5,779
+428,Harvest Ale 2005,Old Ale,11.5,779
+429,Manchester Star Ale,Old Ale,7.3000001907000005,779
+430,Sneck Lifter,Dark American-Belgo-Style Ale,5.0999999046,780
+431,Jever Pilsener,German-Style Pilsener,4.9000000954,781
+432,Cass Fresh,American-Style Lager,0.0,782
+433,Martin's Pale Ale,Classic English-Style Pale Ale,5.8000001907000005,783
+434,Meranier Schwarzbier,German-Style Schwarzbier,0.0,784
+435,Weissbier,South German-Style Hefeweizen,4.8000001907,785
+436,Busby Stout,American-Style Stout,0.0,786
+437,Tusker Premium Lager,American-Style Lager,0.0,787
+438,Kirin Light,American-Style Light Lager,3.3099999427999998,788
+439,Hitachino Nest XH,American-Style Strong Pale Ale,8.0,789
+440,Hitachino Nest Beer,South German-Style Hefeweizen,0.0,789
+441,Hitachino Nest Sweet Stout,American-Style Stout,3.5,789
+442,Hitachino Nest Japanese Classic Ale,English-Style India Pale Ale,7.0,789
+443,Porter,Porter,7.099999904600001,790
+444,Black Abbot / Schwarzer Abt,German-Style Schwarzbier,3.9000000954000003,790
+445,Original Badebier / Original Bathbeer Monastery Fun,German-Style Schwarzbier,0.0,790
+446,Winter-Traum,German-Style Oktoberfest,5.400000095399999,791
+447,Hefe-Weizen Hell,South German-Style Hefeweizen,0.0,791
+448,Asam-Bock,Traditional German-Style Bock,6.900000095399999,791
+449,Bockbier,Traditional German-Style Bock,7.0,792
+450,Braunbier,German-Style Oktoberfest,5.6999998092999995,792
+451,Bamberger SchwÃ¤rzla,German-Style Schwarzbier,0.0,792
+452,KÃ¶nig Ludwig Weissbier Hell,South German-Style Hefeweizen,0.0,793
+453,Imperial Czech Premium Lager,American-Style Lager,0.0,794
+454,Kapuziner WeiÃŸbier,South German-Style Hefeweizen,0.0,795
+455,Eisbock,Traditional German-Style Bock,9.1999998093,795
+456,MÃ¶nchshof Premium Schwarzbier,German-Style Schwarzbier,4.9000000954,795
+457,Kapuziner Gold,South German-Style Hefeweizen,0.0,795
+458,EKU 28,Traditional German-Style Bock,11.0,795
+459,ReichelbrÃ¤u Eisbock,Traditional German-Style Bock,0.0,795
+460,Schwarzbier,German-Style Schwarzbier,4.8000001907,796
+461,Oktoberfest,German-Style Oktoberfest,0.0,796
+462,Maibock,Traditional German-Style Bock,0.0,796
+463,Genuine Lager,American-Style Lager,5.0,797
+464,Labatt Wildcat,American-Style Lager,4.9000000954,797
+465,Labatt 50,American-Style Pale Ale,5.0,797
+466,Labatt Extra Dry,American-Style Lager,5.5,797
+467,Labatt Ice,American-Style Lager,5.599999904600001,797
+468,Labatt Blue,American-Style Lager,4.6999998093,797
+469,Labatt Sterling,American-Style Light Lager,4.0,797
+470,Labatt Crystal,American-Style Lager,5.0,797
+471,Genuine Honey Lager,American-Style Lager,5.0,797
+472,Labatt Bleue Dry,German-Style Pilsener,6.099999904600001,797
+473,Canadian Ale,American-Style Lager,0.0,797
+474,Labatt Blue Light,American-Style Light Lager,4.0,797
+475,Storm Super Premium Malt Liquor,American-Style Lager,10.0,798
+476,Beacon India Pale Ale,American-Style Pale Ale,0.0,799
+477,Lion Stout,American-Style Stout,8.0,800
+478,Hahn Special Vintage 2000,Old Ale,8.0,801
+479,Little Creatures Pilsner,German-Style Pilsener,4.5999999046,802
+480,LÃ¶wen Weisse,South German-Style Hefeweizen,0.0,803
+481,Triumphator,Traditional German-Style Bock,7.599999904600001,804
+482,The Only Oat Malt Stout In The World,American-Style Stout,0.0,805
+483,Eine Bamberger Weisse Hell,South German-Style Hefeweizen,5.1999998093,806
+484,James Squire Porter,Porter,0.0,807
+485,James Squire India Pale Ale,American-Style Pale Ale,0.0,807
+486,Premium Gold,American-Style Lager,0.0,808
+487,Pale Ale,American-Style Pale Ale,0.0,808
+488,Weissbier Hell,South German-Style Hefeweizen,5.1999998093,809
+489,Special Reserve Anniversary Porter,Porter,0.0,810
+490,Special Reserve Oatmeal Ale,American-Style Pale Ale,0.0,810
+491,Meantime Coffee,Porter,6.0,811
+492,London Porter,Porter,6.5,811
+493,India Pale Ale,American-Style Pale Ale,7.5,811
+494,Simcoe Single Hop IPA,American-Style India Pale Ale,6.900000095399999,812
+495,Beer Geek Breakfast,American-Style Imperial Stout,7.5,812
+496,Cream Ale,American-Style Lager,4.8000001907,813
+497,Oatmeal Stout,American-Style Stout,6.5,813
+498,India Pale Ale,American-Style Pale Ale,5.8000001907000005,813
+499,NaturtrÃ¼bes Kellerbier,Traditional German-Style Bock,0.0,814
+500,Molson Canadian,American-Style Lager,5.0,815
+501,Red Jack,American-Style Amber/Red Ale,5.0,815
+502,Rickard's White Ale,Belgian-Style White,0.0,815
+503,Carling,American-Style Lager,4.0999999046,815
+504,Full Moon Winter Ale,Other Belgian-Style Ales,5.599999904600001,815
+505,Ice,American-Style Lager,0.0,815
+506,Rickard's Red Ale,Irish-Style Red Ale,0.0,815
+507,Golden,American-Style Lager,0.0,815
+508,Rickard's Pale Ale,American-Style India Pale Ale,0.0,815
+509,Monteith's Summer Ale,Herb and Spice Beer,5.0,816
+510,Monteith's Celtic Beer,Irish-Style Red Ale,4.4000000954,816
+511,Pendle Witches Brew,American-Style Pale Ale,5.0999999046,817
+512,Black Cat,English-Style Pale Mild Ale,3.4000000954000003,817
+513,Moosehead Lager,American-Style Lager,5.0,818
+514,Canadian Lager Beer,American-Style Lager,5.0,818
+515,Old Speckled Hen,Classic English-Style Pale Ale,5.1999998093,819
+516,Lager Beer,American-Style Lager,5.0,820
+517,Urbock,Traditional German-Style Bock,0.0,821
+518,Paddywhack IPA,American-Style India Pale Ale,6.5,822
+519,Old Growler,Porter,6.5,823
+520,Speight's Gold Medal Ale,Classic English-Style Pale Ale,4.0,824
+521,Apple Ale,Light American Wheat Ale or Lager,0.0,825
+522,Eisbock,Traditional German-Style Bock,0.0,825
+523,Premium Light,American-Style Pale Ale,0.0,825
+524,Kriek,Light American Wheat Ale or Lager,0.0,825
+525,Gritstone Premium Ale,American-Style Brown Ale,0.0,825
+526,Old Jack,Old Ale,0.0,825
+527,Weisse Beer,American-Style Lager,0.0,825
+528,Ise Kadoya Stout,American-Style Stout,5.0,826
+529,NÃ¸gne Ã˜ India Pale Ale,American-Style India Pale Ale,6.5,827
+530,NÃ¸gne Ã˜ Brown Ale,American-Style Brown Ale,4.5,827
+531,Havre Stout,Oatmeal Stout,4.5,827
+532,NÃ¸gne Ã˜ #100,American-Style Barley Wine Ale,10.0,827
+533,NÃ¸gne Ã˜ Doppelt IPA,Imperial or Double India Pale Ale,8.0,827
+534,NÃ¸gne Ã˜ Imperial Stout,American-Style Imperial Stout,9.0,827
+535,NÃ¸gne Ã˜ Wit,Belgian-Style White,4.5,827
+536,NÃ¸gne Ã˜ Pale Ale,American-Style Pale Ale,6.0,827
+537,NÃ¸gne Ã˜ Amber Ale,American-Style Amber/Red Ale,6.0,827
+538,NÃ¸gne Ã˜ Porter,Porter,7.0,827
+539,God Jul - Winter Ale,American-Style Stout,8.5,827
+540,NÃ¸gne Ã˜ Imperial Brown Ale,American-Style Brown Ale,7.5,827
+541,NÃ¸gne Ã˜ Bitter,Ordinary Bitter,4.5,827
+542,NÃ¸gne Ã˜ Saison,French & Belgian-Style Saison,6.5,827
+543,OB Lager,American-Style Lager,4.4000000954,828
+544,Red MacGregor,Scotch Ale,5.0,829
+545,Dragonhead Stout,American-Style Stout,4.0,829
+546,Skullsplitter Ale,Scotch Ale,8.5,829
+547,Dark Island,Scottish-Style Light Ale,4.5999999046,829
+548,Beer,American-Style Lager,0.0,830
+549,Porter IV,American-Style Stout,7.1999998092999995,831
+550,Palm Speciale,American-Style Amber/Red Ale,5.1999998093,832
+551,Hacker-Pschorr Weisse Bock,South German-Style Weizenbock,0.0,833
+552,Paulaner Oktoberfest,German-Style Oktoberfest,6.0,833
+553,Hefeweizen,South German-Style Hefeweizen,5.5,833
+554,Hacker-Pschorr Original Oktoberfest,German-Style Oktoberfest,0.0,833
+555,Salvator,German-Style Doppelbock,7.900000095399999,833
+556,Hefe-WeiÃŸbier,South German-Style Hefeweizen,0.0,833
+557,Hacker-Pschorr Weisse,South German-Style Hefeweizen,0.0,833
+558,Hacker-Pschorr Hubertus Bock,Traditional German-Style Bock,0.0,833
+559,Skopsko,American-Style Lager,5.0,834
+560,Lion Lev Export Lager Beer Double Bock,Traditional German-Style Bock,0.0,835
+561,PrimÃ¡tor Double 24% / PrimÃ¡tor Double Bock Beer,Traditional German-Style Bock,0.0,836
+562,PrimÃ¡tor Blonde Bock Beer,Traditional German-Style Bock,0.0,836
+563,Porter Boom,Porter,8.0,837
+564,Staropramen,German-Style Pilsener,5.0,838
+565,Baltika 6 Porter,Porter,7.0,839
+566,Baltika #5,American-Style Lager,5.3000001907,839
+567,Baltika #9,American-Style Lager,8.0,839
+568,Baltika #8,Light American Wheat Ale or Lager,5.0,839
+569,Pilsner Urquell,German-Style Pilsener,4.4000000954,840
+570,D. Carnegie and Company Porter,American-Style Stout,5.5,841
+571,Schwarz Bier,German-Style Schwarzbier,4.8000001907,842
+572,Alt,American-Style Brown Ale,4.9000000954,843
+573,WeiÃŸbier Mit Feiner Hefe,South German-Style Hefeweizen,0.0,844
+574,WeiÃŸbier Pikantus,South German-Style Weizenbock,0.0,844
+575,Erdinger Weizen,Light American Wheat Ale or Lager,5.3000001907,844
+576,Alt,American-Style Brown Ale,4.8000001907,845
+577,Schneider Weisse,Light American Wheat Ale or Lager,5.400000095399999,846
+578,Weisse Hefe-Weizen,South German-Style Hefeweizen,5.400000095399999,846
+579,Wiesen Edel Weisse,South German-Style Hefeweizen,6.1999998092999995,846
+580,Aventinus Weizenstarkbier / Doppel Weizen Bock,South German-Style Weizenbock,8.1999998093,846
+581,Aventinus Weizen-Eisbock,Traditional German-Style Bock,12.0,846
+582,Hopfen Weisse,South German-Style Hefeweizen,8.1999998093,846
+583,Weizen,South German-Style Hefeweizen,0.0,847
+584,Green Beer,American-Style Lager,0.0,848
+585,Pale Ale,American-Style Pale Ale,0.0,849
+586,Old Slug Porter,Porter,4.5,850
+587,Ale Mary,American-Style Pale Ale,6.0,850
+588,Pilsener,German-Style Pilsener,4.8000001907,851
+589,Stationsweizen,South German-Style Hefeweizen,0.0,852
+590,Ivanhoe,American-Style Pale Ale,5.1999998093,853
+591,Lump of Coal Dark Holiday Stout,American-Style Stout,8.0,853
+592,IPA,American-Style India Pale Ale,5.5,853
+593,Warm Welcome Nut Browned Ale,American-Style Brown Ale,6.0,853
+594,Hefe Weizen Hell,South German-Style Hefeweizen,0.0,854
+595,Cream Ale,English-Style Pale Mild Ale,0.0,855
+596,Special Lager,American-Style Lager,0.0,855
+597,Pale Ale,American-Style Pale Ale,0.0,855
+598,Estrella Damm,American-Style Lager,4.5999999046,856
+599,Estrella Levante Sin 0.0% Alcohol,Baltic-Style Porter,1.0,856
+600,Estrella Levante Clasica,Baltic-Style Porter,4.8000001907,856
+601,Estrella Levante Especial,Baltic-Style Porter,5.400000095399999,856
+602,Royal Challenge,American-Style Lager,5.0,857
+603,Peroni,American-Style Lager,5.0999999046,857
+604,Haywords 5000,American-Style Lager,7.5,857
+605,Peroni Nastro Azzurro,American-Style Lager,5.0999999046,857
+606,Foster's Lager Beer,American-Style Lager,4.9000000954,857
+607,Haywards 5000,American-Style Lager,7.5,857
+608,Haywards Black,American-Style Lager,8.0,857
+609,Haywards 2000,American-Style Lager,7.5,857
+610,Knock Out,American-Style Lager,8.0,857
+611,Porter,American-Style Stout,7.8000001907000005,858
+612,Entire Butt English Porter,Porter,0.0,859
+613,Nut Brown Ale,American-Style Brown Ale,5.0,860
+614,Imperial Stout,American-Style Stout,7.0,860
+615,India Ale,American-Style Pale Ale,0.0,860
+616,Taddy Porter,Porter,5.0,860
+617,Winter Welcome 2008-2009,Winter Warmer,6.0,860
+618,Oatmeal Stout,American-Style Stout,5.0,860
+619,Organic Ale,Golden or Blonde Ale,5.0,860
+620,Dark Lager,German-Style Schwarzbier,0.0,861
+621,Imported Black Stout Draft,German-Style Schwarzbier,0.0,862
+622,Draft,American-Style Lager,0.0,862
+623,Scharer's Lager,American-Style Lager,5.0,863
+624,Weissbier,South German-Style Hefeweizen,0.0,864
+625,Samichlaus Bier 2003,Traditional German-Style Bock,14.0,865
+626,Urbock 23Â°,German-Style Doppelbock,9.6000003815,865
+627,Samichlaus Bier 2005,Traditional German-Style Bock,14.0,865
+628,Doppelbock Dunkel,German-Style Doppelbock,8.5,865
+629,Weizen,South German-Style Hefeweizen,5.0,866
+630,Stout,American-Style Stout,5.0,866
+631,WeiÃŸe,South German-Style Hefeweizen,0.0,867
+632,Schwarzbier,German-Style Schwarzbier,5.3000001907,867
+633,SchÃ¶fferhofer Hefeweizen Hell,South German-Style Hefeweizen,5.0,868
+634,SchÃ¶fferhofer Hefeweizen alkoholfrei,South German-Style Hefeweizen,0.0,868
+635,Black Irish Plain Porter,Porter,0.0,869
+636,Newcastle Brown Ale,American-Style Brown Ale,4.6999998093,870
+637,Cream Ale,English-Style Pale Mild Ale,0.0,871
+638,Festbier,German-Style Oktoberfest,0.0,872
+639,Weizen,South German-Style Hefeweizen,0.0,872
+640,Royal Challenge Indian Premium Lager,American-Style Lager,0.0,873
+641,Sapporo Premium Beer,American-Style Lager,0.0,874
+642,Original Dark,American-Style Lager,0.0,874
+643,Old Australia Stout,American-Style Stout,0.0,875
+644,MÃ¼nchner Hell / Premium Lager,American-Style Lager,5.1999998093,876
+645,Maibock,Traditional German-Style Bock,0.0,876
+646,Optimator,German-Style Doppelbock,7.1999998092999995,876
+647,Franziskaner Hefe-Weissbier Hell  / Franziskaner Club-Weiss,South German-Style Hefeweizen,5.0,876
+648,Oktoberfestbier / Oktoberfest Ur-MÃ¤rzen,German-Style Oktoberfest,0.0,876
+649,Cream Stout,American-Style Stout,6.5,877
+650,English Ale,American-Style Pale Ale,0.0,877
+651,India Pale Ale,American-Style Pale Ale,0.0,877
+652,Winter Ale,Old Ale,6.3000001907000005,877
+653,St Peter's Organic Ale,Classic English-Style Pale Ale,4.5,877
+654,Old-Style Porter,Porter,5.0999999046,877
+655,HSD Hicks Special Draught,Ordinary Bitter,5.0,878
+656,Proper Job,English-Style India Pale Ale,5.5,878
+657,Tribute Premium Cornish Ale,Ordinary Bitter,4.1999998093,878
+658,Smithwick's,Irish-Style Red Ale,4.5,879
+659,Starkbier,Traditional German-Style Bock,0.0,880
+660,HofbrÃ¤u Oktoberfestbier,German-Style Oktoberfest,6.3000001907000005,880
+661,Maibock,Traditional German-Style Bock,7.1999998092999995,880
+662,MÃ¼nchner Kindl Weissbier / MÃ¼nchner Weisse,South German-Style Hefeweizen,0.0,880
+663,Steamwhistle Lager,American-Style Lager,5.0,881
+664,Heroica Oatmeal Stout,Oatmeal Stout,0.0,882
+665,Ipanema Summer White,Belgian-Style White,0.0,882
+666,The Great Pumpkin Ale,Pumpkin Beer,0.0,882
+667,Skinny Tire Hefeweizen,South German-Style Hefeweizen,0.0,882
+668,Pilsner,German-Style Pilsener,0.0,882
+669,Sour Cherry Ale,Fruit Beer,0.0,882
+670,Blitzen Christmas Ale,Fruit Beer,8.5,882
+671,Coal Porter,Porter,0.0,882
+672,Cascadia Cream Ale,American-Style Lager,0.0,882
+673,Frambozen,Fruit Beer,0.0,882
+674,Empress India Pale Ale,Imperial or Double India Pale Ale,0.0,882
+675,Signature Pale Ale,American-Style Amber/Red Ale,0.0,882
+676,Lions Gate Lager,American-Style Lager,0.0,882
+677,Herbstbier,German-Style Schwarzbier,0.0,883
+678,Altbier,American-Style Brown Ale,0.0,883
+679,Columbus Pils,German-Style Pilsener,4.9000000954,884
+680,Stiegl GoldbrÃ¤u,German-Style Oktoberfest,4.9000000954,884
+681,Columbus Bock,Traditional German-Style Bock,0.0,884
+682,Stiegl Leicht,American-Style Light Lager,3.2999999523000003,884
+683,Weizengold Hefefein,South German-Style Hefeweizen,5.0999999046,884
+684,Highland Scottish Ale,Scotch Ale,0.0,885
+685,Fruit Lambics,Fruit Beer,0.0,885
+686,HURRICANE I.P.A.,American-Style India Pale Ale,0.0,885
+687,Precipitation Pilsner,German-Style Pilsener,0.0,885
+688,Black Plague Stout,American-Style Stout,0.0,885
+689,St. Patrick's Best,Ordinary Bitter,4.1999998093,886
+690,Legbiter Ale,Classic English-Style Pale Ale,4.6999998093,886
+691,Barelegs Brew,Classic English-Style Pale Ale,4.5,886
+692,St Patrick's Ale,Classic English-Style Pale Ale,6.0,886
+693,St. Patrick's Gold,Light American Wheat Ale or Lager,4.8000001907,886
+694,Malteser Weissbier,South German-Style Hefeweizen,5.0,887
+695,Lager,American-Style Lager,0.0,888
+696,Beer,American-Style Lager,0.0,889
+697,Red Truck Ale,American-Style Amber/Red Ale,0.0,890
+698,Two Lions Pale Ale,American-Style Pale Ale,0.0,890
+699,Mad Scow Stout,American-Style Stout,0.0,890
+700,Traditional India Pale Ale,American-Style Pale Ale,0.0,890
+701,Dominion Lager,American-Style Lager,0.0,890
+702,Baden Powell Cream Ale,American-Style Lager,0.0,890
+703,Lager,American-Style Lager,0.0,891
+704,Timmermans Kriek,Belgian-Style Fruit Lambic,0.0,892
+705,Timmermans Forest Fruit,Belgian-Style Fruit Lambic,0.0,892
+706,Timmermans Framboise,Belgian-Style Fruit Lambic,0.0,892
+707,Timmermans PÃªche,Belgian-Style Fruit Lambic,0.0,892
+708,Killer Beer Dark Honey Ale,Porter,0.0,893
+709,IPA,American-Style India Pale Ale,0.0,894
+710,Tongerlo Christmas,Other Belgian-Style Ales,6.5,895
+711,Tongerlo Dubbel Bruin,Other Belgian-Style Ales,6.0,895
+712,Tongerlo Tripple,Belgian-Style Tripel,8.0,895
+713,Tongerlo Dubbel  Blond,Other Belgian-Style Ales,6.0,895
+714,New,American-Style Lager,4.5999999046,896
+715,Sheaf Stout,American-Style Stout,0.0,897
+716,House Ale,Scotch Ale,7.1999998092999995,898
+717,Phuket Lager,American-Style Lager,5.0,899
+718,Red Dragon Xtreme,American-Style Lager,0.0,900
+719,Bajuvator Doppelbock,Traditional German-Style Bock,7.1999998092999995,901
+720,Helles Hefe Weizen,South German-Style Hefeweizen,5.3000001907,901
+721,East India Pale Ale,American-Style Pale Ale,4.0,902
+722,Koshihikari Echigo Beer,Out of Category,5.0,903
+723,Sticke,American-Style Brown Ale,6.0,904
+724,DoppelSticke,Traditional German-Style Bock,8.5,904
+725,Alt,American-Style Brown Ale,4.5,904
+726,Quelque Chose,Belgian-Style Fruit Lambic,8.0,905
+727,Ã‰phÃ©mÃ¨re Pomme,Belgian-Style White,5.5,905
+728,Raftman,American-Style Amber/Red Ale,5.5,905
+729,11,American-Style Pale Ale,11.0,905
+730,Chambly Noire,Dark American-Belgo-Style Ale,6.1999998092999995,905
+731,Blanche de Chambly,Belgian-Style White,5.0,905
+732,Don De Dieu,Belgian-Style Tripel,9.0,905
+733,La Fin Du Monde,Belgian-Style Tripel,9.0,905
+734,Trois Pistoles,Dark American-Belgo-Style Ale,9.0,905
+735,Maudite,Belgian-Style Dark Strong Ale,8.0,905
+736,Terrible,Other Belgian-Style Ales,10.5,905
+737,1837,Other Belgian-Style Ales,7.0,905
+738,Seigneuriale,American-Style Amber/Red Ale,7.5,905
+739,SuperBock,Traditional German-Style Bock,5.0,906
+740,Unimator,Traditional German-Style Bock,0.0,907
+741,Kingfisher Premium,American-Style Light Lager,4.8000001907,908
+742,Flying Horse Royal Lager Beer,American-Style Lager,0.0,908
+743,IPA,American-Style India Pale Ale,0.0,909
+744,Porter,Porter,6.8000001907000005,910
+745,Kasteel Blonde,Golden or Blonde Ale,11.0,911
+746,Warsteiner Premium Verum,German-Style Pilsener,4.8000001907,912
+747,Warsteiner Premium Oktoberfest,German-Style Oktoberfest,5.900000095399999,912
+748,Konig Ludwig Weissbier,South German-Style Hefeweizen,5.5,912
+749,Single-Malt-Bier,American-Style Lager,0.0,913
+750,Ur-Weizen,South German-Style Hefeweizen,5.0,913
+751,WeiÃŸe Export / Helle WeÃŸe,South German-Style Hefeweizen,0.0,914
+752,Wells Banana Bread Beer,Fruit Beer,5.1999998093,915
+753,Wells Bombardier English Bitter,Special Bitter or Best Bitter,5.1999998093,915
+754,Young's Winter Warmer,Winter Warmer,5.1999998093,915
+755,Pils Legende,German-Style Pilsener,4.9000000954,916
+756,WernesgrÃ¼ner Pils Legende,German-Style Pilsener,4.9000000954,917
+757,Mackeson XXX Stout,Sweet Stout,4.9000000954,918
+758,East India IPA,American-Style India Pale Ale,0.0,919
+759,Whitstable Oyster Stout,American-Style Stout,0.0,919
+760,Grozet Gooseberry and Wheat Ale,Light American Wheat Ale or Lager,5.0,920
+761,Norfolk Nog Old Dark Ale,Old Ale,99.989997864,921
+762,Julius Echter Hefe-WeiÃŸbier Hell,South German-Style Hefeweizen,0.0,922
+763,Hobgoblin,Dark American-Belgo-Style Ale,5.5,923
+764,Old Devil,English-Style Pale Mild Ale,0.0,923
+765,Black Wych Stout,American-Style Stout,0.0,923
+766,Bah Humbug,Old Ale,6.0,923
+767,Duchy Originals Organic English Ale,Extra Special Bitter,5.0,924
+768,Yippee IPA,American-Style India Pale Ale,0.0,925
+769,Downtown Brown,American-Style Brown Ale,0.0,925
+770,Winter Warmer,Old Ale,5.1999998093,926
+771,Double Chocolate Stout,Sweet Stout,5.1999998093,926
+772,Oatmeal Stout,American-Style Stout,5.1999998093,926
+773,Special London Ale,Old Ale,6.400000095399999,926
+774,Yeti Special Export,American-Style Lager,7.0,927
+775,Noblesse,Golden or Blonde Ale,6.0,928
+776,embrasse,Belgian-Style Dark Strong Ale,9.0,928
+777,Baltas Alus,South German-Style Hefeweizen,5.1999998093,929

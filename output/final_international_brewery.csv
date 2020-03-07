@@ -1,0 +1,353 @@
+,Brewery Id,Brewery Name,City,State,Country,Beer Count,Rating
+0,578,3 Fonteinen Brouwerij Ambachtelijke Geuzestekerij,Beersel,Vlaams Brabant,Belgium,2,NaN
+2,579,Aass Brewery,Drammen,,Norway,5,4.4
+7,580,Abbaye Notre Dame du St Remy,Rochefort,Namur,Belgium,2,4.2
+9,581,Abbaye de Leffe,Dinant,Namur,Belgium,1,4.2
+10,582,Abbaye de Maredsous,Dene,Namur,Belgium,3,4.3
+13,583,Abhi Brewery,,,India,0,NaN
+14,584,Adnams & Co.,Southwold,Suffolk,United Kingdom,6,4.5
+20,585,Affligem Brouwerij,Opwijk,,Belgium,1,NaN
+21,586,Agassiz Brewing,Winnipeg,Manitoba,Canada,1,4.5
+22,587,Aktienbrauerei Kaufbeuren,Kaufbeuren,Bayern,Germany,1,3.7
+23,588,Aldaris,Rga,,Latvia,1,NaN
+24,589,Allguer Brauhaus AG Kempten,Kempten,Bayern,Germany,4,4.2
+28,590,Alvinne Picobrouwerij,Ingelmunster,West-Vlaanderen,Belgium,1,4.8
+29,591,Amstel Brouwerij,Amsterdam,,Netherlands,1,NaN
+30,592,Andechser Klosterbrauerei,Andechs,Bayern,Germany,1,4.8
+31,593,Arthur Guinness & Son,Dublin,,Ireland,6,NaN
+37,594,Asahi Breweries,Tokyo,Kanto,Japan,2,4.3
+39,595,Augustiner-BrÃ¤u MÃ¼nchen,MÃ¼nchen,Bayern,Germany,2,NaN
+41,596,Australian Brewing Corporation,Little River,Victoria,Australia,1,NaN
+42,597,BOSS Browar Witnica S.A.,Witnica,,Poland,2,4.5
+44,598,Baltika Breweries,St. Petersburg,,Russia,1,NaN
+45,599,Bamberger Mahr's-Bru,Bamberg,Bayern,Germany,4,NaN
+49,600,Barfer - das kleine Brauhaus,Ulm,Baden-Wrttemberg,Germany,2,NaN
+51,601,Bass Brewers,Burton-upon-Trent,Staffordshire,United Kingdom,1,4.6
+52,602,Bayerische Staatsbrauerei Weihenstephan,Freising,Bayern,Germany,4,4.3
+56,603,Beamish & Crawford,Cork,,Ireland,1,4.8
+57,604,Beck's,,,Germany,0,4.1
+58,605,Belhaven Brewery,East Lothian,Scotland,United Kingdom,3,3
+61,606,Belize Brewing,Belize City,,Belize,1,4.5
+62,607,Bierbrouwerij Bavaria,Lieshout,,Netherlands,1,4.5
+63,608,Bierbrouwerij De Koningshoeven,Berkel-Enschot,,Netherlands,4,4.6
+67,609,Bierbrouwerij St.Christoffel,Roermond,,Netherlands,2,4.5
+69,610,Big Ridge Brewing,Surrey,British Columbia,Canada,7,4.1
+76,611,Big River Brewing,Richmond,British Columbia,Canada,4,4.5
+80,612,Big Rock Brewery,Calgary,Alberta,Canada,5,4.3
+85,613,Birra Forst,Lagundo / Algund,,Italy,1,4.9
+86,614,Birra Moretti,Udine,,Italy,2,5
+88,615,Birrificia Le Baladin,Piozzo,,Italy,1,NaN
+89,616,Bitburger Brauerei,Bitburg,Rheinland-Pfalz,Germany,1,NaN
+90,617,Black Creek Historic Brewery,Toronto,Ontario,Canada,1,NaN
+91,618,Borsodi SÃ¶rgyÃ¡r,BÃ¶cs,,Hungary,1,NaN
+92,619,Brasal-Brasserie Allemande,LaSalle,Quebec,Canada,1,0
+93,620,Brasserie Artisanale de Rulles,Habay-Rulles,Luxembourg,Belgium,1,4.5
+94,621,Brasserie D'Achouffe,Houffalize-Achouffe,Luxembourg,Belgium,2,4.1
+96,622,Brasserie Ellezelloise,Ellezelles,Hainaut,Belgium,1,NaN
+97,623,Brasserie Grain D'Orge,Ronchin,,France,1,4.6
+98,624,Brasserie McAuslan,Montreal,Quebec,Canada,3,4.5
+101,625,Brasserie d'Orval,Villers-devant-Orval,Luxembourg,Belgium,2,4.7
+103,626,Brasserie de Blaugies,Blaugies,Hainaut,Belgium,1,4.7
+104,627,Brasserie de Brunehaut,Brunehaut,Hainaut,Belgium,7,4.4
+111,628,Brasserie de Cazeau,,,Belgium,0,4.6
+112,629,Brasserie de Silly,Silly,Hainaut,Belgium,1,3.8
+113,630,Brasserie de Tahiti,Tahiti,,French Polynesia,1,4.1
+114,631,Brasserie de l'Abbaye Val-Dieu,Aubel,Lige,Belgium,1,4.3
+115,632,Brasserie de la Senne,Sint-Pieters-Leeuw,Vlaams Brabant,Belgium,1,4.7
+116,633,Brasserie des Vosges,Dommartin les Remiremont,,France,1,4.1
+117,634,Brasserie du Bouffay,Carquefou,,France,1,4.8
+118,635,Brasserie-Brouwerij Cantillon,Anderlecht,Brussel,Belgium,9,4.6
+127,636,Brauerei & Gasthof zur Krone,Tettnang,Baden-Wrttemberg,Germany,2,4.6
+129,637,Brauerei Aying Franz Inselkammer KG,Aying,Bayern,Germany,4,4.7
+133,638,Brauerei Beck,Bremen,Bremen,Germany,3,NaN
+136,639,Brauerei Fssla,Bamberg,Bayern,Germany,1,NaN
+137,640,Brauerei Gbr. Maisel KG,Bayreuth,,Germany,1,4.3
+138,641,Brauerei Grieskirchen AG,Grieskirchen,,Austria,1,NaN
+139,642,Brauerei Herrenhausen,Hannover,Niedersachsen,Germany,1,4.6
+140,643,Brauerei Hrlimann,Zrich,,Switzerland,1,NaN
+141,644,Brauerei Leibinger,Ravensburg,Baden-Wrttemberg,Germany,1,4.4
+142,645,Brauerei Schumacher,Dsseldorf,Nordrhein-Westfalen,Germany,1,4.2
+143,646,Brauerei Schwelm,Schwelm,Nordrhein-Westfalen,Germany,1,NaN
+144,647,Brauerei Spezial,Bamberg,Bayern,Germany,1,4.4
+145,648,Brauerei im Fchschen,DÃ¼sseldorf,Nordrhein-Westfalen,Germany,1,4.3
+146,649,Brauerei und Altbierkche Pinkus Mller,Mnster,Nordrhein-Westfalen,Germany,3,4.4
+149,650,Brauhaus Johann Albrecht - Konstanz,Konstanz,Baden-Wrttemberg,Germany,4,3.9
+153,651,Brauhaus Sternen,Frauenfeld,,Switzerland,4,NaN
+157,652,Brauhaus am WaldschlÃ¶sschen,Dresden,Sachsen,Germany,1,NaN
+158,653,BrewDog Ltd,Fraserburgh,,United Kingdom,12,NaN
+170,654,Brewery Belle-Vue,Molenbeek,Brussel,Belgium,1,4.9
+171,655,Brewery Budweiser Budvar,,Ceske Budejovice,Czech Republic,0,4.5
+172,656,Brewery De Troch,Ternat,Vlaams Brabant,Belgium,6,4.5
+178,657,Breznak,,,Czech Republic,0,NaN
+179,658,Brick Brewing,Formosa,Ontario,Canada,2,NaN
+181,659,Broughton Ales,The Borders,Scotland,United Kingdom,2,4.8
+183,660,Brouwerij Abdij Saint Sixtus,Westvleteren,West-Vlaanderen,Belgium,3,4.5
+186,661,Brouwerij Abdij der Trappisten van Westmalle,Westmalle,Antwerpen,Belgium,1,4.5
+187,662,Brouwerij Artois,Leuven,Vlaams Brabant,Belgium,1,4.5
+188,663,Brouwerij Bavik - De Brabandere,Bavikhove,West-Vlaanderen,Belgium,2,4.8
+190,664,Brouwerij Boon,Lembeek,Vlaams Brabant,Belgium,4,4.6
+194,665,Brouwerij Bosteels,Buggenhout,Oost-Vlaanderen,Belgium,1,0
+195,666,Brouwerij De Dolle Brouwers,Esen,West-Vlaanderen,Belgium,2,4.8
+197,667,Brouwerij De Keersmaeker,Kobbegem,Vlaams Brabant,Belgium,1,NaN
+198,668,Brouwerij Duvel Moortgat,Breendonk,,Belgium,2,4.4
+200,669,Brouwerij Girardin,Sint-Ulriks-Kapelle,Vlaams Brabant,Belgium,1,4.6
+201,670,Brouwerij Het Anker,Mechelen,Antwerpen,Belgium,1,4.3
+202,671,Brouwerij Huyghe,Melle,Oost-Vlaanderen,Belgium,3,4.4
+205,672,Brouwerij Liefmans,Oudenaarde,Oost-Vlaanderen,Belgium,2,4.3
+207,673,Brouwerij Lindemans,Vlezenbeek,Vlaams Brabant,Belgium,4,4.9
+211,674,Brouwerij Nacional Balashi,,,Aruba,0,4.3
+212,675,Brouwerij Oud Beersel,Beersel,Vlaams Brabant,Belgium,1,4.7
+213,676,Brouwerij St. Bernardus,Watou,West-Vlaanderen,Belgium,8,4.5
+221,677,Brouwerij The Musketiers,Ursel,Oost-Vlaanderen,Belgium,1,4.7
+222,678,Brouwerij Van Eecke,Watou,West-Vlaanderen,Belgium,1,5
+223,679,Brouwerij Van Honsebrouck,Ingelmunster,West-Vlaanderen,Belgium,1,4.4
+224,680,Brouwerij Van Steenberge,Ertvelde,Oost-Vlaanderen,Belgium,7,4.7
+231,681,Brouwerij der Sint-Benedictusabdij de Achelse Kluis,Achel,,Belgium,4,4.1
+235,682,Brouwerij van Hoegaarden,Hoegaarden,Vlaams Brabant,Belgium,1,3.5
+236,683,Browar NamysÅ‚Ã³w Sp. z o.o.,NamysÅ‚Ã³w,,Poland,1,NaN
+237,684,Browar Okocim,Brzesko,,Poland,1,4.2
+238,685,Browar Warka,Warka,,Poland,1,4.1
+239,686,Browar Zywiec,Zywiec,,Poland,1,4.5
+240,687,Bryggeriet lfabrikken,Tisvildeleje,,Denmark,1,NaN
+241,688,Bulmer Cider,Hereford,,United Kingdom,1,NaN
+242,689,Burton Bridge Brewery,Burton-upon-Trent,Staffordshire,United Kingdom,3,4.7
+245,690,BÃ¼rgerbrÃ¤u Wolnzach,Wolnzach,Bayern,Germany,1,NaN
+246,691,Cains,Liverpool,Merseyside,United Kingdom,5,4.5
+251,692,Cameron's Brewing,Oakville,Ontario,Canada,1,4.6
+252,693,Carlow Brewing Company,Carlow,,Ireland,1,4.4
+253,694,Carlsberg Bryggerierne,Kbenhavn,,Denmark,2,NaN
+255,695,Carlsberg Sverige AB,Falkenberg,,Sweden,2,5
+257,696,Central City Brewing Company,Surrey,British Columbia,Canada,4,3.9
+261,697,Cervecera Centro Americana S.A.,Guatemala City,,Guatemala,1,4.5
+262,698,Cervecera Cuauhtmoc-Moctezuma,Monterrey,Nuevo Leon,Mexico,7,NaN
+269,699,Cervecera Hondurea,San Pedro Sula,,Honduras,1,NaN
+270,700,Cervecera Jerome,Mendoza,,Argentina,4,NaN
+274,701,Cervecera Nacional,El Dorado,,Panama,3,NaN
+277,702,Cerveceria Bucanero,Holguin,,Cuba,1,0
+278,703,CervecerÃ­a La Constancia,San Salvador,,El Salvador,1,NaN
+279,704,Cervejaria Kaiser Brasil,Ponta Grossa,Paran,Brazil,1,4
+280,705,Cervejaria Sudbrack,Blumenau,Santa Catarina,Brazil,3,NaN
+283,706,Cervejaria de Macau,Macao,,Macao,1,4.1
+284,707,Cervezas Alhambra,Granada,,Spain,1,4.3
+285,708,Chimay (Abbaye Notre Dame de Scourmont),Chimay,,Belgium,3,4.3
+288,709,Coopers Brewery,Regency Park,South Australia,Australia,8,4.4
+296,710,Cucapa Brewing Company,Mexicali,Baja,Mexico,1,NaN
+297,711,Daas,Tournai,,Belgium,2,NaN
+299,712,Daleside Brewery,Harrogate,North Yorkshire,United Kingdom,2,4.2
+301,713,De Friese Bierbrouwerij Us Heit,Bolsward,,Netherlands,1,5
+302,714,De Halve Maan,Brugge,West-Vlaanderen,Belgium,2,4.5
+304,715,De Leyerth Brouwerijen,Ruiselede,West-Vlaanderen,Belgium,2,NaN
+306,716,De Struise Brouwers,Woesten,West-Vlaanderen,Belgium,1,4.8
+307,717,Desnoes & Geddes Ltd,Kingston,,Jamaica,3,NaN
+310,718,Diebels Privatbrauerei,Issum,Nordrhein-Westfalen,Germany,2,NaN
+312,719,Dinkelacker-Schwaben Bru,Stuttgart,Baden-Wrttemberg,Germany,1,NaN
+313,720,Dix Barbecue & Brewery,Vancouver,British Columbia,Canada,4,NaN
+317,721,Dockside Brewing,Vancouver,British Columbia,Canada,4,0
+321,722,Dortmunder Actien Brauerei  DAB,Dortmund,Nordrhein-Westfalen,Germany,3,4.7
+324,723,Dreher Srgyrak Zrt.,Budapest,,Hungary,2,NaN
+326,724,Dublin Brewing,Dublin,,Ireland,1,4.7
+327,725,Duvel Moortgat,Breendonk,Antwerpen,Belgium,1,4.4
+328,726,Dux de Lux,Queenstown,,New Zealand,1,5
+329,727,Edelweissbrauerei Farny,Kilegg,Baden-Wrttemberg,Germany,1,4.7
+330,728,Eder & Heylands,GroÃŸostheim,Bavaria,Germany,1,NaN
+331,729,Einbecker Brauhaus AG,Einbeck,Niedersachsen,Germany,2,4.8
+333,730,Elgood & Sons,Wisbech,Cambridge,United Kingdom,1,NaN
+334,731,Emerson Brewing,Dunedin,,New Zealand,1,4.7
+335,732,Engel Brauerei Schwbisch Gmnd Lang,Schwbisch Gmnd,Baden-Wrttemberg,Germany,1,NaN
+336,733,Epic Brewing Company,Auckland,,New Zealand,1,4.5
+337,734,Ettaler Klosterbetriebe Abteilung Brauerei & Destillerie,Ettal,Bayern,Germany,1,3.3
+338,735,Federation Brewery,Gateshead,Tyne and Wear,United Kingdom,2,4.5
+340,736,Flensburger Brauerei,Flensburg,Schleswig-Holstein,Germany,1,4.5
+341,737,Foster's Australia Ltd.,,,Australia,0,0
+343,738,Freeminer Brewery,Cinderford,Gloucestershire,United Kingdom,2,NaN
+345,739,Frstliche Brauerei Thurn Und Taxis Regensburg,Regensburg,Bayern,Germany,1,3.4
+346,740,"Fuller, Smith & Turner PBC",London,London,United Kingdom,5,NaN
+351,741,Gasthaus-Brauerei Max & Moritz,Kressbronn am Bodensee,Baden-Wrttemberg,Germany,2,4.7
+353,742,Gasthof-Brauerei zum Frohsinn,Arbon,,Switzerland,1,4.5
+354,743,Gatz Brauhaus,Dsseldorf,Nordrhein-Westfalen,Germany,1,NaN
+355,744,George Gale & Company,Portsmouth,Hampshire,United Kingdom,2,NaN
+357,745,Gold Coast Brewery,Sanctuary Cove,Queensland,Australia,1,4.7
+358,746,Gold Crown Brewing,Waterloo,Ontario,Canada,1,5
+359,747,Granville Island Brewing,Kelowna,British Columbia,Canada,1,4.3
+360,748,Granville Island Brewing Company,Vancouver,British Columbia,Canada,10,4.3
+370,749,Greene King,Bury St. Edmunds,Suffolk,United Kingdom,2,4.4
+372,750,Grolsche Bierbrouwerij,Enschede,Overijssel,Netherlands,5,4.3
+377,751,Grupo Modelo,Mexico City,,Mexico,5,NaN
+382,752,Gulpener Bierbrouwerij,Gulpen,,Netherlands,1,4.5
+383,753,Hacker-Pschorr Bru,Mnchen,Bayern,Germany,2,NaN
+385,754,Half Pints Brewing Company,Winnipeg,Manitoba,Canada,1,4.7
+386,755,Hambleton Ales,Melmerby,North Yorkshire,United Kingdom,1,5
+387,756,Hampshire Brewery,Romsey,Hampshire,United Kingdom,1,5
+388,757,Hannen Brauerei,Mnchengladbach,Nordrhein-Westfalen,Germany,2,NaN
+390,758,Hanssens Artisanal,Dworp,Vlaams Brabant,Belgium,3,NaN
+393,759,Harvey & Son (Lewes),Lewes,East Sussex,United Kingdom,2,0
+395,760,Harviestoun Brewery,Alva,Scotland,United Kingdom,1,4.8
+396,761,Hausbrauerei Zum Schlssel,Dsseldorf,Nordrhein-Westfalen,Germany,1,4
+397,762,Heineken HungÃ¡ria,Sopron,,Hungary,1,NaN
+398,763,Heineken International,,,Netherlands,0,NaN
+400,764,Heineken Switzerland,Winterthur,,Switzerland,1,3.3
+401,765,Heller Bru Trum,Bamberg,Bayern,Germany,2,NaN
+403,766,Hida Takayama Brewing Agricultural Company,Takayama,Chubu,Japan,1,NaN
+404,767,Hirschbru Privatbrauerei Hss,Sonthofen,Bayern,Germany,2,NaN
+406,768,Hite Brewery,Seoul,,"Korea, Republic of",1,4.5
+407,769,Hochstiftliches Brauhaus in Bayern,Motten,Bayern,Germany,1,4.8
+408,770,Hoepfner Privatbrauerei,Karlsruhe,Baden-Wrttemberg,Germany,1,NaN
+409,771,Hofbru Kaltenhausen Salzachtal,Hallein,,Austria,1,NaN
+410,772,Holsten-Brauerei,Hamburg,Hamburg,Germany,1,4
+411,773,Hook Norton Brewery,Hook Norton,Oxford,United Kingdom,1,4.7
+412,774,Hop Back Brewery,Salisbury,Wiltshire,United Kingdom,2,5
+414,775,InBev,Leuven,,Belgium,1,4.7
+415,776,Industrias La Constancia ILC,San Salvador,,El Salvador,4,NaN
+419,777,Inveralmond Brewery,Perth,Scotland,United Kingdom,1,5
+420,778,Isle of Skye Brewing Company,Isle of Skye,Scotland,United Kingdom,1,4.3
+421,779,JW Lees and Co (Brewers) Ltd.,Manchester,Manchester,United Kingdom,9,NaN
+430,780,Jennings Brewery,Cockermouth,Cumbria,United Kingdom,1,4.8
+431,781,Jever Brewery,"Jever, Germany",,Germany,1,4.4
+432,782,Jinro Coors Brewing,Seoul,,"Korea, Republic of",1,NaN
+433,783,John Martin sa,Genval,,Belgium,1,NaN
+434,784,Kaiserdom Privatbrauerei Bamberg,Bamberg,Bayern,Germany,1,3.4
+435,785,Keesmann Bru,Bamberg,Bayern,Germany,1,NaN
+436,786,Keihan Uji Kotsu,Uji,Kinki,Japan,1,NaN
+437,787,Kenya Breweries,Nairobi,,Kenya,1,4.2
+438,788,"Kirin Brewery Company, Ltd",,,Japan,0,NaN
+439,789,Kiuchi Shuzou Goushi Kaisya,Ibaraki,Kanto,Japan,4,NaN
+443,790,Klosterbrauerei Neuzelle,Neuzelle,Brandenburg,Germany,3,4.4
+446,791,Klosterbrauerei Weltenburg,Regensburg,Bayern,Germany,3,4.2
+449,792,Klosterbru Bamberg,Bamberg,Bayern,Germany,3,3.9
+452,793,Knig Ludwig Schlobrauerei Kaltenberg,Frstenfeldbruck,Bayern,Germany,1,NaN
+453,794,KrÃ¡lovskÃ½ pivovar KruÅ¡ovice,KruÅ¡ovice,,Czech Republic,1,NaN
+454,795,Kulmbacher Brauerei AG,Kulmbach,Bayern,Germany,6,3.4
+460,796,KÃ¶stritzer Schwarzbierbrauerei,Bad KÃ¶stritz,ThÃ¼ringen,Germany,3,NaN
+463,797,Labatt Ontario Breweries,London,Ontario,Canada,12,4.2
+475,798,Lanchester Brewing,Durham,Durham,United Kingdom,1,NaN
+476,799,Lighthouse Brewing,Victoria,British Columbia,Canada,1,4.6
+477,800,Lion Brewery Ceylon Ltd.,Colombo,,Sri Lanka,1,4.3
+478,801,Lion Nathan Australia  Hunter Street,Sydney,New South Wales,Australia,1,NaN
+479,802,Little Creatures Brewery,Fremantle,WA,Australia,1,4.1
+480,803,Lwenbru Zrich,Zrich,,Switzerland,1,NaN
+481,804,LÃ¶wenbrÃ¤u Brauerei,MÃ¼nchen,Bayern,Germany,1,NaN
+482,805,Maclay and Co.,Clackmannan,Scotland,United Kingdom,1,0
+483,806,Maisel Bru,Bamberg,Bayern,Germany,1,NaN
+484,807,Malt Shovel Brewery,Camperdown,New South Wales,Australia,2,NaN
+486,808,Marine Pub & Brewhouse,Burnaby,British Columbia,Canada,2,4.4
+488,809,Martini-Brauerei,Kassel,Hessen,Germany,1,4.7
+489,810,McMullen & Sons,Hertford,Hertfordshire,United Kingdom,2,0
+491,811,Meantime Brewing Company Limited,Greenwich,London,United Kingdom,3,4.5
+494,812,Mikkeller,KÃ¸benhavn,,Denmark,2,4.5
+496,813,Mission Springs Brewing,Mission,British Columbia,Canada,3,4
+499,814,Mohrenbrauerei August Huber,Dornbirn,,Austria,1,4.4
+500,815,Molson Breweries of Canada,Toronto,Ontario,Canada,9,3.5
+509,816,Monteith's Brewing Co.,Greymouth,,New Zealand,2,NaN
+511,817,Moorhouse's Brewery (Burnley),Burnley,Lancashire,United Kingdom,2,5
+513,818,Moosehead Breweries,Saint John,New Brunswick,Canada,2,4.4
+515,819,Morland and Co.,Abingdon,Oxford,United Kingdom,1,NaN
+516,820,Myanmar Brewery and Distillery,Yangon,,Myanmar,1,4.3
+517,821,Namibia Breweries,Windhoek,,Namibia,1,NaN
+518,822,Nelson Brewing,Nelson,British Columbia,Canada,1,4.8
+519,823,Nethergate Brewery Co Ltd,Pentlow,Essex,United Kingdom,1,NaN
+520,824,New Zealand Breweries Limited,,,New Zealand,0,NaN
+521,825,Niagara Falls Brewing,Niagara Falls,Ontario,Canada,7,4.1
+528,826,Nikenjayamochi Kadoya Honten Co.,,,Japan,0,NaN
+529,827,NÃ¸gne Ã˜ - Det KompromisslÃ¸se Bryggeri A/S,Grimstad,Lunde,Norway,14,NaN
+543,828,Oriental Brewery,,,"Korea, Republic of",0,0
+544,829,Orkney Brewery,Orkney,Scotland,United Kingdom,4,5
+548,830,Ostankinskij Pivovarennij Zavod,Moskva,Moskva,Russia,1,NaN
+549,831,Oy Sinebrychoff AB,Kerava,,Finland,1,4.3
+550,832,Palm Breweries,Steenhuffel,Brabant,Belgium,1,4.1
+551,833,Paulaner,Munich,,Germany,8,NaN
+559,834,Pivara Skopje,Skopje,,"Macedonia, the Former Yugoslav Republic of",1,4.5
+560,835,Pivovar Hradec Krlov,Hradec Krlov,,Czech Republic,1,5
+561,836,Pivovar Nchod,Nchod,,Czech Republic,2,NaN
+563,837,Pivovar Pardubice a.s.,Pardubice,,Czech Republic,1,4.1
+564,838,Pivovary Staropramen,Praha,,Czech Republic,1,4.1
+565,839,Pivzavod Baltika /,Sankt-Peterburg,Sankt-Peterburg,Russia,4,NaN
+569,840,Plzesk Prazdroj,Plze,,Czech Republic,1,NaN
+570,841,Pripps Ringnes Bryggerier,Bromma,,Sweden,1,NaN
+571,842,Privat-Brauerei Schmucker Ober-Mossau KG,Mossautal,Hessen,Germany,1,4.9
+572,843,Privatbrauerei Bolten,Korschenbroich,Nordrhein-Westfalen,Germany,1,NaN
+573,844,Privatbrauerei Erdinger Weissbru,Erding,Bayern,Germany,3,4.7
+576,845,Privatbrauerei Frankenheim,Dsseldorf,Nordrhein-Westfalen,Germany,1,4
+577,846,Private Weissbierbrauerei G. Schneider & Sohn GmbH,Kelheim,,Germany,6,NaN
+583,847,Privater Brauereigasthof Greifenklau,Bamberg,Bayern,Germany,1,NaN
+584,848,Qingdao Brewery,Qingdao,Shandong,China,1,4.3
+585,849,R&B; Brewing,Vancouver,British Columbia,Canada,1,4.7
+586,850,RCH Brewery,Weston-super-Mare,Somerset,United Kingdom,2,5
+588,851,Radeberger Exportbierbrauerei,Radeberg,Sachsen,Germany,1,4.3
+589,852,Restaurant Isarbru,Pullach im Isartal,Bayern,Germany,1,NaN
+590,853,Ridgeway Brewing,South Stoke,Oxford,United Kingdom,4,5
+594,854,Ruppaner-Brauerei,Konstanz,Baden-Wrttemberg,Germany,1,3.7
+595,855,Russell Brewing,Surrey,British Columbia,Canada,3,4.9
+598,856,S.A. Damm,Barcelona,,Spain,4,NaN
+602,857,"Sabmiller India,",Bangalore,Karnataka,India,9,4
+611,858,Saku lletehas,Saku,,Estonia,1,NaN
+612,859,Salopian Brewery,Shrewsbury,Shropshire,United Kingdom,1,4.8
+613,860,Samuel Smith Old Brewery (Tadcaster),Tadcaster,North Yorkshire,United Kingdom,7,2.8
+620,861,San Miguel Corporation,Manila,,Philippines,1,4.7
+621,862,Sapporo Breweries - Chuo,Tokyo,Kanto,Japan,2,NaN
+623,863,Scharer's Little Brewery,Picton,NSW,Australia,1,0
+624,864,Schlobrauerei Reckendorf,Reckendorf,Bayern,Germany,1,NaN
+625,865,Schloss Eggenberg,Vorchdorf,,Austria,4,4.6
+629,866,Schlossbru,Dornbirn,,Austria,2,NaN
+631,867,Schussenrieder Erlebnisbrauerei,Bad Schussenried,Baden-Wrttemberg,Germany,2,4.2
+633,868,SchÃ¶fferhofer,Frankfurt/Main,Hessen,Germany,2,NaN
+635,869,Scotch Irish Brewing,Carleton Place,Ontario,Canada,1,0
+636,870,Scottish & Newcastle Breweries,Newcastle-upon-Tyne,Northumberland,United Kingdom,1,0
+637,871,Shaftebury Brewing,Delta,British Columbia,Canada,1,NaN
+638,872,Simmerberg Brusttt und Taferne,Simmerberg,Bayern,Germany,2,NaN
+640,873,Skol Breweries,Maharashtra,,India,1,NaN
+641,874,Sleeman Brewing & Malting,Guelph,Ontario,Canada,2,4.4
+643,875,South Australian Brewing,Adelaide,South Australia,Australia,1,3.3
+644,876,Spaten-Franziskaner-BrÃ¤u,MÃ¼nchen,Bayern,Germany,5,NaN
+649,877,St Peter's Brewery,Bungay,Suffolk,United Kingdom,6,4.2
+655,878,St. Austell Brewery,St. Austell,Cornwall,United Kingdom,3,4.5
+658,879,St. Francis Abbey Brewery,Kilkenny,,Ireland,1,4.6
+659,880,Staatliches HofbrÃ¤uhaus in MÃ¼nchen,MÃ¼nchen,Bayern,Germany,4,3.5
+663,881,Steam Whistle Brewery,Toronto,ON,Canada,1,4.7
+664,882,Steamworks,Vancouver,British Columbia,Canada,13,4.1
+677,883,Steinfels Back & Brau,Zrich,,Switzerland,2,NaN
+679,884,Stieglbrauerei zu Salzburg GmbH,Salzburg,,Austria,5,4.5
+684,885,Storm Brewing,Vancouver,British Columbia,Canada,5,4.8
+689,886,Strangford Lough Brewing Company Ltd,Killyleagh,County Down,Ireland,5,NaN
+694,887,Stuttgarter Hofbru,Stuttgart,Baden-Wrttemberg,Germany,1,NaN
+695,888,Swan Brewery,Canning Vale,Western Australia,Australia,1,4.7
+696,889,Taiwan Tobacco and Wine Monopoly Board,Taipei,,"Taiwan, Province of China",1,NaN
+697,890,Taylor's Crossing Brewing,North Vancouver,British Columbia,Canada,6,0
+703,891,Tennent Caledonian Brewery,Glasgow,Scotland,United Kingdom,1,4.3
+704,892,Timmermans,Itterbeek,,Belgium,4,4.6
+708,893,Tin Whistle Brewing,Penticton,British Columbia,Canada,1,4.5
+709,894,Tollemache and Cobbold Brewery,Ipswich,Suffolk,United Kingdom,1,NaN
+710,895,Tongerlo,Westerlo,Antwerp,Belgium,4,NaN
+714,896,Tooheys,Sydney,New South Wales,Australia,1,NaN
+715,897,Tooth's,Sydney,New South Wales,Australia,1,4.5
+716,898,Traquair House Brewery,Innerleithen,Scotland,United Kingdom,1,4.6
+717,899,"Tropical Beverage (International) Co., Ltd",Bangkok,,Thailand,1,NaN
+718,900,Tsingtao,Qingdao,Shandong,China,1,NaN
+719,901,Tucher Bru,Nrnberg,Bayern,Germany,2,NaN
+721,902,Tui Brewery,Mangatainoka,,New Zealand,1,4.1
+722,903,Uehara Shuzou Co. Ltd. / Echigo Beer Pub,,,Japan,0,NaN
+723,904,Uerige Obergrige Hausbrauerei,Dsseldorf,Nordrhein-Westfalen,Germany,3,4.5
+726,905,Unibroue,Chambly,Quebec,Canada,13,4.6
+739,906,Unicer,,,Portugal,0,NaN
+740,907,Unionsbru Haidhausen,Mnchen,Bayern,Germany,1,NaN
+741,908,United Breweries Limited,Bangalore,,India,2,4.1
+743,909,Ushers of Trowbridge,Trowbridge,Wiltshire,United Kingdom,1,NaN
+744,910,Utenos Alus,Utena,,Lithuania,1,NaN
+745,911,Van Honsebrouch,Ingelmunster,,Belgium,1,NaN
+746,912,Warsteiner Brauerei,Warstein,Nordrhein-Westfalen,Germany,3,4.4
+749,913,Wdi-Bru-Huus,Wdenswil,,Switzerland,2,NaN
+751,914,Weissbierbrauerei Hopf,Miesbach,Bayern,Germany,1,4.8
+752,915,Wells and (&) Youngs Brewing Company Ltd.,,,United Kingdom,0,0
+755,916,WernesgrÃ¼ner Brauerei,Steinberg/Sachsen,Sachsen,Germany,1,NaN
+756,917,WernesgrÃ¼ner Brauerei GmbH,"Steinberg-WernesgrÃ¼n, Germany",,Germany,1,NaN
+757,918,Whitbread Beer Company,Luton,Bedford,United Kingdom,1,NaN
+758,919,Whitstable Brewery,Maidstone,Kent,United Kingdom,2,3.8
+760,920,Williams Brothers Brewing Company,Alloa,Scotland,United Kingdom,1,4.8
+761,921,Woodforde's Norfolk Ales,Norwich,Norfolk,United Kingdom,1,4.6
+762,922,Wrzburger Hofbru AG,Wrzburg,Bayern,Germany,1,NaN
+763,923,Wychwood Brewery,Witney,Oxford,United Kingdom,4,4.7
+767,924,Wychwood Brewery Company Ltd,,,United Kingdom,0,NaN
+768,925,Yaletown Brewing,Vancouver,British Columbia,Canada,2,4
+770,926,Youngs & Company Brewery,London,,England,4,4.7
+774,927,Yuksom Breweries,Malli,Sikkim,India,1,3.9
+775,928,de dochter van de korenaar,baarle-hertog,,Belgium,2,4.6
+777,929,vyturio Alaus Darykla,Klaipda,,Lithuania,1,NaN
